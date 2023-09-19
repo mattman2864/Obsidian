@@ -14,8 +14,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "8f665ee2cd1fde9e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +177,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8e57ee4d3edb5a3e",
+  "active": "8f665ee2cd1fde9e",
   "lastOpenFiles": [
     "Britain.md",
     "Constitutional Monarchy.md",
