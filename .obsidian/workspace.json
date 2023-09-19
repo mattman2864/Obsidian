@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "eabff007a33d1829",
+        "id": "7ca225814b16a5bf",
         "type": "tabs",
         "children": [
           {
-            "id": "fd8436937fcc12d9",
+            "id": "9513fd44d9387281",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Monarchy.md",
-                "staged": true
+                "file": "Confidence Interval.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Confidence Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Confidence Interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Confidence Interval.md"
+              }
             }
           },
           {
@@ -170,39 +175,39 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fd8436937fcc12d9",
+  "active": "9513fd44d9387281",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Confidence Interval.md",
+    "Conductor.md",
+    "Composition.md",
+    "Composite Functions.md",
+    "Common Sense.md",
+    "Committees of Correspondence.md",
+    "Cog (ship).md",
+    "Classical Age.md",
+    "Classes.md",
+    "Civic Humanism.md",
+    "Chain Rule.md",
+    "Central Limit Theorem.md",
+    "Char.md",
+    "Charge.md",
     "Monarchy.md",
     "Circuit.md",
     "Chemical Reaction.md",
-    "Charge.md",
     "Britain.md",
     "Line.md",
-    "conflict-files-obsidian-git.md",
     "Voltage.md",
     "Semiconductor.md",
     "Power.md",
     "Insulator.md",
     "Current.md",
     "Constitutional Monarchy.md",
-    "Conductor.md",
-    "Ancient Egypt.md",
     "Greece Map.gif",
-    "Regression Analysis.md",
-    "Slope.md",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
     "calcbcfig1-1.png",
-    "Classes.md",
-    "Benjamin Franklin.md",
     "Benjamin Franklin Portrait.jpg",
-    "Battles of Trenton and Princeton.md",
-    "Battles of Saratoga.md",
-    "Battle of Fallen Timbers.md",
-    "Baldassare Castiglione.md",
-    "Astrolabe.md",
-    "Articles of Confederation.md",
-    "Arrays.md",
     "Alexander Hamilton Portrait.jpg",
     "Excalidraw",
     "Iranian_Astrolabe_14.jpg",
