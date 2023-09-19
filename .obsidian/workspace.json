@@ -173,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +190,7 @@
   },
   "active": "2aeb97875537aa90",
   "lastOpenFiles": [
+    "Chemical Reaction.md",
     "Slope.md",
     "Line.md",
     "Ancient Egypt.md",
@@ -223,7 +223,6 @@
     "Black Death.md",
     "Binary.md",
     "Quotient Rule.md",
-    "Standard Deviation.md",
     "Iranian_Astrolabe_14.jpg",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
