@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aed3e1e16c81625f",
+        "id": "eabff007a33d1829",
         "type": "tabs",
         "children": [
           {
-            "id": "a43996823b66808a",
+            "id": "fd8436937fcc12d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Line.md",
-                "mode": "source",
-                "source": false
+                "file": "Monarchy.md",
+                "staged": true
               }
             }
-          },
-          {
-            "id": "2aeb97875537aa90",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Line.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Line.md"
-              }
+              "state": {}
             }
           },
           {
@@ -184,10 +170,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2aeb97875537aa90",
+  "active": "fd8436937fcc12d9",
   "lastOpenFiles": [
-    "Ancient Egypt.md",
+    "Monarchy.md",
+    "Circuit.md",
+    "Chemical Reaction.md",
+    "Charge.md",
+    "Britain.md",
     "Line.md",
+    "conflict-files-obsidian-git.md",
+    "Voltage.md",
+    "Semiconductor.md",
+    "Power.md",
+    "Insulator.md",
+    "Current.md",
+    "Constitutional Monarchy.md",
+    "Conductor.md",
+    "Ancient Egypt.md",
     "Greece Map.gif",
     "Regression Analysis.md",
     "Slope.md",
@@ -205,20 +204,7 @@
     "Articles of Confederation.md",
     "Arrays.md",
     "Alexander Hamilton Portrait.jpg",
-    "Alexander Hamilton.md",
-    "Albany Plan of Union.md",
-    "Age of Exploration.md",
-    "1800 Election.md",
-    "Increments.md",
-    "1796 Election.md",
-    "12th Amendment.md",
-    "Excalidraw/Drawing 2023-09-16 18.07.36.excalidraw.md",
     "Excalidraw",
-    "Boolean.md",
-    "Black Death.md",
-    "Binary.md",
-    "Quotient Rule.md",
-    "Standard Deviation.md",
     "Iranian_Astrolabe_14.jpg",
     "1800 Election Results Map.png",
     "1800 Election Results.png",

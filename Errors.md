@@ -5,7 +5,7 @@ Errors can occur during [[Statistical Test]]s of significance. There are two typ
 |                      | $H_o$ true       | $H_o$ false ($H_a$ true) |
 | -------------------- | ---------------- | ------------------------ |
 | Reject $H_o$         | **Type I Error** | **Correct**              |
-| Fail to reject $H_o$ | **Correct**      | **Type II Error**        |
+| Fail to reject $H_o$ | Correct      | Type II Error        |
 ## Probabilities of Type I and II Errors
 $P($Type I Error$)=\alpha$
 $P($Type II Error$)=\beta$

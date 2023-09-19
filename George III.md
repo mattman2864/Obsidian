@@ -1,0 +1,3 @@
+George III was the king of Great [[Britain]] and [[Northern Ireland]] from 1760 until his death in 1820. He was the king during the [[American Revolution]] where he lost the [[Thirteen Colonies]]. He also fought against [[Napoleon]] in the [[Napoleonic Wars]] against [[France]], where Napoleon was eventually defeated in the [[Battle of Waterloo]] in 1815. In 1807, the [[Transatlantic Slave Trade]] was banned from the empire.
+
+In his later years, George had recurrent - and eventually permanent - mental illness. Because of this, his eldest son, [[George IV]], who was at the time Prince of [[Wales]], was named Prince Regent.
