@@ -23,8 +23,12 @@
             "id": "2aeb97875537aa90",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Line.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -169,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,11 +191,11 @@
   },
   "active": "2aeb97875537aa90",
   "lastOpenFiles": [
-    "Ancient Egypt.md",
+    "Slope.md",
     "Line.md",
+    "Ancient Egypt.md",
     "Greece Map.gif",
     "Regression Analysis.md",
-    "Slope.md",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
     "calcbcfig1-1.png",
