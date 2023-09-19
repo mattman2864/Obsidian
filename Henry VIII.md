@@ -1,0 +1,1 @@
+Henry VIII of [[England]] was one of the most prominent [[New Monarch]] in Europe. He was king of England from his father [[Henry VII]]'s death in 1509 until his death in 1547.

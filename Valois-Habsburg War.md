@@ -1,0 +1,1 @@
+The Valois-Habsburg War began in 1551 when [[Henry II of France]] declared war against Holy Roman Emperor [[Charles V]] with the intent of recapturing parts of [[Italy]] and ensuring French, rather than [[Habsburg]], domination of European affairs. This war first began the rivalry between [[France]] and [[Germany]].

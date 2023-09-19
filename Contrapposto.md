@@ -1,0 +1,1 @@
+Contrapposto is a position of the human figure with most weight on one foot so that its shoulders and arms twist off-axis from the hips and legs in the axial plane. It was a common position in [[Renaissance]] sculptures.

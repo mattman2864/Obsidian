@@ -1,0 +1,1 @@
+The Currency Act was a law passed by [[British Parliament]] in 1764. It limited the use of colonial paper money, in order to protect [[Britain|British]] merchant from deprecation. While not a major contributing factor to the [[American Revolution]], it did signify growing British interest in regulating the [[Thirteen Colonies]].

@@ -1,0 +1,1 @@
+When you reject $H_o$ you might want to know more. [[Confidence Interval]]s give a range of values for $p$ that would not be rejected by a two-sided test at the $\alpha = \#$ significance level.

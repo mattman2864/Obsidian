@@ -1,0 +1,1 @@
+The Sugar Act was a 1764 law which raised the previous amount demanded on sweeteners (molasses and sugar). The sugar act was part of [[Britain|British]] attempts to pay off debt from the [[French and Indian War]].

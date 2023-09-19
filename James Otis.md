@@ -1,0 +1,1 @@
+James Otis was a patriot from [[Massachusetts]] who coined the phrase "Taxation without representation is tyranny," which is popularly abbreviated as "no taxation without representation." He was an early supporter of Patriotic causes and independence of the [[Thirteen Colonies]] from the [[Britain|British]].

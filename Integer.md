@@ -1,0 +1,1 @@
+A whole number; can be negative or positive. In computer memory, usually stored as 4 bytes.

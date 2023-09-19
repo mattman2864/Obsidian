@@ -1,0 +1,16 @@
+- Early 1790s, war in Europe caused Americans to choose sides
+- Depending on what side, wither group seen as entering into treasonous correspondence with the enemy (GBR / FR)
+- Political parties born in this atmosphere
+- [[French Revolution]]
+- 1793 France Declares war on GBR
+	- *"War of all peoples against all kings"*
+- Both countries challenged US stance on belligerents
+	- shouldn't interfere with shipping of neutral countries
+- Uncertain treaties of 1778 legally bound to support France
+- Both Hamilton & Jefferson wanted to avoid war
+- Jefferson: Honor neutrality; GBR to be bully, afford France special commercial rights
+- French Minister Genet
+	- Seize British ships in the name of France
+- [[Proclamation of Neutrality]] (Apr. 1793)
+	- issued by Washington and Congress
+	- Genet received asylum and stayed in NY

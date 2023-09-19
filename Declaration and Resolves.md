@@ -1,0 +1,1 @@
+The Declaration and Resolves were an attempt by the first [[Continental Congress]] to reconcile the [[Thirteen Colonies]] with the [[Britain|British Empire]]. Addressed to King [[George III]], it urged him to correct the wrongs incurred by the colonists while simultaneously acknowledging the authority of [[British Parliament]] to regulate colonial trade and commerce.

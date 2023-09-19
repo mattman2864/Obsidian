@@ -1,0 +1,1 @@
+The Stamp Act Congress was a meeting of representatives of nine of the [[Thirteen Colonies]]. They sent word to [[Britain]] that only colonial legislatures had the authority to tax the colonists. Their actions resulted in the [[Stamp Act]] being repealed in 1766, though it was replaced by the [[Declaratory Act]].

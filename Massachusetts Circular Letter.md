@@ -1,0 +1,1 @@
+The Massachusetts Circular Letter was penned by [[Samuel Adams]], and was a response to the [[Townshend Act]] and the resulting [[Writs of Assistance]]. It demanded the Townshend Act be immediately repealed. Widely circulated, it rejuvenated boycotts of [[Britain|British]] goods.

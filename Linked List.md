@@ -1,0 +1,1 @@
+A linked list is a [[Data Structure]] consisting of a linear collection of items where each item points to the next element in memory.

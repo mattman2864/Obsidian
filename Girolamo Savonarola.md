@@ -1,0 +1,1 @@
+Girolamo Savonarola was an [[Asceticism|ascetic]] Italian Dominican friar from Ferrara and a preacher active in [[Renaissance]] [[Florence]]. He is best known for the [[Bonfire of the Vanities]], a religiously-motivated organized burning of all worldly vanities in opposition to the [[Renaissance]].

@@ -1,0 +1,1 @@
+The Sons and Daughters of Liberty were a loosely organized, clandestine, and sometimes violent political organization active in the [[Thirteen Colonies]]. They intimidated tax collectors by attacking their homes, burning them in effigy, and even tarring and feathering them. They also ransacked warehouses that held stamps and burned them to the ground.

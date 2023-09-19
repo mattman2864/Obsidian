@@ -1,0 +1,1 @@
+The Sack of Rome was a mass destruction of [[Rome]] by mutinous troops of [[Charles V]]. The sack was initially intended to threaten [[Pope Clement VII]] with violence, though over 20,000 of his troops began looting and destroying the city. Up to 10,000 people were killed during the destruction.
