@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdb0c5080b31422e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Circuit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Power.md",
+                "file": "Circuit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Power.md",
+                "file": "Circuit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Power.md"
+                "file": "Circuit.md"
               }
             }
           },
@@ -189,10 +201,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d0d8b6d3eed8679",
+  "active": "cdb0c5080b31422e",
   "lastOpenFiles": [
-    "Voltage.md",
     "Power.md",
+    "Circuit.md",
+    "Voltage.md",
     "Current.md",
     "Semiconductor.md",
     "Insulator.md",
@@ -221,7 +234,6 @@
     "Battles of Trenton and Princeton.md",
     "Battles of Saratoga.md",
     "Battle of Fallen Timbers.md",
-    "Baldassare Castiglione.md",
     "Alexander Hamilton Portrait.jpg",
     "Excalidraw",
     "Iranian_Astrolabe_14.jpg",
