@@ -1,0 +1,1 @@
+Charge is the force that arises from electrical current. A very noticable thing about electirc
