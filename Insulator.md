@@ -1,0 +1,1 @@
+Insulators are materials whose outer electrons are tightly bound to their nuclei. Modest electric forces are not able to pull these electrons free. When an electric for
