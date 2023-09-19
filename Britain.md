@@ -1,0 +1,1 @@
+Britain, or the United Kingdom of Great Britain and [[Northern Ireland]], is a sovereign state in Europe comprising the island of Great Britain, the north-eastern part of the island of Ireland and many smaller islands. It comprises [[England]], [[Scotland]], [[Wales]], and [[Northern Ireland]]. In the current day, it has a ceremonial monarchy but 
