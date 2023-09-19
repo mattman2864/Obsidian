@@ -58,9 +58,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ad6111aead25fdf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Semiconductor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe742d2215cda7a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Insulator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +162,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Insulator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +183,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Insulator.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,10 +233,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7e7705159948138",
+  "active": "fe742d2215cda7a3",
   "lastOpenFiles": [
-    "Conductor.md",
+    "Current.md",
+    "Semiconductor.md",
     "Insulator.md",
+    "Conductor.md",
     "Charge.md",
     "Britain.md",
     "Constitutional Monarchy.md",
@@ -248,9 +266,7 @@
     "Baldassare Castiglione.md",
     "Astrolabe.md",
     "Articles of Confederation.md",
-    "Arrays.md",
     "Alexander Hamilton Portrait.jpg",
-    "Alexander Hamilton.md",
     "Excalidraw",
     "Iranian_Astrolabe_14.jpg",
     "1800 Election Results Map.png",
