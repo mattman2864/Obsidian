@@ -25,12 +25,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-20 10.57.22.excalidraw.md"
+                "file": "Excalidraw/Linked List Diagram.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-20 10.57.22.excalidraw.md",
+                "file": "Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-20 10.57.22.excalidraw.md",
+                "file": "Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-09-20 10.57.22.excalidraw.md"
+                "file": "Linked List.md"
               }
             }
           },
@@ -187,10 +186,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "428144709dc5c0a9",
+  "active": "a3efdb64cf966235",
   "lastOpenFiles": [
+    "Pasted image 20230920110202.png",
+    "Excalidraw/Linked List Diagram.md",
     "Linked List.md",
-    "Excalidraw/Drawing 2023-09-20 10.57.22.excalidraw.md",
     "Excalidraw",
     "Array.md",
     "Voltage.md",
@@ -217,7 +217,6 @@
     "Declaratory Act.md",
     "Integer.md",
     "George III.md",
-    "Boston Massacre.md",
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",
     "calcbsfig1-3.png",
