@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cdb0c5080b31422e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Electrical Symbols.png.png"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdb0c5080b31422e",
+  "active": "19fd60a41e16003e",
   "lastOpenFiles": [
     "Circuit.md",
     "Electrical Symbols.png.png",
