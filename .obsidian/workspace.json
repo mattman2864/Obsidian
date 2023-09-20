@@ -35,11 +35,9 @@
             "id": "cdb0c5080b31422e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Circuit.md",
-                "mode": "source",
-                "source": false
+                "file": "Electrical Symbols.png.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Circuit.md",
+                "file": "Electrical Symbols.png.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Circuit.md",
+                "file": "Electrical Symbols.png.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circuit.md"
+                "file": "Electrical Symbols.png.png"
               }
             }
           },
@@ -203,8 +201,10 @@
   },
   "active": "cdb0c5080b31422e",
   "lastOpenFiles": [
-    "Power.md",
     "Circuit.md",
+    "Electrical Symbols.png.png",
+    "Current.png",
+    "Power.md",
     "Voltage.md",
     "Current.md",
     "Semiconductor.md",
@@ -233,12 +233,9 @@
     "Benjamin Franklin Portrait.jpg",
     "Battles of Trenton and Princeton.md",
     "Battles of Saratoga.md",
-    "Battle of Fallen Timbers.md",
     "Alexander Hamilton Portrait.jpg",
     "Excalidraw",
     "Iranian_Astrolabe_14.jpg",
-    "1800 Election Results Map.png",
-    "1800 Election Results.png",
-    "1796 Election Results Map.png"
+    "1800 Election Results Map.png"
   ]
 }
