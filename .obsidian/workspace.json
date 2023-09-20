@@ -4,103 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "832e192d09d25eea",
+        "id": "1445cd0f5aa104a2",
         "type": "tabs",
         "children": [
           {
-            "id": "a3efdb64cf966235",
+            "id": "188cf5ba9fac6a50",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linked List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a8b0cfe8cbc5b24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stack.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e3af8e8131cf2941",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Queue.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88d17f9bb75d7428",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treaty of Tordesillas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a414d85940a54734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8afccfc96548c991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Graph.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df5382e07453fd9a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Tree Diagram.md"
-              }
-            }
-          },
-          {
-            "id": "428144709dc5c0a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Linked List Diagram.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "linked list dia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,12 +61,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -167,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graph.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graph.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Graph.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,12 +168,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8afccfc96548c991",
+  "active": "f2c3bd1fed6f73b4",
   "lastOpenFiles": [
-    "Tree.md",
-    "Graph.md",
-    "Pasted image 20230920130033.png",
+    "Newtons First Law.md",
+    "Memory.md",
+    "Integer.md",
+    "Voltage.md",
+    "Power.md",
+    "Chemical Reaction.md",
+    "Friction.md",
+    "Velocity.md",
+    "Vector.md",
+    "Rectangle.md",
+    "Slope.md",
+    "Excalidraw/Linked List Diagram.md",
     "Excalidraw/Tree Diagram.md",
+    "Pointer.md",
+    "Graph.md",
+    "Tree.md",
+    "Pasted image 20230920130033.png",
     "Treaty of Tordesillas.md",
     "Normal Force.md",
     "Hash Table.md",
@@ -270,26 +194,13 @@
     "Stack.md",
     "Linked List.md",
     "Pasted image 20230920110202.png",
-    "Excalidraw/Linked List Diagram.md",
     "Excalidraw",
     "Array.md",
-    "Voltage.md",
-    "Friction.md",
     "conflict-files-obsidian-git.md",
     "Electrical Symbols.png.png",
-    "Vector.md",
     "Tension.md",
     "System.md",
-    "Scalar.md",
-    "Newtons First Law.md",
-    "Kinematic Equations.md",
-    "Circuit.md",
     "Current.png",
-    "Power.md",
-    "Current.md",
-    "Semiconductor.md",
-    "Insulator.md",
-    "Conductor.md",
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",
     "calcbsfig1-3.png",
