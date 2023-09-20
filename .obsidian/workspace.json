@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f17dba77d2339e7e",
+        "id": "832e192d09d25eea",
         "type": "tabs",
         "children": [
           {
-            "id": "54d88e2eb5ae7117",
+            "id": "a3efdb64cf966235",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Voltage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d0d8b6d3eed8679",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Friction.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945
+    "width": 298.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -98,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Friction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Friction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Friction.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1d0d8b6d3eed8679",
+  "active": "a3efdb64cf966235",
   "lastOpenFiles": [
     "Voltage.md",
+    "Friction.md",
     "conflict-files-obsidian-git.md",
     "Electrical Symbols.png.png",
     "Vector.md",
@@ -200,7 +181,6 @@
     "Normal Force.md",
     "Newtons First Law.md",
     "Kinematic Equations.md",
-    "Friction.md",
     "Circuit.md",
     "Current.png",
     "Power.md",
