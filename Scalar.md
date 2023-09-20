@@ -1,1 +1,2 @@
-Scalars have only a **magnitude** (size).
+Scalars have  a **magnitude** (size). An example of a scalar would be distance or speed.
+
