@@ -887,7 +887,7 @@ Root Node ^dj3Ds1Qc
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
