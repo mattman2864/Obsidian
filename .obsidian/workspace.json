@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "accc4665c73bd081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scalar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Confidence Interval.md",
+                "file": "Scalar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Confidence Interval.md",
+                "file": "Scalar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Confidence Interval.md"
+                "file": "Scalar.md"
               }
             }
           },
@@ -176,10 +189,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9513fd44d9387281",
+  "active": "accc4665c73bd081",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Vector.md",
+    "Scalar.md",
+    "Kinematic Equations.md",
     "Confidence Interval.md",
+    "conflict-files-obsidian-git.md",
     "Conductor.md",
     "Composition.md",
     "Composite Functions.md",
@@ -201,9 +217,6 @@
     "Voltage.md",
     "Semiconductor.md",
     "Power.md",
-    "Insulator.md",
-    "Current.md",
-    "Constitutional Monarchy.md",
     "Greece Map.gif",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",

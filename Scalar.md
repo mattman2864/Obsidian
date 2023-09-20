@@ -1,0 +1,1 @@
+Scalars have only a **magnitude** (size).
