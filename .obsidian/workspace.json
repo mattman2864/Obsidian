@@ -98,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electrical Symbols.png.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electrical Symbols.png.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electrical Symbols.png.png"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,8 +188,17 @@
   },
   "active": "19fd60a41e16003e",
   "lastOpenFiles": [
-    "Circuit.md",
+    "conflict-files-obsidian-git.md",
     "Electrical Symbols.png.png",
+    "Vector.md",
+    "Tension.md",
+    "System.md",
+    "Scalar.md",
+    "Normal Force.md",
+    "Newtons First Law.md",
+    "Kinematic Equations.md",
+    "Friction.md",
+    "Circuit.md",
     "Current.png",
     "Power.md",
     "Voltage.md",
@@ -211,17 +218,8 @@
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",
     "calcbsfig1-3.png",
-    "Line.md",
-    "Chemical Reaction.md",
-    "Slope.md",
-    "Ancient Egypt.md",
     "Greece Map.gif",
-    "Regression Analysis.md",
-    "Classes.md",
-    "Benjamin Franklin.md",
     "Benjamin Franklin Portrait.jpg",
-    "Battles of Trenton and Princeton.md",
-    "Battles of Saratoga.md",
     "Alexander Hamilton Portrait.jpg",
     "Excalidraw",
     "Iranian_Astrolabe_14.jpg",

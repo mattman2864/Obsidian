@@ -1,0 +1,1 @@
+The normal force is the force of a surface pushing back on an object.
