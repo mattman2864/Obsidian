@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "System.md",
+                "file": "Kinematic Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "System.md",
+                "file": "Kinematic Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "System.md"
+                "file": "Kinematic Equations.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dc3b2cb49cd3d41",
+  "active": "485cc2ac53599e0f",
   "lastOpenFiles": [
-    "Kinematic Equations.md",
     "System.md",
+    "Kinematic Equations.md",
     "Ottoman Empire.md",
     "Greece.md",
     "Classical Age.md",
