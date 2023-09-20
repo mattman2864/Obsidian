@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "d8484b775bfc0a31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e59a970ddac223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Normal Force.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e086f24eeb19c6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Friction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9dc3b2cb49cd3d41",
             "type": "leaf",
             "state": {
@@ -31,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinematic Equations.md",
+                "file": "Friction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinematic Equations.md",
+                "file": "Friction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinematic Equations.md"
+                "file": "Friction.md"
               }
             }
           },
@@ -188,10 +225,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "485cc2ac53599e0f",
+  "active": "3e086f24eeb19c6a",
   "lastOpenFiles": [
-    "System.md",
+    "Normal Force.md",
+    "Friction.md",
+    "Tension.md",
     "Kinematic Equations.md",
+    "System.md",
     "Ottoman Empire.md",
     "Greece.md",
     "Classical Age.md",
@@ -213,9 +253,6 @@
     "Common Sense.md",
     "Committees of Correspondence.md",
     "Cog (ship).md",
-    "Classes.md",
-    "Civic Humanism.md",
-    "Chain Rule.md",
     "Greece Map.gif",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
