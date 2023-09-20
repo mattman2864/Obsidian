@@ -1,4 +1,4 @@
-A circuit is a collection of real components, power sources, and signal  sources, all connected so current can flow in a complete circle.
+A circuit is a collection of real components, power sources, and signal  sources, all connected so [[Current]] can flow in a complete circle.
 ## Closed Circuit
 A circuit is *closed* if the circle is complete, if all currents have a path back to where they came from.
 ## Open Circuit

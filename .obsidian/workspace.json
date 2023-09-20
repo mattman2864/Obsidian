@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linked list dia",
+                "query": "tree dia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,8 +169,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f2c3bd1fed6f73b4",
+  "active": "188cf5ba9fac6a50",
   "lastOpenFiles": [
+    "Velocity.md",
+    "Central Limit Theorem.md",
+    "Normal Distribution.md",
+    "Graph.md",
+    "Regression Analysis.md",
+    "Excalidraw/Tree Diagram.md",
+    "Circuit.md",
+    "Excalidraw/Linked List Diagram.md",
     "Newtons First Law.md",
     "Memory.md",
     "Integer.md",
@@ -177,14 +186,10 @@
     "Power.md",
     "Chemical Reaction.md",
     "Friction.md",
-    "Velocity.md",
     "Vector.md",
     "Rectangle.md",
     "Slope.md",
-    "Excalidraw/Linked List Diagram.md",
-    "Excalidraw/Tree Diagram.md",
     "Pointer.md",
-    "Graph.md",
     "Tree.md",
     "Pasted image 20230920130033.png",
     "Treaty of Tordesillas.md",
@@ -195,11 +200,7 @@
     "Linked List.md",
     "Pasted image 20230920110202.png",
     "Excalidraw",
-    "Array.md",
-    "conflict-files-obsidian-git.md",
     "Electrical Symbols.png.png",
-    "Tension.md",
-    "System.md",
     "Current.png",
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",

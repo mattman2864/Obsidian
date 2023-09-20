@@ -7,4 +7,4 @@ equation $y = f( x )$ for the curve, then we have a formula that
 
 The process of finding a curve to fit data is called **regression analysis** and the curve is called a **regression curve**.
 
-There are many useful types of regression curves$-$power, exponential, logarithmic, sinusoidal, and so on.
+There are many useful types of regression curves$-$[[Line|linear]], power, exponential, logarithmic, sinusoidal, and so on.
