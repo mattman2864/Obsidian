@@ -1,0 +1,1 @@
+A system is a collection of physical objects, often abstracted as necessary to solve the problem.

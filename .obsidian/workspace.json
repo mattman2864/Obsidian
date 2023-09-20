@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9dc3b2cb49cd3d41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "System.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinematic Equations.md",
+                "file": "System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinematic Equations.md",
+                "file": "System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinematic Equations.md"
+                "file": "System.md"
               }
             }
           },
@@ -176,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "485cc2ac53599e0f",
+  "active": "9dc3b2cb49cd3d41",
   "lastOpenFiles": [
+    "Kinematic Equations.md",
+    "System.md",
     "Ottoman Empire.md",
     "Greece.md",
     "Classical Age.md",
@@ -192,7 +207,6 @@
     "Scalar.md",
     "Confidence Interval.md",
     "Vector.md",
-    "Kinematic Equations.md",
     "conflict-files-obsidian-git.md",
     "Conductor.md",
     "Composition.md",
@@ -203,7 +217,6 @@
     "Classes.md",
     "Civic Humanism.md",
     "Chain Rule.md",
-    "Central Limit Theorem.md",
     "Greece Map.gif",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
