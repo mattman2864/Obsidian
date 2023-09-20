@@ -21,7 +21,9 @@ The last element in a list points to `NULL` (`0x0` in memory). The head points t
 1. Take node before node to be deleted and point it to node after node to be deleted
 #### Deleting at End
 1. Second to last element point to `NULL`
-## Other [[Algorithmic Complexity|Algorithmic Compl]]
+## Other [[Algorithmic Complexity|Algorithmic Complexities]]
+Traversing the list is $O(n)$.
+Accessing an element of the list is $O(n)$.
 ## Linked List vs Array
 Linked lists are faster than arrays but use more memory:
 

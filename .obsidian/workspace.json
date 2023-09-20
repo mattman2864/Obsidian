@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "9a8b0cfe8cbc5b24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3af8e8131cf2941",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88d17f9bb75d7428",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hash Table.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "428144709dc5c0a9",
             "type": "leaf",
             "state": {
@@ -29,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linked List.md",
+                "file": "Hash Table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linked List.md",
+                "file": "Hash Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked List.md"
+                "file": "Hash Table.md"
               }
             }
           },
@@ -186,11 +223,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a3efdb64cf966235",
+  "active": "88d17f9bb75d7428",
   "lastOpenFiles": [
+    "Queue.md",
+    "Hash Table.md",
+    "Stack.md",
+    "Linked List.md",
     "Pasted image 20230920110202.png",
     "Excalidraw/Linked List Diagram.md",
-    "Linked List.md",
     "Excalidraw",
     "Array.md",
     "Voltage.md",
@@ -215,15 +255,12 @@
     "Britain.md",
     "Constitutional Monarchy.md",
     "Declaratory Act.md",
-    "Integer.md",
-    "George III.md",
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",
     "calcbsfig1-3.png",
     "Greece Map.gif",
     "Benjamin Franklin Portrait.jpg",
     "Alexander Hamilton Portrait.jpg",
-    "Iranian_Astrolabe_14.jpg",
-    "1800 Election Results Map.png"
+    "Iranian_Astrolabe_14.jpg"
   ]
 }
