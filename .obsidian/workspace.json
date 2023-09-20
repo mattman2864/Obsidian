@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "df5382e07453fd9a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-20 11.29.35.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "428144709dc5c0a9",
             "type": "leaf",
             "state": {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tree.md",
+                "file": "Excalidraw/Drawing 2023-09-20 11.29.35.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tree.md",
+                "file": "Excalidraw/Drawing 2023-09-20 11.29.35.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tree.md"
+                "file": "Excalidraw/Drawing 2023-09-20 11.29.35.excalidraw.md"
               }
             }
           },
@@ -235,10 +245,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a414d85940a54734",
+  "active": "df5382e07453fd9a",
   "lastOpenFiles": [
-    "Treaty of Tordesillas.md",
     "Tree.md",
+    "Excalidraw/Drawing 2023-09-20 11.29.35.excalidraw.md",
+    "Treaty of Tordesillas.md",
     "Normal Force.md",
     "Hash Table.md",
     "Queue.md",
@@ -266,7 +277,6 @@
     "Insulator.md",
     "Conductor.md",
     "Charge.md",
-    "Britain.md",
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",
     "calcbsfig1-3.png",

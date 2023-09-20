@@ -1,1 +1,1 @@
-A tree is 
+A tree is a hierarchical [[Data Structure]].
