@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1445cd0f5aa104a2",
+        "id": "25cac61c1f1ac82d",
         "type": "tabs",
         "children": [
           {
-            "id": "188cf5ba9fac6a50",
+            "id": "12e8159ebae3ee3e",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -169,8 +169,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "188cf5ba9fac6a50",
+  "active": "12e8159ebae3ee3e",
   "lastOpenFiles": [
+    "Derivative.md",
     "Velocity.md",
     "Central Limit Theorem.md",
     "Normal Distribution.md",
@@ -197,7 +198,6 @@
     "Hash Table.md",
     "Queue.md",
     "Stack.md",
-    "Linked List.md",
     "Pasted image 20230920110202.png",
     "Excalidraw",
     "Electrical Symbols.png.png",
