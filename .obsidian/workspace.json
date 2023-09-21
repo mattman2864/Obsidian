@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "05c6b62fc96dbcfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work.md"
+              }
             }
           },
           {
@@ -169,8 +186,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12e8159ebae3ee3e",
+  "active": "05c6b62fc96dbcfb",
   "lastOpenFiles": [
+    "Work.md",
     "Derivative.md",
     "Velocity.md",
     "Central Limit Theorem.md",
@@ -197,7 +215,6 @@
     "Normal Force.md",
     "Hash Table.md",
     "Queue.md",
-    "Stack.md",
     "Pasted image 20230920110202.png",
     "Excalidraw",
     "Electrical Symbols.png.png",
