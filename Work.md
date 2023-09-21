@@ -4,4 +4,4 @@ where $W$ is work, $d$ is the displacement of the system, and $\theta$ is the an
 $$W=Fd\cos\theta$$
 To find the work done on a system that undergoes motion that is not one-way or that is in two or three dimensions, we divide the motion into one-way one-dimensional segments and add up the work done over each segment.
 ## Calculating Work
-Work and [[Energy]] have the same units. From the definition of work, we see that those units are [[Force]] times distance. Thus, in SI units, work and energy are measured in **newton-meters**. A newton-meter is is given the special name **joule** ($J$), and $1J=1N\times m=1kg\timesm^2$
+Work and [[Energy]] have the same units. From the definition of work, we see that those units are [[Force]] times distance. Thus, in SI units, work and energy are measured in **newton-meters**. A newton-meter is is given the special name **joule** ($J$), and $1J=1N\times m=1kg\times m^2/s^2$. One joule is not a large amount of energy; it would lift a small 100-gram apple a distance of about 1 meter.

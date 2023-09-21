@@ -1,0 +1,1 @@
+Isaac Newton was an [[England|English]] mathematician and physicist who was made incredibly important discoveries in [[Calculus]], [[Physics]], and other topics. He is credited with the invention of calculus alongside [[Lei]]
