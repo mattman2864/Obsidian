@@ -1,13 +1,13 @@
-A chemical reaction is the process by which one or more substances are changed into one or more different substances
+A chemical reaction is the process by which one or more [[Substance]]s are changed into one or more different substances
 
 Original substances $\to$ Resulting substances
 (reactants)                    (products)
 
-Chemical reactions must obey the law of conservation of mass:
+Chemical reactions must obey the law of conservation of [[Mass]]:
 $$m_{products}=m_{reactants}$$
 Chemical equations represent identities and relative molecular or molar amounts of the reactants and products in a chemical reaction.
 ## Indications of a Chemical Reaction
-- Energy released as heat
+- [[Energy]] released as heat
 - Production of a gas
 - Formation of a precipitate
 	- Solid produced as a result of a chemical reaction in solution and that separates from the solution
