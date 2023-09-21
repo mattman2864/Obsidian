@@ -1,3 +1,5 @@
-The work done on a system by a constant force is defined to be the *product of the component of the force in the direction of motion and the distance through which the force acts*. For a constant force, this is expressed in equation form as
+The work done on a [[System]] by a constant [[Force]] is defined to be the *product of the component of the force in the direction of motion and the distance through which the force acts*. For a constant force, this is expressed in equation form as
 $$W=|F|(\cos{\theta})|d|$$
-where $W$ is work, $d$ is the displacement of the 
+where $W$ is work, $d$ is the displacement of the system, and $\theta$ is the angle between the force vector $F$ and the displacement vector $d$. We can also write this as
+$$W=Fd\cos\theta$$
+To find the work done on a system that undergoes motion that is not one-way or that is in two or three dimensions, we divide the motion into one-way one-dimensional segments and add up the work done over each segment.

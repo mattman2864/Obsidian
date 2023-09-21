@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,6 +188,7 @@
   },
   "active": "05c6b62fc96dbcfb",
   "lastOpenFiles": [
+    "System.md",
     "Work.md",
     "Derivative.md",
     "Velocity.md",
@@ -214,7 +215,6 @@
     "Treaty of Tordesillas.md",
     "Normal Force.md",
     "Hash Table.md",
-    "Queue.md",
     "Pasted image 20230920110202.png",
     "Excalidraw",
     "Electrical Symbols.png.png",
