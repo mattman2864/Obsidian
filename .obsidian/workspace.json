@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,7 +236,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b20a65695062bf3a",
+  "active": "3acace2d89f5639a",
   "lastOpenFiles": [
     "Kinematics.md",
     "Newtons First Law.md",
