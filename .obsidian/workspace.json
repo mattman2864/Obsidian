@@ -4,43 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "25cac61c1f1ac82d",
+        "id": "0663ffa6ab20b17d",
         "type": "tabs",
         "children": [
           {
-            "id": "12e8159ebae3ee3e",
+            "id": "c4c9b58500019bb2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "05c6b62fc96dbcfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cdd0634609697fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Isaac Newton.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Isaac Newton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Isaac Newton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Isaac Newton.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,13 +169,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8cdd0634609697fa",
+  "active": "c4c9b58500019bb2",
   "lastOpenFiles": [
-    "Derivative.md",
-    "Isaac Newton.md",
-    "Net Work.md",
+    "Tariff and Tonnage of 1789.md",
+    "Declaration and Resolves.md",
+    "Sons and Daughters of Liberty.md",
+    "The Great Chain of Being.md",
+    "Stamp Act.md",
+    "Black Death.md",
+    "Methods.md",
+    "Humanism.md",
+    "Insulator.md",
     "Work.md",
     "System.md",
+    "Product Rule.md",
+    "Tension.md",
+    "Isaac Newton.md",
+    "Derivative.md",
+    "Net Work.md",
     "Velocity.md",
     "Central Limit Theorem.md",
     "Normal Distribution.md",
@@ -215,18 +197,7 @@
     "Excalidraw/Linked List Diagram.md",
     "Newtons First Law.md",
     "Memory.md",
-    "Integer.md",
-    "Voltage.md",
-    "Power.md",
-    "Chemical Reaction.md",
-    "Friction.md",
-    "Vector.md",
-    "Rectangle.md",
-    "Slope.md",
-    "Pointer.md",
-    "Tree.md",
     "Pasted image 20230920130033.png",
-    "Treaty of Tordesillas.md",
     "Pasted image 20230920110202.png",
     "Excalidraw",
     "Electrical Symbols.png.png",
