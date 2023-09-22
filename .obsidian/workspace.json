@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0663ffa6ab20b17d",
+        "id": "53b19a08f84fc6a7",
         "type": "tabs",
         "children": [
           {
-            "id": "036d14f556d4201f",
+            "id": "c753292d638031ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jeffersonian Republicanism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4881af242415195a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Population Growth 1790-1810.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jeffersonian Republicanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jeffersonian Republicanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Jeffersonian Republicanism.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,17 +148,16 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -190,12 +168,15 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "036d14f556d4201f",
+  "active": "184fc85566fc4f84",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Jeffersonian Republicanism.md",
-    "Westward Expansion.md",
+    "Thomas Jefferson.md",
+    "Lewis and Clark.md",
+    "Louisiana Purchase.md",
     "Population Growth 1790-1810.md",
+    "conflict-files-obsidian-git.md",
+    "Westward Expansion.md",
     "Tariff and Tonnage of 1789.md",
     "Declaration and Resolves.md",
     "Sons and Daughters of Liberty.md",
@@ -215,9 +196,6 @@
     "Velocity.md",
     "Central Limit Theorem.md",
     "Normal Distribution.md",
-    "Graph.md",
-    "Regression Analysis.md",
-    "Excalidraw/Tree Diagram.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",

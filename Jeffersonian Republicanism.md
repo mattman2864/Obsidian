@@ -8,6 +8,9 @@ Jeffersonian Republicanism is the ideology held by US President [[Thomas Jeffers
 	- [[Westward Expansion]] of population
 - Valued the American farmers
 	- He did not think American Indians and Americans could coexist
+## Major Events
+- [[Louisiana Purchase]]
+- [[Lewis and Clark]]
 ## Cities
 - Cities pop up around waterways
 - Depots for international trade
@@ -18,20 +21,3 @@ Jeffersonian Republicanism is the ideology held by US President [[Thomas Jeffers
 	- **laborers**: loaded cargo
 - U.S. Merchant Marine - shippers of Atlantic
 - Brought in huge profits & investment capital
-## Jefferson as President
-- Established close ties with Republican Congress
-- Cabinet: supported his programs
-- Cut national debt and Cut national budget
-	- Cut military by 50%
-	- Retired navy warships
-- Diminish activities of federal government
-	- Cut direct taxes
-	- Carrying trade brought in major revenue
-## Louisiana Purchase
-- May 1801 [[Spain]] secretly cedes Louisiana to [[France]]
-- Jan 1803 [[James Monroe]] and Livingstone sent to [[Paris]] to acquire New Orleans
-- [[Treaty of Cession]]
-## Lewis and Clark
-- May 1804 to Sept 1806
-- Find out if Missouri River was commercial route to Pacific
-- Also flora and fauna data
