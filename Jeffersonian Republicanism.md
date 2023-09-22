@@ -32,3 +32,6 @@ Jeffersonian Republicanism is the ideology held by US President [[Thomas Jeffers
 - Jan 1803 [[James Monroe]] and Livingstone sent to [[Paris]] to acquire New Orleans
 - [[Treaty of Cession]]
 ## Lewis and Clark
+- May 1804 to Sept 1806
+- Find out if Missouri River was commercial route to Pacific
+- Also flora and fauna data

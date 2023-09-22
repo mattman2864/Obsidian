@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "5649fcd7c5bd682f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4881af242415195a",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945
+    "width": 298.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Jeffersonian Republicanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Jeffersonian Republicanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Jeffersonian Republicanism.md"
               }
             }
           },
@@ -185,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +190,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5649fcd7c5bd682f",
+  "active": "036d14f556d4201f",
   "lastOpenFiles": [
-    "Jeffersonian Republicanism.md",
     "conflict-files-obsidian-git.md",
+    "Jeffersonian Republicanism.md",
     "Westward Expansion.md",
     "Population Growth 1790-1810.md",
     "Tariff and Tonnage of 1789.md",
