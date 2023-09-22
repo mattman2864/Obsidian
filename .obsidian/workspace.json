@@ -8,14 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4c9b58500019bb2",
+            "id": "036d14f556d4201f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Jeffersonian Republicanism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5649fcd7c5bd682f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4881af242415195a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Population Growth 1790-1810.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -29,7 +58,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3acace2d89f5639a",
+            "id": "7d65674acda470a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -61,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -153,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,11 +197,16 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "c4c9b58500019bb2",
+  "active": "5649fcd7c5bd682f",
   "lastOpenFiles": [
+    "Jeffersonian Republicanism.md",
+    "conflict-files-obsidian-git.md",
+    "Westward Expansion.md",
+    "Population Growth 1790-1810.md",
     "Tariff and Tonnage of 1789.md",
     "Declaration and Resolves.md",
     "Sons and Daughters of Liberty.md",
@@ -193,10 +229,6 @@
     "Graph.md",
     "Regression Analysis.md",
     "Excalidraw/Tree Diagram.md",
-    "Circuit.md",
-    "Excalidraw/Linked List Diagram.md",
-    "Newtons First Law.md",
-    "Memory.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",
