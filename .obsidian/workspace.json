@@ -4,95 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "514ec62c0c9cbe1c",
+        "id": "4cced1e969336c3c",
         "type": "tabs",
         "children": [
           {
-            "id": "485cc2ac53599e0f",
+            "id": "f611272ca1094fdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kinematic Equations.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b20a65695062bf3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Newtons First Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eddf70de00a7c118",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8484b775bfc0a31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e59a970ddac223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normal Force.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e086f24eeb19c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Friction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9dc3b2cb49cd3d41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "System.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -233,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,18 +168,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eddf70de00a7c118",
+  "active": "f611272ca1094fdb",
   "lastOpenFiles": [
+    "System.md",
+    "Friction.md",
+    "Normal Force.md",
+    "Tension.md",
+    "Work.md",
+    "Net Work.md",
     "Newtons First Law.md",
     "conflict-files-obsidian-git.md",
-    "Work.md",
     "Velocity.md",
     "Tree.md",
     "Stack.md",
     "Queue.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
-    "Net Work.md",
     "Isaac Newton.md",
     "Hash Table.md",
     "Graph.md",
@@ -267,10 +191,6 @@
     "Array.md",
     "Kinematics.md",
     "Kinematic Equations.md",
-    "Friction.md",
-    "Normal Force.md",
-    "Tension.md",
-    "System.md",
     "Ottoman Empire.md",
     "Greece.md",
     "Classical Age.md",
