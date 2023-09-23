@@ -11,8 +11,12 @@
             "id": "d1e69206efc6e399",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Civic Humanism.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945
+    "width": 298.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Civic Humanism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Civic Humanism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Civic Humanism.md"
+              }
             }
           },
           {
@@ -152,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,35 +180,35 @@
   },
   "active": "d1e69206efc6e399",
   "lastOpenFiles": [
+    "Tariff and Tonnage of 1789.md",
+    "System.md",
+    "Renaissance.md",
+    "Classical Age.md",
+    "Greece.md",
+    "Ottoman Empire.md",
+    "Naturalism.md",
+    "Valois-Habsburg War.md",
+    "Medieval Europe.md",
+    "Catholic Church.md",
+    "Spanish Inquisition.md",
+    "Scalar.md",
+    "One Sample Interval.md",
+    "Stamp Act.md",
+    "Tests for Paired Data.md",
+    "Mean.md",
+    "Hash Table.md",
+    "Two-Tailed Proportions.md",
+    "Franks.md",
+    "Salic Law.md",
+    "Parameter.md",
+    "Point Estimator.md",
     "1800 Election.md",
     "conflict-files-obsidian-git.md",
     "Westward Expansion.md",
     "Population Growth 1790-1810.md",
-    "Louisiana Purchase.md",
-    "Lewis and Clark.md",
-    "Jeffersonian Republicanism.md",
-    "System.md",
-    "Friction.md",
-    "Normal Force.md",
-    "Tension.md",
-    "Work.md",
-    "Net Work.md",
-    "Newtons First Law.md",
-    "Velocity.md",
-    "Tree.md",
-    "Stack.md",
-    "Queue.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
-    "Isaac Newton.md",
-    "Hash Table.md",
-    "Graph.md",
     "Electrical Symbols.png.png",
-    "Array.md",
-    "Kinematics.md",
-    "Kinematic Equations.md",
-    "Ottoman Empire.md",
-    "Greece.md",
     "Greece Map.gif",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
