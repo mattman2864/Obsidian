@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4cced1e969336c3c",
+        "id": "f3f705b7882c6f2c",
         "type": "tabs",
         "children": [
           {
-            "id": "f611272ca1094fdb",
+            "id": "d1e69206efc6e399",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,8 +168,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f611272ca1094fdb",
+  "active": "d1e69206efc6e399",
   "lastOpenFiles": [
+    "1800 Election.md",
     "conflict-files-obsidian-git.md",
     "Westward Expansion.md",
     "Population Growth 1790-1810.md",
@@ -197,7 +199,6 @@
     "Kinematic Equations.md",
     "Ottoman Empire.md",
     "Greece.md",
-    "Classical Age.md",
     "Greece Map.gif",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
