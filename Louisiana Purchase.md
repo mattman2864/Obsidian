@@ -1,0 +1,3 @@
+- May 1801 [[Spain]] secretly cedes Louisiana to [[France]]
+- Jan 1803 [[James Monroe]] and Livingstone sent to [[Paris]] to acquire New Orleans
+- [[Treaty of Cession]]

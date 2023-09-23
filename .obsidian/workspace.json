@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +169,12 @@
   },
   "active": "f611272ca1094fdb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Westward Expansion.md",
+    "Population Growth 1790-1810.md",
+    "Louisiana Purchase.md",
+    "Lewis and Clark.md",
+    "Jeffersonian Republicanism.md",
     "System.md",
     "Friction.md",
     "Normal Force.md",
@@ -177,7 +182,6 @@
     "Work.md",
     "Net Work.md",
     "Newtons First Law.md",
-    "conflict-files-obsidian-git.md",
     "Velocity.md",
     "Tree.md",
     "Stack.md",
@@ -194,11 +198,6 @@
     "Ottoman Empire.md",
     "Greece.md",
     "Classical Age.md",
-    "Renaissance.md",
-    "Medici Family.md",
-    "Naturalism.md",
-    "Medieval Europe.md",
-    "Catholic Church.md",
     "Greece Map.gif",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
