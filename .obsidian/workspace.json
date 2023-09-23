@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civic Humanism.md",
-                "mode": "preview",
+                "file": "Methods.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Civic Humanism.md",
+                "file": "Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Civic Humanism.md",
+                "file": "Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Civic Humanism.md"
+                "file": "Methods.md"
               }
             }
           },
@@ -180,6 +180,11 @@
   },
   "active": "d1e69206efc6e399",
   "lastOpenFiles": [
+    "William Pitt.md",
+    "Jeffersonian Republicanism.md",
+    "Population Growth 1790-1810.md",
+    "Republicanism.md",
+    "Civic Humanism.md",
     "Tariff and Tonnage of 1789.md",
     "System.md",
     "Renaissance.md",
@@ -201,11 +206,6 @@
     "Franks.md",
     "Salic Law.md",
     "Parameter.md",
-    "Point Estimator.md",
-    "1800 Election.md",
-    "conflict-files-obsidian-git.md",
-    "Westward Expansion.md",
-    "Population Growth 1790-1810.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Electrical Symbols.png.png",

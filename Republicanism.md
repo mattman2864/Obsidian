@@ -1,0 +1,1 @@
+Republicanism is a political ideology centered on citizenship in a state organized in a republic. Historically, it emphasizes the idea of self-rule and ranges from the rule of a representative minority or [[Oligarchy]] to [[Popular Sovereignty]]. It has had different definitions and interpretations which vary significantly based on historical context and methodological approach. 

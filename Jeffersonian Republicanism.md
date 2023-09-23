@@ -1,4 +1,4 @@
-Jeffersonian Republicanism is the ideology held by US President [[Thomas Jefferson]].
+Jeffersonian [[Republicanism]] is the ideology held by US President [[Thomas Jefferson]].
 - Self-Confident
 - Assertive
 - Blatantly racist
