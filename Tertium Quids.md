@@ -1,0 +1,1 @@
+The tertium quids were various political factions within the [[Jeffersonian Republic]] Party. The quid most commonly referred to the more radical faction of the [[Democratic-Republicans]], also called **Old Republicans**, who were more strongly opposed to the Federalist party's ideas than the emerging moderate leadership of the Republican Party.
