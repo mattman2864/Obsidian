@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "British Action Toward Neutrality.md",
+                "file": "French Revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "British Action Toward Neutrality.md",
+                "file": "French Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "British Action Toward Neutrality.md",
+                "file": "French Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "British Action Toward Neutrality.md"
+                "file": "French Revolution.md"
               }
             }
           },
@@ -179,6 +179,7 @@
   },
   "active": "d1e69206efc6e399",
   "lastOpenFiles": [
+    "British Action Toward Neutrality.md",
     "Louisiana Purchase.md",
     "Currency Act.md",
     "Linked List.md",
@@ -204,7 +205,6 @@
     "Catholic Church.md",
     "Spanish Inquisition.md",
     "Scalar.md",
-    "One Sample Interval.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Electrical Symbols.png.png",

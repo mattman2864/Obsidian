@@ -3,4 +3,3 @@
 	- Hamilton condemned French
 - Neutrality seemed logical
 	- Too weak to defend at this point
-- 
