@@ -1,5 +1,8 @@
 {
   "accentColor": "#9ae0fe",
   "cssTheme": "Catppuccin",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": "Constantia",
+  "interfaceFontFamily": "Ubuntu",
+  "monospaceFontFamily": "Courier New"
 }
