@@ -21,3 +21,5 @@ Jeffersonian [[Republicanism]] is the ideology held by US President [[Thomas Jef
 	- **laborers**: loaded cargo
 - U.S. Merchant Marine - shippers of Atlantic
 - Brought in huge profits & investment capital
+## Jefferson's Attack on Judges
+- Judiciary Act 1801
