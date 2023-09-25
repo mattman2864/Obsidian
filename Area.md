@@ -3,3 +3,4 @@ Area is the measure of a region's size on a surface.
 ### [[Square]]
 The area of a square is the length of a single side times itself, or $A=s^2$.
 ### [[Rectangle]]
+The area of a rectangle is the length multiplied by the wi
