@@ -1,0 +1,1 @@
+In [[Physics]], force is an influence that can cause an object to change [[Acceleration]] and therefore [[Velocity]]. The SI unit of force is the Newton (**N**), often denoted by the symbol $F$.

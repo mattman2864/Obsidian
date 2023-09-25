@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Force.md",
+                "file": "British Action Toward Neutrality.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Force.md",
+                "file": "British Action Toward Neutrality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Force.md",
+                "file": "British Action Toward Neutrality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Force.md"
+                "file": "British Action Toward Neutrality.md"
               }
             }
           },
@@ -179,8 +179,11 @@
   },
   "active": "d1e69206efc6e399",
   "lastOpenFiles": [
-    "Net Work.md",
+    "Louisiana Purchase.md",
+    "Currency Act.md",
+    "Linked List.md",
     "Force.md",
+    "Net Work.md",
     "Area.md",
     "Object.md",
     "Methods.md",
@@ -202,9 +205,6 @@
     "Spanish Inquisition.md",
     "Scalar.md",
     "One Sample Interval.md",
-    "Stamp Act.md",
-    "Tests for Paired Data.md",
-    "Mean.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Electrical Symbols.png.png",
