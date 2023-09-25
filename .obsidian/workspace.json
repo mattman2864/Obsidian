@@ -19,8 +19,12 @@
             "id": "39d84b5fbf99f15e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Italy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Italy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Italy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Italy.md"
+              }
             }
           },
           {
@@ -179,6 +187,9 @@
   },
   "active": "39d84b5fbf99f15e",
   "lastOpenFiles": [
+    "Baldassare Castiglione.md",
+    "Italy.md",
+    "Contrapposto.md",
     "Deng Xiaoping.md",
     "Thomas Jefferson.md",
     "John Adams.md",
@@ -202,9 +213,6 @@
     "Stamp Act.md",
     "Black Death.md",
     "Methods.md",
-    "Humanism.md",
-    "Insulator.md",
-    "Work.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",
