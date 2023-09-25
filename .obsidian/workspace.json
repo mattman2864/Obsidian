@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area.md",
+                "file": "Force.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Area.md",
+                "file": "Force.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Area.md",
+                "file": "Force.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area.md"
+                "file": "Force.md"
               }
             }
           },
@@ -180,8 +179,10 @@
   },
   "active": "d1e69206efc6e399",
   "lastOpenFiles": [
-    "Object.md",
+    "Net Work.md",
+    "Force.md",
     "Area.md",
+    "Object.md",
     "Methods.md",
     "William Pitt.md",
     "Jeffersonian Republicanism.md",
@@ -204,8 +205,6 @@
     "Stamp Act.md",
     "Tests for Paired Data.md",
     "Mean.md",
-    "Hash Table.md",
-    "Two-Tailed Proportions.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Electrical Symbols.png.png",
