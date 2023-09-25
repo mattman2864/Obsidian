@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods.md",
+                "file": "Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods.md",
+                "file": "Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods.md",
+                "file": "Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods.md"
+                "file": "Area.md"
               }
             }
           },
@@ -180,6 +180,9 @@
   },
   "active": "d1e69206efc6e399",
   "lastOpenFiles": [
+    "Object.md",
+    "Area.md",
+    "Methods.md",
     "William Pitt.md",
     "Jeffersonian Republicanism.md",
     "Population Growth 1790-1810.md",
@@ -203,9 +206,6 @@
     "Mean.md",
     "Hash Table.md",
     "Two-Tailed Proportions.md",
-    "Franks.md",
-    "Salic Law.md",
-    "Parameter.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Electrical Symbols.png.png",
