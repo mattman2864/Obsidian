@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jeffersonian Republic.md",
+                "file": "Thomas Jefferson.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jeffersonian Republic.md",
+                "file": "Thomas Jefferson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jeffersonian Republic.md",
+                "file": "Thomas Jefferson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jeffersonian Republic.md"
+                "file": "Thomas Jefferson.md"
               }
             }
           },
@@ -187,8 +187,9 @@
   },
   "active": "ed2fec5a59873c21",
   "lastOpenFiles": [
-    "Tertium Quids.md",
+    "John Adams.md",
     "Jeffersonian Republic.md",
+    "Tertium Quids.md",
     "Republicanism.md",
     "Parameter.md",
     "Franks.md",
@@ -212,7 +213,6 @@
     "Insulator.md",
     "Work.md",
     "System.md",
-    "Product Rule.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",

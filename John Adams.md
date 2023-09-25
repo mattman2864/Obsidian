@@ -1,6 +1,6 @@
 - Separate of High Federalists
 	- Washington appointed cabinet
-- Jefferson as VP
+- [[Thomas Jefferson]] as VP
 	- party pressures prohibit collaboration
 - Conflict with France
 # Major Events During Presidency
@@ -11,7 +11,7 @@
 	- **Convention of Morfentaine/Convention of 1800**
 # Crushing Political Dissent
 - 1798 Army was mobilized
-- Staffed by federalists
+- Staffed by [[Federalists]]
 - Adams partial to Navy
 - May 1798 Navy Dept. created
 - High Federalists wanted Army to crush republicans
@@ -30,5 +30,5 @@ Used courts and presidency to silence opposition
 States can disregard federal law under certain circumstances
 Unconstitutionality of [[Alien and Sedition Acts]]
 # Following Washington's Precedent
-- Did not follow Washington's wish of there being no political parties
+- Did not follow [[George Washington]]'s wish of there being no political parties
 - Had a peaceful transfer of power to [[Thomas Jefferson]] after the [[1800 Election]]
