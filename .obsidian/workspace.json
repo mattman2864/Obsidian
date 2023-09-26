@@ -19,8 +19,12 @@
             "id": "39d84b5fbf99f15e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Aaron Burr.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -77,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "system",
+                "query": "alexander",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aaron Burr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aaron Burr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Aaron Burr.md"
+              }
             }
           },
           {
@@ -205,6 +214,8 @@
   },
   "active": "39d84b5fbf99f15e",
   "lastOpenFiles": [
+    "Alexander Hamilton.md",
+    "Aaron Burr.md",
     "Thomas Jefferson.md",
     "Jeffersonian Republic.md",
     "Louisiana Purchase.md",
@@ -229,8 +240,6 @@
     "Parameter.md",
     "Franks.md",
     "Force.md",
-    "Christopher Columbus Voyages to the Americas.md",
-    "Area.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",

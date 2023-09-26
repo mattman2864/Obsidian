@@ -4,6 +4,7 @@ Head of national treasury under Washington, Federalist.
 - Loose interpretation "implied powers"
 - Wealthy class was key to survival of republic
 - Once they saw benefit of strong central government on their economic well being, would bring prosperity to common people
+- Killed in a duel by [[Aaron Burr]], a major political rival
 # Debt Report:
 - US Debt = $54 Million
 - State's Debt = $25 Million
