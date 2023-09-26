@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Increments.md",
+                "file": "Kinematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Increments.md",
+                "file": "Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Increments.md",
+                "file": "Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Increments.md"
+                "file": "Kinematics.md"
               }
             }
           },
@@ -181,6 +181,9 @@
   },
   "active": "c753292d638031ef",
   "lastOpenFiles": [
+    "Work.md",
+    "Kinematics.md",
+    "Increments.md",
     "Power Rule.md",
     "1796 Election.md",
     "Age of Exploration.md",
@@ -204,9 +207,6 @@
     "Italy.md",
     "Baldassare Castiglione.md",
     "Contrapposto.md",
-    "Deng Xiaoping.md",
-    "John Adams.md",
-    "Tertium Quids.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",

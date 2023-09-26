@@ -1,12 +1,4 @@
 {
-  "accentColor": "#9ae0fe",
-  "cssTheme": "Catppuccin",
-  "theme": "obsidian",
-<<<<<<< HEAD
-  "textFontFamily": "Bookman Old Style"
-=======
-  "textFontFamily": "Constantia",
-  "interfaceFontFamily": "Ubuntu",
-  "monospaceFontFamily": "Courier New"
->>>>>>> origin/main
+  "textFontFamily": "Cambria",
+  "interfaceFontFamily": "Inter"
 }
