@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Battle of Tippecanoe.md",
-                "mode": "source",
+                "file": "War of 1812.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Battle of Tippecanoe.md",
+                "file": "War of 1812.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Battle of Tippecanoe.md",
+                "file": "War of 1812.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Battle of Tippecanoe.md"
+                "file": "War of 1812.md"
               }
             }
           },
@@ -211,8 +211,8 @@
   },
   "active": "39d84b5fbf99f15e",
   "lastOpenFiles": [
-    "Embargo Act.md",
     "Battle of Tippecanoe.md",
+    "Embargo Act.md",
     "War Hawks.md",
     "War of 1812.md",
     "Non-Intercourse Act.md",
