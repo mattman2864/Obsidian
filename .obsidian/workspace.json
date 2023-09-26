@@ -14,45 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "39d84b5fbf99f15e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aaron Burr.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07ae19d27d94c291",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "War Hawks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bd6653f36bdc1bc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embargo Act.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aaron Burr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aaron Burr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aaron Burr.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,10 +171,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "39d84b5fbf99f15e",
+  "active": "c753292d638031ef",
   "lastOpenFiles": [
-    "Alexander Hamilton.md",
+    "War Hawks.md",
     "Aaron Burr.md",
+    "Alexander Hamilton.md",
     "Thomas Jefferson.md",
     "Jeffersonian Republic.md",
     "Louisiana Purchase.md",
@@ -223,7 +183,6 @@
     "War of 1812.md",
     "Battle of Tippecanoe.md",
     "Embargo Act.md",
-    "War Hawks.md",
     "Non-Intercourse Act.md",
     "conflict-files-obsidian-git.md",
     "Pontiacs Rebellion.md",
