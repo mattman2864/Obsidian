@@ -19,12 +19,8 @@
             "id": "39d84b5fbf99f15e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thomas Jefferson.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -119,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thomas Jefferson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thomas Jefferson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Thomas Jefferson.md"
-              }
+              "state": {}
             }
           },
           {
@@ -213,6 +205,7 @@
   },
   "active": "39d84b5fbf99f15e",
   "lastOpenFiles": [
+    "Thomas Jefferson.md",
     "Jeffersonian Republic.md",
     "Louisiana Purchase.md",
     "Lewis and Clark.md",
@@ -230,7 +223,6 @@
     "Baldassare Castiglione.md",
     "Contrapposto.md",
     "Deng Xiaoping.md",
-    "Thomas Jefferson.md",
     "John Adams.md",
     "Tertium Quids.md",
     "Republicanism.md",
