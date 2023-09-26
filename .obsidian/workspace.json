@@ -11,8 +11,12 @@
             "id": "c753292d638031ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "John Marshall.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -83,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "John Marshall.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "John Marshall.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "John Marshall.md"
+              }
             }
           },
           {
@@ -173,6 +181,7 @@
   },
   "active": "c753292d638031ef",
   "lastOpenFiles": [
+    "John Marshall.md",
     "War Hawks.md",
     "Aaron Burr.md",
     "Alexander Hamilton.md",
@@ -198,7 +207,6 @@
     "Republicanism.md",
     "Parameter.md",
     "Franks.md",
-    "Force.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",
