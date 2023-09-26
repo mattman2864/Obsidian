@@ -22,9 +22,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "07ae19d27d94c291",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle of Tippecanoe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Battle of Tippecanoe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Battle of Tippecanoe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Battle of Tippecanoe.md"
+              }
             }
           },
           {
@@ -177,8 +193,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "39d84b5fbf99f15e",
+  "active": "07ae19d27d94c291",
   "lastOpenFiles": [
+    "Battle of Tippecanoe.md",
     "Velocity.md",
     "Inclinometer.md",
     "Astrolabe.md",
@@ -204,7 +221,6 @@
     "Tariff and Tonnage of 1789.md",
     "Declaration and Resolves.md",
     "Sons and Daughters of Liberty.md",
-    "The Great Chain of Being.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",
