@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newtons First Law.md",
+                "file": "Kinematics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newtons First Law.md",
+                "file": "Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newtons First Law.md",
+                "file": "Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newtons First Law.md"
+                "file": "Kinematics.md"
               }
             }
           },
@@ -176,8 +176,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19fd60a41e16003e",
+  "active": "d1e69206efc6e399",
   "lastOpenFiles": [
+    "Newtons First Law.md",
     "War of 1812.md",
     "War Hawks.md",
     "Projectile.md",
@@ -205,7 +206,6 @@
     "Inclinometer.md",
     "Critical Value.md",
     "Composition.md",
-    "Writs of Assistance.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "John Adams Portrait.jpg",
     "James Madison Portrait.jpg",
