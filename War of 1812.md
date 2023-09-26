@@ -18,4 +18,10 @@
 ## Peaceable Coercion
 - The [[Embargo Act]]
 - [[Non-Intercourse Act]]
-- [[Macon's]]
+- [[Macons Bill 2]]
+- Unexpected Consequences:
+	- Laid the groundwork for US industrial power.
+	- [[Thomas Jefferson]], a critic of industrial America, ironically contributed to [[Alexander Hamilton]]'s view of the US
+### Other Causes
+- [[Battle of Tippecanoe]]
+- [[War Hawks]]

@@ -19,8 +19,12 @@
             "id": "39d84b5fbf99f15e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Battle of Tippecanoe.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -29,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "War of 1812.md",
+                "file": "War Hawks.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "War of 1812.md",
+                "file": "Battle of Tippecanoe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "War of 1812.md",
+                "file": "Battle of Tippecanoe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "War of 1812.md"
+                "file": "Battle of Tippecanoe.md"
               }
             }
           },
@@ -205,12 +209,13 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "07ae19d27d94c291",
+  "active": "39d84b5fbf99f15e",
   "lastOpenFiles": [
-    "Non-Intercourse Act.md",
-    "War of 1812.md",
-    "Battle of Tippecanoe.md",
     "Embargo Act.md",
+    "Battle of Tippecanoe.md",
+    "War Hawks.md",
+    "War of 1812.md",
+    "Non-Intercourse Act.md",
     "conflict-files-obsidian-git.md",
     "Pontiacs Rebellion.md",
     "Velocity.md",
@@ -232,7 +237,6 @@
     "Area.md",
     "Lewis and Clark.md",
     "Louisiana Purchase.md",
-    "Population Growth 1790-1810.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",
