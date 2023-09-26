@@ -1,5 +1,4 @@
-The four main [[Kinematics|kinematic]] equations in [[Physics]] are:
-
+Assuming [[acceleration]] is constant, k
 no $v_f$:
 $$d=v_it+\frac{at^2}{2}$$
 no $t$:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinematics.md",
+                "file": "Kinematic Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinematics.md",
+                "file": "Kinematic Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinematics.md",
+                "file": "Kinematic Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinematics.md"
+                "file": "Kinematic Equations.md"
               }
             }
           },
@@ -181,8 +181,10 @@
   },
   "active": "c753292d638031ef",
   "lastOpenFiles": [
-    "Work.md",
     "Kinematics.md",
+    "Pasted image 20230926131407.png",
+    "Pasted image 20230926131221.png",
+    "Work.md",
     "Increments.md",
     "Power Rule.md",
     "1796 Election.md",
@@ -206,7 +208,6 @@
     "Astrolabe.md",
     "Italy.md",
     "Baldassare Castiglione.md",
-    "Contrapposto.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",
@@ -215,8 +216,6 @@
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",
     "calcbsfig1-3.png",
-    "Greece Map.gif",
-    "Benjamin Franklin Portrait.jpg",
-    "Alexander Hamilton Portrait.jpg"
+    "Greece Map.gif"
   ]
 }
