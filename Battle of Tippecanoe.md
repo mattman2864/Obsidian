@@ -1,1 +1,1 @@
-The Battle of Tippecanoe was fought between American soldiers and Native American warriors along the banks of the Keth-tip-pe-can-nunk, a river in the heart of central [[Indiana]]. It took place in November 1811
+The Battle of Tippecanoe was fought between American soldiers and Native American warriors along the banks of the [[Tippecanoe River]], in the heart of central [[Indiana]]. It took place in November 1811.
