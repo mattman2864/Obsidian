@@ -1,4 +1,1 @@
-- Sent by [[Thomas Jefferson]]
-- May 1804 to Sept 1806
-- Find out if Missouri River was commercial route to Pacific
-- Also flora and fauna data
+Lewis and Clark were explorers sent by [[Thomas Jefferson]] to 
