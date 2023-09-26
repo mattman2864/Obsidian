@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Battle of Tippecanoe.md",
+                "file": "War of 1812.md",
                 "mode": "source",
                 "source": false
               }
@@ -41,14 +41,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "War of 1812.md",
+                "file": "Embargo Act.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,10 +205,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bd6653f36bdc1bc4",
+  "active": "07ae19d27d94c291",
   "lastOpenFiles": [
-    "Battle of Tippecanoe.md",
+    "Non-Intercourse Act.md",
     "War of 1812.md",
+    "Battle of Tippecanoe.md",
+    "Embargo Act.md",
     "conflict-files-obsidian-git.md",
     "Pontiacs Rebellion.md",
     "Velocity.md",
@@ -231,8 +233,6 @@
     "Lewis and Clark.md",
     "Louisiana Purchase.md",
     "Population Growth 1790-1810.md",
-    "Westward Expansion.md",
-    "Tariff and Tonnage of 1789.md",
     "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
     "Excalidraw",

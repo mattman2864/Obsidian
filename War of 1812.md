@@ -15,5 +15,7 @@
 - Jefferson's Response:
 	- Forbade British ships to dock in American ports
 	- Ordered State governors to call up as much as 100,000 militiamen
-## Peacable Coercion
-### 3. The Embargo Act (1807)
+## Peaceable Coercion
+- The [[Embargo Act]]
+- [[Non-Intercourse Act]]
+- [[Macon's]]

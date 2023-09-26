@@ -1,0 +1,1 @@
+The Embargo Act was president [[Thomas Jefferson]]'s response to [[Britain|British]] and [[France|French]] molestation of U.S. merchant ships carrying, or suspected of carrying, war materials and other cargoes to European belligerents during the [[Napoleonic Wars]].
