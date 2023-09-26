@@ -1,0 +1,1 @@
+Two-dimensional kinematics includes the topic of **projectiles** $-$ objects moving through the air under the influence of [[gravity]]. Projectiles, ignoring air resistance, follow a [[Parabola|parabolic]] trajectory. The horizontal component of the velocity will remain constant  while the vertical component accelerates as in free fall.
