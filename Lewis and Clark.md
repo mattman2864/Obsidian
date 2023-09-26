@@ -1,1 +1,1 @@
-Lewis and Clark were explorers sent by [[Thomas Jefferson]] to 
+Lewis and Clark were explorers sent by [[Thomas Jefferson]] to explore the lands west of the [[Mississippi River]]. It was made even more important by the [[Louisiana Purchase]].

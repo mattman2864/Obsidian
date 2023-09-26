@@ -1,3 +1,1 @@
-- May 1801 [[Spain]] secretly cedes Louisiana to [[France]]
-- Jan 1803 [[James Monroe]] and Livingstone sent to [[Paris]] to acquire New Orleans
-- [[Treaty of Cession]]
+In may 1801, [[Spain]] secretly ceded the [[Louisiana]] territory to [[France]]. [[Thomas Jefferson]] sent two ambassadors to France to offer to buy [[New Orleans]] for $10 million, but [[Napoleon]], in need of money from the [[Napoleonic Wars]], offered the entire Louisiana territory for $15 million dollars. The ambassadors were surprised at such an offer, and immediately accepted. The purchase was very popular in 
