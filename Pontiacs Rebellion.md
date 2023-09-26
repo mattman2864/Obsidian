@@ -1,0 +1,1 @@
+Pontiac's Rebellion was an 18-month conflict with the American Indians of the [[Ohio Valley]]. Led by [[Chief Pontiac]], leader of the [[Ottawa]] people, natives attacked [[Britain|British]] colonial settlements from the [[Great Lakes]] to [[Virginia]]. resulted in the [[Proclamation of 1763]]
