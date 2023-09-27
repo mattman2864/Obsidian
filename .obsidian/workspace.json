@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2462996e6dfe6a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hartford Convention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e6fc42a528af85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treaty of Ghent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5e2be19071ccc97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Battle of New Orleans.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "War of 1812.md",
+                "file": "Battle of New Orleans.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "War of 1812.md",
+                "file": "Battle of New Orleans.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "War of 1812.md"
+                "file": "Battle of New Orleans.md"
               }
             }
           },
@@ -177,8 +214,11 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "d4618dcca7dc376a",
+  "active": "d5e2be19071ccc97",
   "lastOpenFiles": [
+    "Treaty of Ghent.md",
+    "Battle of New Orleans.md",
+    "Hartford Convention.md",
     "War of 1812.md",
     "Pointer.md",
     "Point Estimator.md",
@@ -206,9 +246,6 @@
     "Alexander Hamilton.md",
     "Thomas Jefferson.md",
     "Jeffersonian Republic.md",
-    "Louisiana Purchase.md",
-    "Lewis and Clark.md",
-    "Battle of Tippecanoe.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
