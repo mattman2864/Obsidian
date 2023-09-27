@@ -16,3 +16,4 @@ The [[Slope]] of the position-time graph is the velocity. The quadratic position
 ## Multi-Dimensional
 When analyzing motion of more than one dimension, the position, velocity,  and acceleration must be broken down into perpendicular components. Parallel components are combined and then the components can be recombined to give the magnitude and direction of the resultant.
 ![[Vector.svg]]
+If the vector in the diagram represents the velocity $v$ of an object at a point in time, 

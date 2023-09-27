@@ -20,17 +20,16 @@
             }
           },
           {
-            "id": "f9b661c5e788dd17",
+            "id": "f93c3b5fd02f8d21",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "excalidraw",
               "state": {
-                "file": "Vector.svg"
+                "file": "Excalidraw/Vector.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector.svg",
+                "file": "Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector.svg",
+                "file": "Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector.svg"
+                "file": "Kinematics.md"
               }
             }
           },
@@ -189,10 +188,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9b661c5e788dd17",
+  "active": "87d7afef21485b16",
   "lastOpenFiles": [
+    "Excalidraw/Vector.md",
+    "Excalidraw/Vector.svg",
     "Kinematics.md",
+    "Untitled Diagram.svg",
     "Vector.svg",
+    "Velocity.md",
     "Vector.svg.xml",
     "2023-09-27.md",
     "Chemical Reaction.md",
@@ -221,8 +224,6 @@
     "conflict-files-obsidian-git.md",
     "Ottoman Empire.md",
     "Projectile.md",
-    "Free Fall.md",
-    "Kinematic Equations.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
