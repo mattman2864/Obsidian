@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "caf9cf753f514717",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ottoman Empire.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ottoman Empire.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ottoman Empire.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -185,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,8 +213,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "a7a0e94f12d2e47b",
+  "active": "caf9cf753f514717",
   "lastOpenFiles": [
+    "Ottoman Empire.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20230926131407.png",
     "Pasted image 20230926131221.png",
     "Pasted image 20230920130033.png",
@@ -229,7 +242,6 @@
     "Battle of Tippecanoe.md",
     "Embargo Act.md",
     "Non-Intercourse Act.md",
-    "conflict-files-obsidian-git.md",
     "Pontiacs Rebellion.md",
     "Velocity.md",
     "Inclinometer.md",
