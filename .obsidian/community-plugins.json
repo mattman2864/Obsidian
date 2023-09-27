@@ -1,9 +1,10 @@
 [
-  "table-editor-obsidian",
   "obsidian-image-toolkit",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
   "obsidian-charts",
   "obsidian-style-settings",
-  "obsidian-math-plus"
+  "obsidian-math-plus",
+  "drawio-obsidian",
+  "table-editor-obsidian"
 ]

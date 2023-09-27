@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treaty of Ghent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5e2be19071ccc97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Battle of New Orleans.md",
+                "file": "Kinematics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,9 +61,9 @@
             "id": "7d65674acda470a7",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -106,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945
+    "width": 823.0110359191895
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Battle of New Orleans.md",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Battle of New Orleans.md",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Battle of New Orleans.md"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -209,15 +197,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5e2be19071ccc97",
+  "active": "7d65674acda470a7",
   "lastOpenFiles": [
-    "Treaty of Ghent.md",
+    "Kinematics.md",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2023-09-27 09.33.32.excalidraw.md",
     "Battle of New Orleans.md",
+    "Treaty of Ghent.md",
     "Hartford Convention.md",
     "War of 1812.md",
     "Pointer.md",
@@ -231,7 +222,6 @@
     "Pasted image 20230926131407.png",
     "conflict-files-obsidian-git.md",
     "Ottoman Empire.md",
-    "Kinematics.md",
     "Projectile.md",
     "Free Fall.md",
     "Kinematic Equations.md",
@@ -244,14 +234,11 @@
     "War Hawks.md",
     "Aaron Burr.md",
     "Alexander Hamilton.md",
-    "Thomas Jefferson.md",
-    "Jeffersonian Republic.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
     "calcbcfig1-1.png",
     "calcbcfig1-2.png",
-    "calcbsfig1-3.png",
-    "Greece Map.gif"
+    "calcbsfig1-3.png"
   ]
 }
