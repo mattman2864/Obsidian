@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projectile.md",
+                "file": "Ottoman Empire.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,13 +90,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -112,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projectile.md",
+                "file": "Ottoman Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projectile.md",
+                "file": "Ottoman Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projectile.md"
+                "file": "Ottoman Empire.md"
               }
             }
           },
@@ -206,12 +204,14 @@
   },
   "active": "a7a0e94f12d2e47b",
   "lastOpenFiles": [
-    "Free Fall.md",
-    "Projectile.md",
-    "Kinematic Equations.md",
-    "Kinematics.md",
     "Pasted image 20230926131407.png",
     "Pasted image 20230926131221.png",
+    "Pasted image 20230920130033.png",
+    "Pasted image 20230920110202.png",
+    "Kinematics.md",
+    "Projectile.md",
+    "Free Fall.md",
+    "Kinematic Equations.md",
     "Work.md",
     "Increments.md",
     "Power Rule.md",
@@ -233,9 +233,6 @@
     "Pontiacs Rebellion.md",
     "Velocity.md",
     "Inclinometer.md",
-    "Astrolabe.md",
-    "Pasted image 20230920130033.png",
-    "Pasted image 20230920110202.png",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
