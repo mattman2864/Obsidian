@@ -11,8 +11,12 @@
             "id": "87d7afef21485b16",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kinematics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -71,6 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kinematics.md"
+              }
             }
           },
           {
@@ -162,7 +170,9 @@
   "active": "87d7afef21485b16",
   "lastOpenFiles": [
     "Vector.svg",
+    "Vector.svg",
     "Kinematics.md",
+    "Vector.svg.xml",
     "2023-09-27.md",
     "Chemical Reaction.md",
     "Square Rigging.md",
@@ -196,7 +206,6 @@
     "Electrical Symbols.png.png",
     "Current.png",
     "calcbcfig1-1.png",
-    "calcbcfig1-2.png",
-    "calcbsfig1-3.png"
+    "calcbcfig1-2.png"
   ]
 }
