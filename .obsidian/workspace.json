@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9b661c5e788dd17",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Vector.svg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,8 +65,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ffebbe939d5b7618",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -75,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinematics.md",
+                "file": "Vector.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinematics.md",
+                "file": "Vector.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinematics.md"
+                "file": "Vector.svg"
               }
             }
           },
@@ -167,11 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87d7afef21485b16",
+  "active": "f9b661c5e788dd17",
   "lastOpenFiles": [
-    "Vector.svg",
-    "Vector.svg",
     "Kinematics.md",
+    "Vector.svg",
     "Vector.svg.xml",
     "2023-09-27.md",
     "Chemical Reaction.md",
@@ -205,7 +226,6 @@
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
-    "calcbcfig1-1.png",
-    "calcbcfig1-2.png"
+    "calcbcfig1-1.png"
   ]
 }
