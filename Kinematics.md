@@ -16,4 +16,12 @@ The [[Slope]] of the position-time graph is the velocity. The quadratic position
 ## Multi-Dimensional
 When analyzing motion of more than one dimension, the position, velocity,  and acceleration must be broken down into perpendicular components. Parallel components are combined and then the components can be recombined to give the magnitude and direction of the resultant.
 ![[Vector.svg]]
-If the vector in the diagram represents the velocity $v$ of an object at a point in time, 
+If the vector in the diagram represents the velocity $v$ of an object at a point in time, it would be broken into components $v_x$ and $v_y$:
+$$v_x=v\cos\phi$$
+$$v_y=v\sin\phi$$
+And given $v_x$ and $v_y$, the magnitude of the resultant vector $v$ and angle $\phi$ could be found using:
+$$v=\sqrt{v_x^2+v_y^2}$$
+$$\phi=\tan^{-1}\frac{v_y}{v_x}$$
+Alternatively, if the motion is in multiple dimensions, the position, velocity, and acceleration functions may be given in vector notation such as:
+$$\vec{r}=A\hat{i}+B\hat{j}+C\hat{k}$$
+...for a three-dimensional position vector. Velocity and acceleration vectors may be written in a similar notation. In this format, the components are clearly visible and easy to add, subtract, multiply, or divide, and the magnitude and direction can be determined as shown above.
