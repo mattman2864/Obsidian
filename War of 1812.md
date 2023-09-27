@@ -25,3 +25,12 @@
 ### Other Causes
 - [[Battle of Tippecanoe]]
 - [[War Hawks]]
+## American Problems
+- The U.S. was unprepared militarily
+	- Had a 12-ship navy vs [[Britain]]'s 800 ships
+	- Americans disliked a draft and preferred to enlist in disorganized state militias
+- Financially unprepared
+	- Flood of paper money
+	- Revenue from import tariffs declined
+- Regional disagreements
+	- [[New England]] refuses to participate

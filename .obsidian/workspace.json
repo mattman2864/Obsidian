@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "53b19a08f84fc6a7",
+        "id": "48b2fb00ecca3bad",
         "type": "tabs",
         "children": [
           {
-            "id": "c753292d638031ef",
+            "id": "d4618dcca7dc376a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinematic Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91123aecf194258f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Free Fall.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7a0e94f12d2e47b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ottoman Empire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "caf9cf753f514717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "War of 1812.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "War of 1812.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "War of 1812.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "War of 1812.md"
               }
             }
           },
@@ -213,14 +176,19 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "caf9cf753f514717",
+  "active": "d4618dcca7dc376a",
   "lastOpenFiles": [
-    "Ottoman Empire.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted image 20230926131407.png",
+    "Pointer.md",
+    "Point Estimator.md",
+    "Point Estimate.md",
+    "Petrarch.md",
+    "Patrick Henry.md",
     "Pasted image 20230926131221.png",
-    "Pasted image 20230920130033.png",
     "Pasted image 20230920110202.png",
+    "Pasted image 20230920130033.png",
+    "Pasted image 20230926131407.png",
+    "conflict-files-obsidian-git.md",
+    "Ottoman Empire.md",
     "Kinematics.md",
     "Projectile.md",
     "Free Fall.md",
@@ -240,11 +208,6 @@
     "Lewis and Clark.md",
     "War of 1812.md",
     "Battle of Tippecanoe.md",
-    "Embargo Act.md",
-    "Non-Intercourse Act.md",
-    "Pontiacs Rebellion.md",
-    "Velocity.md",
-    "Inclinometer.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
