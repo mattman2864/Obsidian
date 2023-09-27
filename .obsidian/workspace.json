@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "48b2fb00ecca3bad",
+        "id": "bd2a036d131d2c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "d4618dcca7dc376a",
+            "id": "87d7afef21485b16",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "War of 1812.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2462996e6dfe6a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hartford Convention.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e6fc42a528af85b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kinematics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,22 +29,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d65674acda470a7",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
-            }
-          },
-          {
             "id": "f2c3bd1fed6f73b4",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "alexander",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 823.0110359191895
+    "width": 260.01103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -110,7 +71,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +87,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled Diagram.svg"
-              }
+              "state": {}
             }
           },
           {
@@ -202,15 +159,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7d65674acda470a7",
+  "active": "87d7afef21485b16",
   "lastOpenFiles": [
+    "Vector.svg",
     "Kinematics.md",
-    "Untitled Diagram.svg",
+    "2023-09-27.md",
+    "Chemical Reaction.md",
+    "Square Rigging.md",
+    "Treaty of Tordesillas.md",
+    "Pontiacs Rebellion.md",
+    "Townshend Act.md",
+    "Array.md",
+    "Washington_s Farewell Address.md",
+    "Force.md",
+    "War of 1812.md",
+    "Untitled.canvas",
+    "Hartford Convention.md",
     "Excalidraw/Drawing 2023-09-27 09.33.32.excalidraw.md",
     "Battle of New Orleans.md",
     "Treaty of Ghent.md",
-    "Hartford Convention.md",
-    "War of 1812.md",
     "Pointer.md",
     "Point Estimator.md",
     "Point Estimate.md",
@@ -225,15 +192,6 @@
     "Projectile.md",
     "Free Fall.md",
     "Kinematic Equations.md",
-    "Work.md",
-    "Increments.md",
-    "Power Rule.md",
-    "1796 Election.md",
-    "Age of Exploration.md",
-    "John Marshall.md",
-    "War Hawks.md",
-    "Aaron Burr.md",
-    "Alexander Hamilton.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",

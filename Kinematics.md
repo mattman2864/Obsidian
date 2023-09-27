@@ -15,3 +15,4 @@ When looking at kinematic graphs this pattern can also be seen. The slope of the
 The slope of the position-time graph is the velocity. The quadratic position-time graph becomes a linear velocity-time graph with a constant positive slope.  If the position-time graph is concave up, the acceleration is positive.  If the position-time graph is concave down, the acceleration is negative.  The slope of a velocity-time graph is the acceleration.
 ## Multi-Dimensional
 When analyzing motion of more than one dimension, the position, velocity,  and acceleration must be broken down into perpendicular components. Parallel components are combined and then the components can be recombined to give the magnitude and direction of the resultant.
+![[Vector.svg]]
