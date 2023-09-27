@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,6 +179,7 @@
   },
   "active": "d4618dcca7dc376a",
   "lastOpenFiles": [
+    "War of 1812.md",
     "Pointer.md",
     "Point Estimator.md",
     "Point Estimate.md",
@@ -206,7 +208,6 @@
     "Jeffersonian Republic.md",
     "Louisiana Purchase.md",
     "Lewis and Clark.md",
-    "War of 1812.md",
     "Battle of Tippecanoe.md",
     "Excalidraw",
     "Electrical Symbols.png.png",

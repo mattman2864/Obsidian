@@ -34,3 +34,7 @@
 	- Revenue from import tariffs declined
 - Regional disagreements
 	- [[New England]] refuses to participate
+## War Fought on Three Fronts
+The war was fought on the Mid-Atlantic Coast which included the Chesapeake, such as [[Washington DC]] and [[Baltimore]], the South which included [[Alabama]], [[Mississippi]], and [[Florida]], and the Canadian-American front.
+## U.S. Plan in North
+The United States' plan was a three pronged attack. The attacks were on [[Lake Champlain]] in [[Montreal]], along the [[Niagara River]], and in upper [[Canada]], or modern-day [[Ontario]].
