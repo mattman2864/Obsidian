@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bd2a036d131d2c5a",
+        "id": "d95a8ab79f0fd8bb",
         "type": "tabs",
         "children": [
           {
-            "id": "14611456993c4b32",
+            "id": "a7f80dc3026fcdfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "War Hawks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8326f78f7d8b151e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "James Monroe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "827f784923401d5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monroe Doctrine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11e082a496867901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Missouri Compromise.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monroe Doctrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monroe Doctrine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Monroe Doctrine.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,18 +169,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "827f784923401d5f",
+  "active": "a7f80dc3026fcdfe",
   "lastOpenFiles": [
-    "Tallmadge Amendment.md",
-    "Monroe Doctrine.md",
-    "Missouri Compromise.md",
+    "War Hawks.md",
     "James Monroe.md",
+    "Monroe Doctrine.md",
+    "Tallmadge Amendment.md",
+    "Missouri Compromise.md",
     "American System.md",
     "Untitled.md",
     "Second Bank of the U.S..md",
     "Tariff of 1816.md",
     "conflict-files-obsidian-git.md",
-    "War Hawks.md",
     "Kinematics.md",
     "Excalidraw/Vector.md",
     "Excalidraw/Vector.svg",
