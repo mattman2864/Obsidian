@@ -1,0 +1,1 @@
+The Second Bank of the U.S. was the second federally authorized [[Alexander Hamilton|Hamiltonian]] national bank in the [[United States of America|United States]]. It was a policy of the [[American System]].
