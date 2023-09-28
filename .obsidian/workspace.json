@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "547a1c4d6465cb94",
+            "id": "252982a296c2cad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "American System.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "American System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "American System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "American System.md"
               }
             }
           },
@@ -202,9 +202,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "547a1c4d6465cb94",
+  "active": "252982a296c2cad6",
   "lastOpenFiles": [
     "James Monroe.md",
+    "American System.md",
     "conflict-files-obsidian-git.md",
     "War Hawks.md",
     "Kinematics.md",
@@ -238,7 +239,6 @@
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
-    "Ottoman Empire.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
