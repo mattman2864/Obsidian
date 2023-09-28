@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "547a1c4d6465cb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "James Monroe.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "James Monroe.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "James Monroe.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -174,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +202,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8326f78f7d8b151e",
+  "active": "547a1c4d6465cb94",
   "lastOpenFiles": [
-    "War Hawks.md",
     "James Monroe.md",
+    "conflict-files-obsidian-git.md",
+    "War Hawks.md",
     "Kinematics.md",
     "Excalidraw/Vector.md",
     "Excalidraw/Vector.svg",
@@ -226,7 +238,6 @@
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
-    "conflict-files-obsidian-git.md",
     "Ottoman Empire.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
