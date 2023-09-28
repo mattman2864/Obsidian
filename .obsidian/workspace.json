@@ -8,28 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87d7afef21485b16",
+            "id": "14611456993c4b32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kinematics.md",
+                "file": "War Hawks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f93c3b5fd02f8d21",
+            "id": "8326f78f7d8b151e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Vector.md"
+                "file": "James Monroe.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinematics.md",
+                "file": "James Monroe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinematics.md",
+                "file": "James Monroe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kinematics.md"
+                "file": "James Monroe.md"
               }
             }
           },
@@ -188,11 +191,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "87d7afef21485b16",
+  "active": "8326f78f7d8b151e",
   "lastOpenFiles": [
+    "War Hawks.md",
+    "James Monroe.md",
+    "Kinematics.md",
     "Excalidraw/Vector.md",
     "Excalidraw/Vector.svg",
-    "Kinematics.md",
     "Untitled Diagram.svg",
     "Vector.svg",
     "Velocity.md",
@@ -223,7 +228,6 @@
     "Pasted image 20230926131407.png",
     "conflict-files-obsidian-git.md",
     "Ottoman Empire.md",
-    "Projectile.md",
     "Excalidraw",
     "Electrical Symbols.png.png",
     "Current.png",
