@@ -26,8 +26,20 @@
               "type": "markdown",
               "state": {
                 "file": "Newtons Second Law.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "c11bedc50530372d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Newtons Third Law.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -54,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Newtons Second Law.md",
+                "file": "Newtons Third Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Newtons Second Law.md",
+                "file": "Newtons Third Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newtons Second Law.md"
+                "file": "Newtons Third Law.md"
               }
             }
           },
@@ -214,11 +226,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aaefe91955ba142f",
+  "active": "c11bedc50530372d",
   "lastOpenFiles": [
+    "Force.md",
+    "Newtons Third Law.md",
+    "Newtons Second Law.md",
     "Net Force.md",
     "Net Force Diagram.svg",
-    "Newtons Second Law.md",
     "Newtons First Law.md",
     "Array.md",
     "Area.md",
@@ -244,7 +258,6 @@
     "Vector.svg.xml",
     "2023-09-27.md",
     "Chemical Reaction.md",
-    "Square Rigging.md",
     "Untitled.canvas",
     "Pasted image 20230926131221.png",
     "Pasted image 20230920110202.png",

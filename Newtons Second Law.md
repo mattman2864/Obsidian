@@ -15,5 +15,5 @@ $$a_y=\frac{\Sigma F_y}{m}$$
 This shows that the acceleration $a_y$ in the horizontal direction is equal to the net force in the horizontal direction, $\Sigma F_y$, divided by the mass. 
 
 >[!Warning]
->A common mistake is to plug a vertical force into a horizontal equation, or vice versa.
+>A common mistake made is to plug a vertical force into a horizontal equation, or vice versa.
 
