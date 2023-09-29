@@ -25,3 +25,6 @@ $$\phi=\tan^{-1}\frac{v_y}{v_x}$$
 Alternatively, if the motion is in multiple dimensions, the position, velocity, and acceleration functions may be given in vector notation such as:
 $$\vec{r}=A\hat{i}+B\hat{j}+C\hat{k}$$
 ...for a three-dimensional position vector. Velocity and acceleration vectors may be written in a similar notation. In this format, the components are clearly visible and easy to add, subtract, multiply, or divide, and the magnitude and direction can be determined as shown above.
+
+
+$$\frac{\frac{m}{s^2}}{\frac{1}{kg}}=\frac{m}{s^2}\times kg=\frac{kg\;m}{s^2}$$

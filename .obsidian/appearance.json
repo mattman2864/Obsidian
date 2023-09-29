@@ -1,5 +1,6 @@
 {
   "textFontFamily": "Cambria",
   "interfaceFontFamily": "Inter",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 24
 }

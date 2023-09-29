@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8013993a7abe541",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -177,8 +190,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a7f80dc3026fcdfe",
+  "active": "a8013993a7abe541",
   "lastOpenFiles": [
+    "Work.md",
+    "conflict-files-obsidian-git.md",
     "Truth Table.md",
     "Two-Tailed Proportions.md",
     "War Hawks.md",
@@ -190,7 +205,6 @@
     "Untitled.md",
     "Second Bank of the U.S..md",
     "Tariff of 1816.md",
-    "conflict-files-obsidian-git.md",
     "Kinematics.md",
     "Excalidraw/Vector.md",
     "Excalidraw/Vector.svg",
@@ -209,7 +223,6 @@
     "Force.md",
     "War of 1812.md",
     "Untitled.canvas",
-    "Hartford Convention.md",
     "Pasted image 20230926131221.png",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
