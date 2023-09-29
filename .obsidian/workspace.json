@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f705b7882c6f2c",
+        "id": "d95a8ab79f0fd8bb",
         "type": "tabs",
         "children": [
           {
-            "id": "d1e69206efc6e399",
+            "id": "a7f80dc3026fcdfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kinematics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,16 +28,6 @@
         "id": "9a6effe34937b1b3",
         "type": "tabs",
         "children": [
-          {
-            "id": "3acace2d89f5639a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "f2c3bd1fed6f73b4",
             "type": "leaf",
@@ -64,12 +50,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ffebbe939d5b7618",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945
+    "width": 260.01103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kinematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kinematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kinematics.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,56 +157,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1e69206efc6e399",
+  "active": "a7f80dc3026fcdfe",
   "lastOpenFiles": [
-    "Vector.svg.xml",
-    "Treaty of Ghent.md",
-    "Hartford Convention.md",
-    "Excalidraw/Vector.svg",
-    "Excalidraw/Vector.md",
-    "Excalidraw/Drawing 2023-09-27 09.33.32.excalidraw.md",
-    "Newtons First Law.md",
-    "War of 1812.md",
     "War Hawks.md",
-    "Projectile.md",
-    "Pasted image 20230926131407.png",
-    "Pasted image 20230926131221.png",
-    "Non-Intercourse Act.md",
+    "James Monroe.md",
+    "Monroe Doctrine.md",
+    "Tallmadge Amendment.md",
+    "Missouri Compromise.md",
+    "American System.md",
+    "Untitled.md",
+    "Second Bank of the U.S..md",
+    "Tariff of 1816.md",
+    "conflict-files-obsidian-git.md",
     "Kinematics.md",
-    "John Marshall.md",
-    "Free Fall.md",
-    "Embargo Act.md",
-    "Battle of Tippecanoe.md",
-    "Aaron Burr.md",
-    "Voltage.md",
-    "Vector.md",
+    "Excalidraw/Vector.md",
+    "Excalidraw/Vector.svg",
+    "Untitled Diagram.svg",
+    "Vector.svg",
     "Velocity.md",
+    "Vector.svg.xml",
+    "2023-09-27.md",
+    "Chemical Reaction.md",
+    "Square Rigging.md",
+    "Treaty of Tordesillas.md",
+    "Pontiacs Rebellion.md",
+    "Townshend Act.md",
+    "Array.md",
     "Washington_s Farewell Address.md",
-    "Westward Expansion.md",
-    "Whiskey Rebellion.md",
-    "William Pitt.md",
-    "Work.md",
-    "Truth Table.md",
-    "Tests for Paired Data.md",
-    "The Art of Painting by Jan Vermeer.jpg",
-    "John Adams Portrait.jpg",
-    "James Madison Portrait.jpg",
-    "Iranian_Astrolabe_14.jpg",
-    "Greece Map.gif",
-    "Alexander Hamilton Portrait.jpg",
-    "1800 Election Results Map.png",
-    "Excalidraw"
+    "Force.md",
+    "War of 1812.md",
+    "Untitled.canvas",
+    "Hartford Convention.md",
+    "Excalidraw/Drawing 2023-09-27 09.33.32.excalidraw.md",
+    "Battle of New Orleans.md",
+    "Pasted image 20230926131221.png",
+    "Pasted image 20230920110202.png",
+    "Pasted image 20230920130033.png",
+    "Pasted image 20230926131407.png",
+    "Excalidraw",
+    "Electrical Symbols.png.png",
+    "Current.png",
+    "calcbcfig1-1.png"
   ]
 }

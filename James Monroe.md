@@ -1,0 +1,1 @@
+James Monroe was the 5th [[President]] of the [[United States of America]]. He lacked intellect of past presidents, he avoided controversy to maintain national harmony, and he wanted to [[Monroe Doctrine|assert American power]] and influence on the world stage.
