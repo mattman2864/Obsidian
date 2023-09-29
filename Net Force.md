@@ -1,0 +1,2 @@
+A [[force]] is a push or a pull, and the net force ($\Sigma F$ or $F_{NET}$) is the total force$-$or sum of the forces$-$exerted on an object. Adding [[vector]]s is slightly different from adding regular numbers. When adding vectors, the direction must be taken into account. The net force is the *vector sum* of all the forces exerted on an object.
+![[Untitled Diagram.svg]]
