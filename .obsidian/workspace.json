@@ -11,8 +11,12 @@
             "id": "a7f80dc3026fcdfe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Work.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Work.md"
+              }
             }
           },
           {
@@ -171,6 +179,8 @@
   },
   "active": "a7f80dc3026fcdfe",
   "lastOpenFiles": [
+    "Truth Table.md",
+    "Two-Tailed Proportions.md",
     "War Hawks.md",
     "James Monroe.md",
     "Monroe Doctrine.md",
@@ -200,8 +210,6 @@
     "War of 1812.md",
     "Untitled.canvas",
     "Hartford Convention.md",
-    "Excalidraw/Drawing 2023-09-27 09.33.32.excalidraw.md",
-    "Battle of New Orleans.md",
     "Pasted image 20230926131221.png",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
