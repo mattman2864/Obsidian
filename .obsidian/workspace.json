@@ -49,12 +49,12 @@
             "state": {
               "type": "diagram-edit",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Net Force Diagram.svg"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Newtons Second Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Newtons Second Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Newtons Second Law.md"
               }
             }
           },
@@ -214,10 +214,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0246f37b0cc3a908",
+  "active": "aaefe91955ba142f",
   "lastOpenFiles": [
     "Net Force.md",
-    "Untitled Diagram.svg",
+    "Net Force Diagram.svg",
     "Newtons Second Law.md",
     "Newtons First Law.md",
     "Array.md",
