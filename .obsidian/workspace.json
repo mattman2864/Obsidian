@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boston Massacre.md",
+                "file": "SQL.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1fbd45471048131",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boston Massacre.md",
+                "file": "SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boston Massacre.md",
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boston Massacre.md"
+                "file": "SQL.md"
               }
             }
           },
@@ -176,8 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bc6b63fcc54100b",
+  "active": "b1fbd45471048131",
   "lastOpenFiles": [
+    "Scalar.md",
+    "Insulator.md",
+    "Boston Massacre.md",
     "Benjamin Franklin.md",
     "Thomas Jefferson.md",
     "Standard Deviation.md",
@@ -201,9 +215,6 @@
     "Normal Distribution.md",
     "Classes.md",
     "Population Growth 1790-1810.md",
-    "Insulator.md",
-    "Non-Intercourse Act.md",
-    "Whiskey Rebellion.md",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
     "Excalidraw/Vector.svg",
