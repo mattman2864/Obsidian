@@ -1,0 +1,1 @@
+In uniform [[Circle|circular]] motion, the direction of the velocity changes constantly, so there is always an associated acceleration, even though
