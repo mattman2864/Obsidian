@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b1fbd45471048131",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1fbd45471048131",
+  "active": "9bc6b63fcc54100b",
   "lastOpenFiles": [
     "Scalar.md",
     "Insulator.md",
