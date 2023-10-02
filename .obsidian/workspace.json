@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "48c445435d9ee56a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Steamboat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "National Road.md",
+                "file": "Steamboat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "National Road.md",
+                "file": "Steamboat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "National Road.md"
+                "file": "Steamboat.md"
               }
             }
           },
@@ -199,10 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bff91f4b17183a22",
+  "active": "48c445435d9ee56a",
   "lastOpenFiles": [
-    "Waltham-Lowell System.md",
+    "Flat Boat.md",
+    "Steamboat.md",
     "National Road.md",
+    "Waltham-Lowell System.md",
     "conflict-files-obsidian-git.md",
     "centripetal-acceleration-diagram.jpg",
     "Centripetal Acceleration.md",
@@ -227,7 +241,6 @@
     "Missouri Compromise.md",
     "American System.md",
     "Second Bank of the U.S..md",
-    "Tariff of 1816.md",
     "Excalidraw/Vector.svg",
     "Vector.svg",
     "Vector.svg.xml",
