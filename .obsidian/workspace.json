@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3191fa33c21a2383",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waltham-Lowell System.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waltham-Lowell System.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waltham-Lowell System.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -187,9 +199,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06377015b5d5aa3e",
+  "active": "3191fa33c21a2383",
   "lastOpenFiles": [
     "Waltham-Lowell System.md",
+    "conflict-files-obsidian-git.md",
+    "centripetal-acceleration-diagram.jpg",
+    "Centripetal Acceleration.md",
     "Newtons Second Law.md",
     "Normal Force.md",
     "Newtons Third Law.md",
@@ -201,7 +216,6 @@
     "Array.md",
     "Area.md",
     "Ancient Egypt.md",
-    "conflict-files-obsidian-git.md",
     "Work.md",
     "Truth Table.md",
     "Two-Tailed Proportions.md",
@@ -214,8 +228,6 @@
     "Untitled.md",
     "Second Bank of the U.S..md",
     "Tariff of 1816.md",
-    "Kinematics.md",
-    "Excalidraw/Vector.md",
     "Excalidraw/Vector.svg",
     "Vector.svg",
     "Vector.svg.xml",
@@ -226,7 +238,6 @@
     "Pasted image 20230926131407.png",
     "Excalidraw",
     "Electrical Symbols.png.png",
-    "Current.png",
-    "calcbcfig1-1.png"
+    "Current.png"
   ]
 }
