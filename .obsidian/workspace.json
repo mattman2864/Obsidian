@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "60a12fe10b3cb534",
+        "id": "c3699a4375fb273e",
         "type": "tabs",
         "children": [
           {
-            "id": "9bc6b63fcc54100b",
+            "id": "6235d361f113b4ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -169,8 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9bc6b63fcc54100b",
+  "active": "6235d361f113b4ce",
   "lastOpenFiles": [
+    "Excalidraw/Vector.md",
+    "Vector.md",
+    "Projectile.md",
+    "Missouri Compromise.md",
+    "Tallmadge Amendment.md",
+    "The First Italian War.md",
     "Untitled.md",
     "Ferdinand and Isabella.md",
     "Treaty of Tordesillas.md",
@@ -192,12 +198,6 @@
     "1796 Election.md",
     "Semiconductor.md",
     "Britain.md",
-    "Tea Act.md",
-    "Embargo Act.md",
-    "1800 Election.md",
-    "Product Rule.md",
-    "Italy.md",
-    "Normal Force.md",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
     "Excalidraw/Vector.svg",
