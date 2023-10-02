@@ -11,28 +11,11 @@
             "id": "9bc6b63fcc54100b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Newtons Second Law.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "507875242a063053",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Centripetal Acceleration.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Centripetal Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Centripetal Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Centripetal Acceleration.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +169,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "507875242a063053",
+  "active": "9bc6b63fcc54100b",
   "lastOpenFiles": [
-    "centripetal-acceleration-diagram.jpg",
+    "Untitled.md",
+    "Ferdinand and Isabella.md",
+    "Treaty of Tordesillas.md",
     "Newtons Second Law.md",
     "Centripetal Acceleration.md",
+    "centripetal-acceleration-diagram.jpg",
     "Tension.md",
     "Friction.md",
     "SQL.md",
@@ -215,8 +198,6 @@
     "Product Rule.md",
     "Italy.md",
     "Normal Force.md",
-    "Continental Congress.md",
-    "Net Work.md",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
     "Excalidraw/Vector.svg",
@@ -227,7 +208,6 @@
     "James Madison Portrait.jpg",
     "Iranian_Astrolabe_14.jpg",
     "Greece Map.gif",
-    "Alexander Hamilton Portrait.jpg",
     "Excalidraw"
   ]
 }
