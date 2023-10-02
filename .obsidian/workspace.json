@@ -4,69 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d95a8ab79f0fd8bb",
+        "id": "a6b6dd681b19b28a",
         "type": "tabs",
         "children": [
           {
-            "id": "a8013993a7abe541",
+            "id": "e6c0fcc15e5a58ff",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "06377015b5d5aa3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newtons First Law.md",
+                "file": "Waltham-Lowell System.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "aaefe91955ba142f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Newtons Second Law.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c11bedc50530372d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normal Force.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c957e6d4da9be615",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Net Force.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0246f37b0cc3a908",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Net Force Diagram.svg"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Normal Force.md",
+                "file": "Waltham-Lowell System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Normal Force.md",
+                "file": "Waltham-Lowell System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Normal Force.md"
+                "file": "Waltham-Lowell System.md"
               }
             }
           },
@@ -209,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,12 +187,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c11bedc50530372d",
+  "active": "06377015b5d5aa3e",
   "lastOpenFiles": [
+    "Waltham-Lowell System.md",
+    "Newtons Second Law.md",
+    "Normal Force.md",
     "Newtons Third Law.md",
     "System.md",
     "Force.md",
-    "Newtons Second Law.md",
     "Net Force.md",
     "Net Force Diagram.svg",
     "Newtons First Law.md",
@@ -255,9 +218,7 @@
     "Excalidraw/Vector.md",
     "Excalidraw/Vector.svg",
     "Vector.svg",
-    "Velocity.md",
     "Vector.svg.xml",
-    "2023-09-27.md",
     "Untitled.canvas",
     "Pasted image 20230926131221.png",
     "Pasted image 20230920110202.png",
