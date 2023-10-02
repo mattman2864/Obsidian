@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Steamboat.md",
+                "file": "Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steamboat.md",
+                "file": "Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steamboat.md",
+                "file": "Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steamboat.md"
+                "file": "Energy.md"
               }
             }
           },
@@ -213,8 +213,9 @@
   },
   "active": "48c445435d9ee56a",
   "lastOpenFiles": [
-    "Flat Boat.md",
     "Steamboat.md",
+    "Energy.md",
+    "Flat Boat.md",
     "National Road.md",
     "Waltham-Lowell System.md",
     "conflict-files-obsidian-git.md",
@@ -240,7 +241,6 @@
     "Tallmadge Amendment.md",
     "Missouri Compromise.md",
     "American System.md",
-    "Second Bank of the U.S..md",
     "Excalidraw/Vector.svg",
     "Vector.svg",
     "Vector.svg.xml",
