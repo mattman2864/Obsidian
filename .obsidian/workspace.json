@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Energy.md",
+                "file": "Kinetic Energy.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Energy.md",
+                "file": "Kinetic Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Energy.md",
+                "file": "Kinetic Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Energy.md"
+                "file": "Kinetic Energy.md"
               }
             }
           },
@@ -213,8 +213,10 @@
   },
   "active": "48c445435d9ee56a",
   "lastOpenFiles": [
-    "Steamboat.md",
+    "Work.md",
+    "Kinetic Energy.md",
     "Energy.md",
+    "Steamboat.md",
     "Flat Boat.md",
     "National Road.md",
     "Waltham-Lowell System.md",
@@ -232,7 +234,6 @@
     "Array.md",
     "Area.md",
     "Ancient Egypt.md",
-    "Work.md",
     "Truth Table.md",
     "Two-Tailed Proportions.md",
     "War Hawks.md",
@@ -240,7 +241,6 @@
     "Monroe Doctrine.md",
     "Tallmadge Amendment.md",
     "Missouri Compromise.md",
-    "American System.md",
     "Excalidraw/Vector.svg",
     "Vector.svg",
     "Vector.svg.xml",
