@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a6b6dd681b19b28a",
+        "id": "9415e8d831b049c0",
         "type": "tabs",
         "children": [
           {
-            "id": "e6c0fcc15e5a58ff",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "06377015b5d5aa3e",
+            "id": "ccda56df11e9fd5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waltham-Lowell System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bff91f4b17183a22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "National Road.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48c445435d9ee56a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kinetic Energy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b28979f370e7e46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boolean Operator.md",
+                "file": "Energy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boolean Operator.md",
+                "file": "Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boolean Operator.md",
+                "file": "Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boolean Operator.md"
+                "file": "Energy.md"
               }
             }
           },
@@ -222,8 +177,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b28979f370e7e46",
+  "active": "ccda56df11e9fd5d",
   "lastOpenFiles": [
+    "Giovanni Pico della Mirandola.md",
+    "The First Italian War.md",
+    "Astrolabe.md",
+    "Flat Boat.md",
+    "Salic Law.md",
+    "Clovis.md",
+    "Boolean Operator.md",
     "Chemical Reaction.md",
     "US Foreign Relations With Britain and France.md",
     "Chi-Square Distribution.md",
@@ -233,7 +195,6 @@
     "Work.md",
     "Energy.md",
     "Steamboat.md",
-    "Flat Boat.md",
     "National Road.md",
     "Waltham-Lowell System.md",
     "conflict-files-obsidian-git.md",
@@ -246,12 +207,6 @@
     "Force.md",
     "Net Force.md",
     "Net Force Diagram.svg",
-    "Newtons First Law.md",
-    "Array.md",
-    "Area.md",
-    "Ancient Egypt.md",
-    "Truth Table.md",
-    "Two-Tailed Proportions.md",
     "Excalidraw/Vector.svg",
     "Vector.svg",
     "Vector.svg.xml",
