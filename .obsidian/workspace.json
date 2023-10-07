@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c3699a4375fb273e",
+        "id": "9415e8d831b049c0",
         "type": "tabs",
         "children": [
           {
-            "id": "6235d361f113b4ce",
+            "id": "ccda56df11e9fd5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Energy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -28,16 +32,6 @@
         "id": "9a6effe34937b1b3",
         "type": "tabs",
         "children": [
-          {
-            "id": "3acace2d89f5639a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "f2c3bd1fed6f73b4",
             "type": "leaf",
@@ -60,12 +54,23 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "ffebbe939d5b7618",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945
+    "width": 260.01103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Energy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Energy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Energy.md"
+              }
             }
           },
           {
@@ -156,57 +165,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "publish:Publish changes...": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6235d361f113b4ce",
+  "active": "ccda56df11e9fd5d",
   "lastOpenFiles": [
-    "Excalidraw/Vector.md",
-    "Vector.md",
-    "Projectile.md",
-    "Missouri Compromise.md",
-    "Tallmadge Amendment.md",
+    "Giovanni Pico della Mirandola.md",
     "The First Italian War.md",
-    "Untitled.md",
-    "Ferdinand and Isabella.md",
-    "Treaty of Tordesillas.md",
-    "Newtons Second Law.md",
-    "Centripetal Acceleration.md",
+    "Astrolabe.md",
+    "Flat Boat.md",
+    "Salic Law.md",
+    "Clovis.md",
+    "Boolean Operator.md",
+    "Chemical Reaction.md",
+    "US Foreign Relations With Britain and France.md",
+    "Chi-Square Distribution.md",
+    "Central Limit Theorem.md",
+    "Annapolis Convention.md",
+    "Kinetic Energy.md",
+    "Work.md",
+    "Energy.md",
+    "Steamboat.md",
+    "National Road.md",
+    "Waltham-Lowell System.md",
+    "conflict-files-obsidian-git.md",
     "centripetal-acceleration-diagram.jpg",
-    "Tension.md",
-    "Friction.md",
-    "SQL.md",
-    "Scalar.md",
-    "Insulator.md",
-    "Boston Massacre.md",
-    "Benjamin Franklin.md",
-    "Thomas Jefferson.md",
-    "Standard Deviation.md",
-    "Char.md",
-    "Charge.md",
-    "Judiciary Act of 1789.md",
-    "1796 Election.md",
-    "Semiconductor.md",
-    "Britain.md",
+    "Centripetal Acceleration.md",
+    "Newtons Second Law.md",
+    "Normal Force.md",
+    "Newtons Third Law.md",
+    "System.md",
+    "Force.md",
+    "Net Force.md",
     "Net Force Diagram.svg",
-    "Vector.svg.xml",
     "Excalidraw/Vector.svg",
-    "Pasted image 20230926131407.png",
+    "Vector.svg",
+    "Vector.svg.xml",
+    "Untitled.canvas",
     "Pasted image 20230926131221.png",
-    "The Art of Painting by Jan Vermeer.jpg",
-    "John Adams Portrait.jpg",
-    "James Madison Portrait.jpg",
-    "Iranian_Astrolabe_14.jpg",
-    "Greece Map.gif",
-    "Excalidraw"
+    "Pasted image 20230920110202.png",
+    "Pasted image 20230920130033.png",
+    "Pasted image 20230926131407.png",
+    "Excalidraw",
+    "Electrical Symbols.png.png",
+    "Current.png"
   ]
 }
