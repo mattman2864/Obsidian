@@ -11,11 +11,28 @@
             "id": "6235d361f113b4ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Treaty of Tordesillas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8c194e201b950e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bartolomé de las Casas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bartolomé de las Casas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bartolomé de las Casas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bartolomé de las Casas.md"
+              }
             }
           },
           {
@@ -168,8 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19fd60a41e16003e",
+  "active": "e8c194e201b950e8",
   "lastOpenFiles": [
+    "Treaty of Tordesillas.md",
+    "Bartolomé de las Casas.md",
     "Waltham-Lowell System.md",
     "Steamboat.md",
     "National Road.md",
@@ -184,9 +207,7 @@
     "Missouri Compromise.md",
     "Tallmadge Amendment.md",
     "The First Italian War.md",
-    "Untitled.md",
     "Ferdinand and Isabella.md",
-    "Treaty of Tordesillas.md",
     "Newtons Second Law.md",
     "Centripetal Acceleration.md",
     "centripetal-acceleration-diagram.jpg",
