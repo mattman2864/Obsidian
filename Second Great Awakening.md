@@ -1,0 +1,1 @@
+The Second Great Awakening was a [[Protestantism|Protestant]] religious revival during the early 19th century in the [[United States of America|United States]] 
