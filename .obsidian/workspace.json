@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0bd0e73e18cd3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Second Great Awakening.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Second Great Awakening.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Great Awakening.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,10 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0639df4d117c6147",
+  "active": "b0bd0e73e18cd3b9",
   "lastOpenFiles": [
-    "Energy.md",
     "Second Great Awakening.md",
+    "conflict-files-obsidian-git.md",
+    "Bartolomé de las Casas.md",
+    "Energy.md",
     "Giovanni Pico della Mirandola.md",
     "The First Italian War.md",
     "Astrolabe.md",
@@ -211,14 +225,12 @@
     "Steamboat.md",
     "National Road.md",
     "Waltham-Lowell System.md",
-    "conflict-files-obsidian-git.md",
     "centripetal-acceleration-diagram.jpg",
     "Centripetal Acceleration.md",
     "Newtons Second Law.md",
     "Normal Force.md",
     "Newtons Third Law.md",
     "System.md",
-    "Force.md",
     "Net Force Diagram.svg",
     "Excalidraw/Vector.svg",
     "Vector.svg",
