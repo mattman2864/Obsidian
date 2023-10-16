@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work.md",
+                "file": "Second Great Awakening.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work.md",
+                "file": "Second Great Awakening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work.md",
+                "file": "Second Great Awakening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work.md"
+                "file": "Second Great Awakening.md"
               }
             }
           },
@@ -181,6 +181,7 @@
   },
   "active": "0639df4d117c6147",
   "lastOpenFiles": [
+    "Work.md",
     "Feudalism.md",
     "Dynastic Cycle.md",
     "Monarchy.md",
@@ -204,7 +205,6 @@
     "Central Limit Theorem.md",
     "Annapolis Convention.md",
     "Kinetic Energy.md",
-    "Work.md",
     "Steamboat.md",
     "National Road.md",
     "centripetal-acceleration-diagram.jpg",
