@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constant Multiple Rule.md",
+                "file": "Constant.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constant Multiple Rule.md",
+                "file": "Constant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Constant Multiple Rule.md",
+                "file": "Constant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Constant Multiple Rule.md"
+                "file": "Constant.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "0639df4d117c6147",
   "lastOpenFiles": [
+    "Constant Multiple Rule.md",
+    "Constant.md",
     "Second Great Awakening.md",
     "Work.md",
     "Feudalism.md",
@@ -205,8 +207,6 @@
     "Central Limit Theorem.md",
     "Annapolis Convention.md",
     "Kinetic Energy.md",
-    "Steamboat.md",
-    "National Road.md",
     "centripetal-acceleration-diagram.jpg",
     "Net Force Diagram.svg",
     "Excalidraw/Vector.svg",
