@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c3699a4375fb273e",
+        "id": "a2a13a1a09efcf68",
         "type": "tabs",
         "children": [
           {
-            "id": "6235d361f113b4ce",
+            "id": "1640321f3f839eaa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treaty of Tordesillas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8c194e201b950e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bartolomé de las Casas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bartolomé de las Casas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bartolomé de las Casas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bartolomé de las Casas.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,8 +168,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c194e201b950e8",
+  "active": "1640321f3f839eaa",
   "lastOpenFiles": [
+    "Missouri Compromise.md",
+    "Tallmadge Amendment.md",
     "Treaty of Tordesillas.md",
     "Bartolomé de las Casas.md",
     "Waltham-Lowell System.md",
@@ -204,8 +185,6 @@
     "Excalidraw/Vector.md",
     "Vector.md",
     "Projectile.md",
-    "Missouri Compromise.md",
-    "Tallmadge Amendment.md",
     "The First Italian War.md",
     "Ferdinand and Isabella.md",
     "Newtons Second Law.md",
