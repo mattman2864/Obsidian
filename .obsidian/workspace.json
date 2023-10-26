@@ -11,8 +11,12 @@
             "id": "1640321f3f839eaa",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Treaty of Tordesillas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Treaty of Tordesillas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Treaty of Tordesillas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Treaty of Tordesillas.md"
+              }
             }
           },
           {
@@ -170,9 +178,14 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Treaty of Tordesillas.md",
+    "Second Great Awakening.md",
+    "Infantry.md",
+    "Dynastic Cycle.md",
+    "Constant.md",
     "Missouri Compromise.md",
     "Tallmadge Amendment.md",
-    "Treaty of Tordesillas.md",
     "Bartolomé de las Casas.md",
     "Waltham-Lowell System.md",
     "Steamboat.md",
@@ -192,11 +205,6 @@
     "centripetal-acceleration-diagram.jpg",
     "Tension.md",
     "Friction.md",
-    "SQL.md",
-    "Scalar.md",
-    "Insulator.md",
-    "Boston Massacre.md",
-    "Benjamin Franklin.md",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
     "Excalidraw/Vector.svg",
