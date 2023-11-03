@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Girolamo Savonarola.md",
+                "file": "Derivative.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Girolamo Savonarola.md",
+                "file": "Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Girolamo Savonarola.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Girolamo Savonarola.md"
+                "file": "Derivative.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
+    "Girolamo Savonarola.md",
     "Giovanni Pico della Mirandola.md",
     "George Washington.md",
     "George III.md",
@@ -215,7 +216,6 @@
     "1800 Election Results.png",
     "1796 Election Results Map.png",
     "1796 Election Results.png",
-    "Manifest Destiny.md",
     "centripetal-acceleration-diagram.jpg",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
