@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manifest Destiny.md",
+                "file": "Chain Rule.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifest Destiny.md",
+                "file": "Chain Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifest Destiny.md",
+                "file": "Chain Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifest Destiny.md"
+                "file": "Chain Rule.md"
               }
             }
           },
@@ -178,43 +178,43 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
-    "The Sack of Rome.md",
-    "4b48cf863c565d40a81c9f12ba28ed156955ca08.jpg",
-    "Manifest Destiny.md",
-    "Franks.md",
-    "Clovis.md",
-    "Boston Massacre.md",
-    "Treaty of Tordesillas.md",
-    "conflict-files-obsidian-git.md",
-    "Second Great Awakening.md",
-    "Infantry.md",
-    "Dynastic Cycle.md",
-    "Constant.md",
-    "Missouri Compromise.md",
-    "Tallmadge Amendment.md",
-    "Bartolomé de las Casas.md",
-    "Waltham-Lowell System.md",
-    "Steamboat.md",
-    "National Road.md",
-    "Kinetic Energy.md",
-    "Flat Boat.md",
-    "Energy.md",
-    "Annapolis Convention.md",
-    "Excalidraw/Vector.md",
-    "Vector.md",
-    "Projectile.md",
-    "The First Italian War.md",
-    "Ferdinand and Isabella.md",
+    "Char.md",
+    "Chain Rule.md",
     "centripetal-acceleration-diagram.jpg",
+    "Centripetal Acceleration.md",
+    "Central Limit Theorem.md",
+    "Catholic Church.md",
+    "Caravel.md",
+    "calcbsfig1-3.png",
+    "calcbcfig1-2.png",
+    "calcbcfig1-1.png",
+    "Array.md",
+    "Articles of Confederation.md",
+    "Battle of Tippecanoe.md",
+    "Astrolabe.md",
+    "Annapolis Convention.md",
+    "American System.md",
+    "Ancient Egypt.md",
+    "American Progress by John Gast.jpg",
+    "Alexander Hamilton Portrait.jpg",
+    "Alexander Hamilton.md",
+    "Albany Plan of Union.md",
+    "Age of Exploration.md",
+    "Manifest Destiny.md",
+    "The Sack of Rome.md",
+    "Franks.md",
+    "Area.md",
+    "Baldassare Castiglione.md",
+    "Bartolomé de las Casas.md",
+    "Battle of Fallen Timbers.md",
+    "Battles of Saratoga.md",
+    "Battles of Trenton and Princeton.md",
+    "Benjamin Franklin.md",
+    "Benjamin Franklin Portrait.jpg",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
     "Excalidraw/Vector.svg",
     "Pasted image 20230926131407.png",
-    "Pasted image 20230926131221.png",
-    "The Art of Painting by Jan Vermeer.jpg",
-    "John Adams Portrait.jpg",
-    "James Madison Portrait.jpg",
-    "Iranian_Astrolabe_14.jpg",
     "Excalidraw"
   ]
 }
