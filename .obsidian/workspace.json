@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Henry VIII.md",
+                "file": "William Pitt.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Henry VIII.md",
+                "file": "William Pitt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Henry VIII.md",
+                "file": "William Pitt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Henry VIII.md"
+                "file": "William Pitt.md"
               }
             }
           },
@@ -186,9 +186,22 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
-    "Henry VII.md",
-    "Henry VIII.md",
+    "Thomas Jefferson.md",
+    "Samuel Adams.md",
+    "Patrick Henry.md",
+    "Niccolò Machiavelli.md",
+    "Medici Family.md",
+    "Lewis and Clark.md",
+    "John Marshall.md",
+    "John Jay.md",
+    "John Dickinson.md",
+    "John Adams.md",
+    "James Otis.md",
+    "James Monroe.md",
     "Isaac Newton.md",
+    "James Madison Portrait.jpg",
+    "Henry VIII.md",
+    "Henry VII.md",
     "Iranian_Astrolabe_14.jpg",
     "Intolerable Acts.md",
     "Integer.md",
@@ -201,19 +214,7 @@
     "Humanism.md",
     "Holy Roman Empire.md",
     "Hexadecimal.md",
-    "Hash Table.md",
-    "Hartford Convention.md",
     "Greece Map.gif",
-    "Greece.md",
-    "Graph.md",
-    "Girolamo Savonarola.md",
-    "Giovanni Pico della Mirandola.md",
-    "George Washington.md",
-    "George Grenville.md",
-    "Whiskey Rebellion.md",
-    "William Pitt.md",
-    "Work.md",
-    "Writs of Assistance.md",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
     "1796 Election Results Map.png",
@@ -221,7 +222,6 @@
     "centripetal-acceleration-diagram.jpg",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
-    "calcbcfig1-1.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]

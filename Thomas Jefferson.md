@@ -3,6 +3,8 @@ Third president of the United States, second vice president, and an [[Anti-Feder
 - Strict Construction "enumerated powers"
 - The corrupt activity of "pseudoaristocrats" - put property & civil order above liberty
 - Tying U.S. future to interests of privileged class was dangerous
+
+![Thomas Jefferson|300](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg/220px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29%28cropped%29.jpg)
 ## Jefferson as President
 ### Overview
 - Practiced [[Jeffersonian Republic]]
