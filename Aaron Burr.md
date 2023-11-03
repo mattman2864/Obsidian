@@ -1,4 +1,5 @@
 Aaron Burr was a [[Democratic-Republicans|Democratic-Republican]] who was nominated as [[Vice-President]] under [[Thomas Jefferson]] in the 1800 election. A Democratic-Republican caucus in 1804 decided not to nominate Aaron Burr for a second term as vice president. Burr then embarked on a series of ventures, one of which threatened to break up the Union and another of which resulted in the death of political rival [[Alexander Hamilton]].
+![Aaron Burr Portrait|300](https://upload.wikimedia.org/wikipedia/commons/8/8a/Aaron_Burr_post-failure.jpg)
 ## Federalist Conspiracy
 Secretly forming a political pact with some radical [[New England]] [[Federalists]], Burr planned to win the governorship of [[New York]] in 1804, unite that state with the New England states, and then lead this group of states to secede from the nation. Most Federalists followed Alexander Hamilton in opposing Burr, who was defeated in the New York election. The conspiracy then disintegrated.
 ## Duel with Hamilton

@@ -5,6 +5,7 @@ Head of national treasury under Washington, Federalist.
 - Wealthy class was key to survival of republic
 - Once they saw benefit of strong central government on their economic well being, would bring prosperity to common people
 - Killed in a duel by [[Aaron Burr]], a major political rival
+![Hamilton Portrait|300](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg/220px-John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg)
 # Debt Report:
 - US Debt = $54 Million
 - State's Debt = $25 Million

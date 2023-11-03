@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aaron Burr.md",
+                "file": "Ferdinand and Isabella.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aaron Burr.md",
+                "file": "Ferdinand and Isabella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aaron Burr.md",
+                "file": "Ferdinand and Isabella.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aaron Burr.md"
+                "file": "Ferdinand and Isabella.md"
               }
             }
           },
@@ -186,42 +186,42 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
-    "1800 Election Results Map.png",
-    "1800 Election Results.png",
+    "Deng Xiaoping.md",
+    "Christopher Columbus.md",
+    "Binary.md",
+    "Benjamin Franklin.md",
+    "Bartolomé de las Casas.md",
+    "Baldassare Castiglione.md",
+    "Astrolabe.md",
+    "Array.md",
+    "Area.md",
+    "Annexation of Texas.md",
+    "Annapolis Convention.md",
+    "Ancient Egypt.md",
+    "American System.md",
+    "Alexander Hamilton.md",
+    "Albany Plan of Union.md",
+    "Age of Exploration.md",
+    "Aaron Burr.md",
     "1800 Election.md",
-    "1796 Election Results Map.png",
-    "1796 Election Results.png",
     "1796 Election.md",
     "12th Amendment.md",
+    "1800 Election Results Map.png",
+    "1800 Election Results.png",
+    "1796 Election Results Map.png",
+    "1796 Election Results.png",
     "Manifest Destiny.md",
     "Republic of Texas.md",
-    "Annexation of Texas.md",
     "snippet.css.md",
     "Quotient Rule.md",
     "Queue.md",
     "Confidence Interval.md",
-    "Significance Test for p.md",
-    "Parameter.md",
-    "Statistical Test.md",
-    "Chain Rule.md",
-    "Char.md",
     "centripetal-acceleration-diagram.jpg",
-    "Centripetal Acceleration.md",
-    "Central Limit Theorem.md",
-    "Catholic Church.md",
-    "Caravel.md",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
     "calcbcfig1-1.png",
-    "Array.md",
-    "Articles of Confederation.md",
-    "Battle of Tippecanoe.md",
-    "Astrolabe.md",
-    "Annapolis Convention.md",
-    "American System.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
-    "Benjamin Franklin Portrait.jpg",
     "Vector.svg.xml",
     "Excalidraw"
   ]
