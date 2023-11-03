@@ -3,5 +3,8 @@
   "interfaceFontFamily": "Inter",
   "accentColor": "",
   "baseFontSize": 17,
-  "cssTheme": "Royal Velvet"
+  "cssTheme": "Royal Velvet",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }

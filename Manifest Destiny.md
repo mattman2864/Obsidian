@@ -5,6 +5,6 @@ The term was first coined by newspaper editor John O'Sullivan to describe the id
 The ideology of Manifest Destiny justified extreme measure to clear the native population from the land, including forced removal and violent extermination. For proponents of Manifest Destiny, the American Indians were mere impediments to the forward march of racial and technological progress, and they advocated pursuing a policy of [[Indian Removal]].
 
 ![[American Progress by John Gast.jpg]]
-> [idea]
+> [!Art]
 > This famous painting depicts Columbia, an allegorical figure of America, bringing elements of "civilization" west. As railroads, settlers, and telegraph wires come west, American Indians and bison scatter before them.
 

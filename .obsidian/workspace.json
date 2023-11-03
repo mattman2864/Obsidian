@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chain Rule.md",
+                "file": "Manifest Destiny.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chain Rule.md",
+                "file": "Manifest Destiny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chain Rule.md",
+                "file": "Manifest Destiny.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chain Rule.md"
+                "file": "Manifest Destiny.md"
               }
             }
           },
@@ -178,8 +178,16 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
-    "Char.md",
+    "snippet.css.md",
+    "Manifest Destiny.md",
+    "Quotient Rule.md",
+    "Queue.md",
+    "Confidence Interval.md",
+    "Significance Test for p.md",
+    "Parameter.md",
+    "Statistical Test.md",
     "Chain Rule.md",
+    "Char.md",
     "centripetal-acceleration-diagram.jpg",
     "Centripetal Acceleration.md",
     "Central Limit Theorem.md",
@@ -200,16 +208,8 @@
     "Alexander Hamilton.md",
     "Albany Plan of Union.md",
     "Age of Exploration.md",
-    "Manifest Destiny.md",
     "The Sack of Rome.md",
     "Franks.md",
-    "Area.md",
-    "Baldassare Castiglione.md",
-    "Bartolomé de las Casas.md",
-    "Battle of Fallen Timbers.md",
-    "Battles of Saratoga.md",
-    "Battles of Trenton and Princeton.md",
-    "Benjamin Franklin.md",
     "Benjamin Franklin Portrait.jpg",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
