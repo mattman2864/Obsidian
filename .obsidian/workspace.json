@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "William Pitt.md",
-                "mode": "source",
+                "file": "Rectangle.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "William Pitt.md",
+                "file": "Rectangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "William Pitt.md",
+                "file": "Rectangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "William Pitt.md"
+                "file": "Rectangle.md"
               }
             }
           },
@@ -186,6 +186,7 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
+    "William Pitt.md",
     "Thomas Jefferson.md",
     "Samuel Adams.md",
     "Patrick Henry.md",
@@ -213,7 +214,6 @@
     "Hundred Years War.md",
     "Humanism.md",
     "Holy Roman Empire.md",
-    "Hexadecimal.md",
     "Greece Map.gif",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
