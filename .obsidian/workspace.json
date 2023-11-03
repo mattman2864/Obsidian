@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manifest Destiny.md",
+                "file": "Aaron Burr.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aaron Burr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aaron Burr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Aaron Burr.md"
+              }
             }
           },
           {
@@ -181,11 +184,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b003614bb1e5922",
+  "active": "1640321f3f839eaa",
   "lastOpenFiles": [
+    "1800 Election Results Map.png",
+    "1800 Election Results.png",
+    "1800 Election.md",
+    "1796 Election Results Map.png",
+    "1796 Election Results.png",
+    "1796 Election.md",
+    "12th Amendment.md",
+    "Manifest Destiny.md",
     "Republic of Texas.md",
     "Annexation of Texas.md",
-    "Manifest Destiny.md",
     "snippet.css.md",
     "Quotient Rule.md",
     "Queue.md",
@@ -209,17 +219,10 @@
     "Astrolabe.md",
     "Annapolis Convention.md",
     "American System.md",
-    "Ancient Egypt.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
-    "Alexander Hamilton.md",
-    "Albany Plan of Union.md",
-    "Age of Exploration.md",
     "Benjamin Franklin Portrait.jpg",
-    "Net Force Diagram.svg",
     "Vector.svg.xml",
-    "Excalidraw/Vector.svg",
-    "Pasted image 20230926131407.png",
     "Excalidraw"
   ]
 }

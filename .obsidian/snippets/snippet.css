@@ -2,3 +2,7 @@
     --callout-color: 245, 191, 66; 
     --callout-icon: brush;
 }
+.callout[data-callout="map"] {
+    --callout-color: 191, 245, 66; 
+    --callout-icon: map;
+}
