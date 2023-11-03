@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0b003614bb1e5922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Republic of Texas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manifest Destiny.md",
+                "file": "Republic of Texas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manifest Destiny.md",
+                "file": "Republic of Texas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manifest Destiny.md"
+                "file": "Republic of Texas.md"
               }
             }
           },
@@ -176,10 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1640321f3f839eaa",
+  "active": "0b003614bb1e5922",
   "lastOpenFiles": [
-    "snippet.css.md",
+    "Annexation of Texas.md",
+    "Republic of Texas.md",
     "Manifest Destiny.md",
+    "snippet.css.md",
     "Quotient Rule.md",
     "Queue.md",
     "Confidence Interval.md",
@@ -208,8 +223,6 @@
     "Alexander Hamilton.md",
     "Albany Plan of Union.md",
     "Age of Exploration.md",
-    "The Sack of Rome.md",
-    "Franks.md",
     "Benjamin Franklin Portrait.jpg",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
