@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "George Washington.md",
-                "mode": "preview",
-                "source": true
+                "file": "Henry VIII.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "George Washington.md",
+                "file": "Henry VIII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "George Washington.md",
+                "file": "Henry VIII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "George Washington.md"
+                "file": "Henry VIII.md"
               }
             }
           },
@@ -186,32 +186,34 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
-    "George Grenville.md",
-    "Giovanni Pico della Mirandola.md",
+    "Henry VII.md",
+    "Henry VIII.md",
+    "Isaac Newton.md",
+    "Iranian_Astrolabe_14.jpg",
+    "Intolerable Acts.md",
+    "Integer.md",
+    "Insulator.md",
+    "Instantiation.md",
+    "Infantry.md",
+    "Increments.md",
+    "Inclinometer.md",
+    "Hundred Years War.md",
+    "Humanism.md",
+    "Holy Roman Empire.md",
+    "Hexadecimal.md",
+    "Hash Table.md",
+    "Hartford Convention.md",
+    "Greece Map.gif",
+    "Greece.md",
+    "Graph.md",
     "Girolamo Savonarola.md",
+    "Giovanni Pico della Mirandola.md",
+    "George Washington.md",
+    "George Grenville.md",
     "Whiskey Rebellion.md",
     "William Pitt.md",
     "Work.md",
     "Writs of Assistance.md",
-    "12th Amendment.md",
-    "Derivative.md",
-    "Directed Graph.md",
-    "George Washington.md",
-    "George III.md",
-    "Ferdinand and Isabella.md",
-    "Deng Xiaoping.md",
-    "Christopher Columbus.md",
-    "Binary.md",
-    "Benjamin Franklin.md",
-    "Bartolomé de las Casas.md",
-    "Baldassare Castiglione.md",
-    "Astrolabe.md",
-    "Array.md",
-    "Area.md",
-    "Annexation of Texas.md",
-    "Annapolis Convention.md",
-    "Ancient Egypt.md",
-    "American System.md",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
     "1796 Election Results Map.png",
@@ -220,8 +222,6 @@
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
     "calcbcfig1-1.png",
-    "American Progress by John Gast.jpg",
-    "Alexander Hamilton Portrait.jpg",
     "Vector.svg.xml",
     "Excalidraw"
   ]

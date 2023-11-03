@@ -1,1 +1,2 @@
 Isaac Newton was an [[England|English]] mathematician and physicist who was made incredibly important discoveries in [[Calculus]], [[Physics]], and other topics. He is credited with the invention of calculus alongside [[Gottfried Leibniz]].
+![Isaac Newton|300](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/220px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg)
