@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Derivative.md",
-                "mode": "source",
-                "source": false
+                "file": "George Washington.md",
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative.md",
+                "file": "George Washington.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative.md",
+                "file": "George Washington.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Derivative.md"
+                "file": "George Washington.md"
               }
             }
           },
@@ -186,11 +186,18 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
-    "Girolamo Savonarola.md",
+    "George Grenville.md",
     "Giovanni Pico della Mirandola.md",
+    "Girolamo Savonarola.md",
+    "Whiskey Rebellion.md",
+    "William Pitt.md",
+    "Work.md",
+    "Writs of Assistance.md",
+    "12th Amendment.md",
+    "Derivative.md",
+    "Directed Graph.md",
     "George Washington.md",
     "George III.md",
-    "George Grenville.md",
     "Ferdinand and Isabella.md",
     "Deng Xiaoping.md",
     "Christopher Columbus.md",
@@ -205,13 +212,6 @@
     "Annapolis Convention.md",
     "Ancient Egypt.md",
     "American System.md",
-    "Alexander Hamilton.md",
-    "Albany Plan of Union.md",
-    "Age of Exploration.md",
-    "Aaron Burr.md",
-    "1800 Election.md",
-    "1796 Election.md",
-    "12th Amendment.md",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
     "1796 Election Results Map.png",
