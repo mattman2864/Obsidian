@@ -13,13 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treaty of Tordesillas.md",
+                "file": "Franks.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "c0187a038989ef76",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treaty of Tordesillas.md",
+                "file": "Franks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Treaty of Tordesillas.md",
+                "file": "Franks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treaty of Tordesillas.md"
+                "file": "Franks.md"
               }
             }
           },
@@ -176,10 +187,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1640321f3f839eaa",
+  "active": "c0187a038989ef76",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Clovis.md",
+    "Boston Massacre.md",
     "Treaty of Tordesillas.md",
+    "conflict-files-obsidian-git.md",
     "Second Great Awakening.md",
     "Infantry.md",
     "Dynastic Cycle.md",
@@ -193,7 +206,6 @@
     "Kinetic Energy.md",
     "Flat Boat.md",
     "Energy.md",
-    "Clovis.md",
     "Annapolis Convention.md",
     "Excalidraw/Vector.md",
     "Vector.md",
@@ -204,7 +216,6 @@
     "Centripetal Acceleration.md",
     "centripetal-acceleration-diagram.jpg",
     "Tension.md",
-    "Friction.md",
     "Net Force Diagram.svg",
     "Vector.svg.xml",
     "Excalidraw/Vector.svg",
