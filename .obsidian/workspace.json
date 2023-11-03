@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ferdinand and Isabella.md",
+                "file": "Girolamo Savonarola.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ferdinand and Isabella.md",
+                "file": "Girolamo Savonarola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ferdinand and Isabella.md",
+                "file": "Girolamo Savonarola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ferdinand and Isabella.md"
+                "file": "Girolamo Savonarola.md"
               }
             }
           },
@@ -186,6 +186,11 @@
   },
   "active": "1640321f3f839eaa",
   "lastOpenFiles": [
+    "Giovanni Pico della Mirandola.md",
+    "George Washington.md",
+    "George III.md",
+    "George Grenville.md",
+    "Ferdinand and Isabella.md",
     "Deng Xiaoping.md",
     "Christopher Columbus.md",
     "Binary.md",
@@ -211,11 +216,6 @@
     "1796 Election Results Map.png",
     "1796 Election Results.png",
     "Manifest Destiny.md",
-    "Republic of Texas.md",
-    "snippet.css.md",
-    "Quotient Rule.md",
-    "Queue.md",
-    "Confidence Interval.md",
     "centripetal-acceleration-diagram.jpg",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",
