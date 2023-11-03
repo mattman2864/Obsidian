@@ -5,6 +5,9 @@ The term was first coined by newspaper editor John O'Sullivan to describe the id
 The ideology of Manifest Destiny justified extreme measure to clear the native population from the land, including forced removal and violent extermination. For proponents of Manifest Destiny, the American Indians were mere impediments to the forward march of racial and technological progress, and they advocated pursuing a policy of [[Indian Removal]].
 
 ![[American Progress by John Gast.jpg]]
-> [!Art]
+> [!art] *American Progress* by John Gast
 > This famous painting depicts Columbia, an allegorical figure of America, bringing elements of "civilization" west. As railroads, settlers, and telegraph wires come west, American Indians and bison scatter before them.
+# Polk and Manifest Destiny
+US President James Polk, who served one term in office, from 1845 to 1849, is the leader most associated with the ideology of Manifest Destiny. Polk was a Democrat from [[Tennessee]] who had served as [[Speaker of the House of Representatives]] and [[Governor]] of Tennessee before becoming [[president]]. As president, he led the United States to victory over [[Mexico]] in the [[Mexican-American War]], which culminated in the transfer of a vast new territory, comprising almost the whole of the modern day Southwest, from Mexico to the United States.
 
+Polk also resolved the boundary dispute with [[Britain]] over the [[Oregon Territory]], which had been jointly occupied since 1818. Polk's administration negotiated the [[Oregon Treaty]] of 1846 with Britain, which accepted a division of the territory between the United States and [[Canada]] at the 49th parallel. The territory acquired by the United States under the provisions of the treaty include the present-day states of [[Idaho]], [[Washington]], as well as parts of [[Montana]] and [[Wyoming]].

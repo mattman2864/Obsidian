@@ -1,4 +1,4 @@
-.callout[data-callout="Art"] {
-    --callout-color: 0, 0, 0;
-    --callout-icon: lucide-brush;
+.callout[data-callout="art"] {
+    --callout-color: 245, 191, 66; 
+    --callout-icon: brush;
 }
