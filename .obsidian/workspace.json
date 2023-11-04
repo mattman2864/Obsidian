@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boston Massacre.md",
+                "file": "One-to-One Function.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boston Massacre.md",
+                "file": "One-to-One Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boston Massacre.md",
+                "file": "One-to-One Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boston Massacre.md"
+                "file": "One-to-One Function.md"
               }
             }
           },
@@ -179,6 +179,8 @@
   },
   "active": "6334af7e50b74430",
   "lastOpenFiles": [
+    "Boston Massacre.md",
+    "One-to-One Function.md",
     "Committees of Correspondence.md",
     "Girolamo Savonarola.md",
     "John Marshall.md",
@@ -203,8 +205,6 @@
     "Derivative.md",
     "Array.md",
     "Area.md",
-    "Annexation of Texas.md",
-    "American System.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
