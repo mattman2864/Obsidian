@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Republic of Texas.md",
+                "file": "Annexation of Texas.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Republic of Texas.md",
+                "file": "Annexation of Texas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Republic of Texas.md",
+                "file": "Annexation of Texas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Republic of Texas.md"
+                "file": "Annexation of Texas.md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "a84b393061348f8c",
   "lastOpenFiles": [
-    "One-to-One Function.md",
     "Republic of Texas.md",
+    "One-to-One Function.md",
     "Annexation of Texas.md",
     "Manifest Destiny.md",
     "United States.md",

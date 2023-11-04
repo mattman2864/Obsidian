@@ -10,7 +10,6 @@ In 1835, settlers form the United States who lived in Texas formed a provisional
 
 The settlers in Texas from the United States, together with the active support of [[Tejanos]] (Texans of [[Spain|Spanish]] origin), sought to hold their ground against Santa Anna’s advancing troops.
 
-In March of 1836, following a thirteen day siege, Santa Anna’s 5,000 troops attacked and killed 187 American and Tejano defenders at the battle of the Alamo--a mission-fortress outside San Antonio. Among the dead were Davy Crockett, Jim Bowie, and commander William Travis. “Remember the Alamo” became, thereafter, a battle cry.
->[!quote]
->Remember the Alamo
->*-*
+In March of 1836, following a thirteen day siege, Santa Anna’s 5,000 troops attacked and killed 187 American and Tejano defenders at the battle of the Alamo--a mission-fortress outside San Antonio. Among the dead were [[Davy Crockett]], [[Jim Bowie]], and commander [[William Travis]]. “Remember the Alamo” became, thereafter, a battle cry.
+
+However, the following month, [[Sam Houston]] led his forces to defeat Santa Anna’s army at the [[Battle of San Jacinto]], and forced Santa Anna to recognize Texan independence. Sam Houston, a previous [[Tennessee]] senator during the [[Andrew Jackson|Jacksonian]] Democracy and prominent military figure, became the first president of the Republic of Texas. Citizens of the new republic were overwhelming in favor of Texas becoming a state in the United States—many motivated in part by concern that Mexico might try to re-establish its oppressive rule over Texas.

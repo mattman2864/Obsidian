@@ -10,3 +10,11 @@
     --callout-color: 85, 140, 230; 
     --callout-icon: book-marked;
 }
+.callout[data-callout="photo"] {
+    --callout-color: 33, 204, 130;
+    --callout-icon: camera;
+}
+.callout[data-callout="image"] {
+    --callout-color: 227, 191, 73;
+    --callout-icon: image;
+}
