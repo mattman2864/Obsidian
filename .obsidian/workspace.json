@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Mexican-American War.md",
                 "mode": "source",
                 "source": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Mexican-American War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Mexican-American War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexation of Texas.md"
+                "file": "Mexican-American War.md"
               }
             }
           },
@@ -192,9 +192,10 @@
   },
   "active": "a84b393061348f8c",
   "lastOpenFiles": [
+    "Annexation of Texas.md",
+    "Mexican-American War.md",
     "Republic of Texas.md",
     "One-to-One Function.md",
-    "Annexation of Texas.md",
     "Manifest Destiny.md",
     "United States.md",
     "Republic of the Rio Grande.md",
@@ -217,7 +218,6 @@
     "Regression Analysis.md",
     "Rectangle.md",
     "Work.md",
-    "Directed Graph.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
