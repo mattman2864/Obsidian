@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6966c2a3f2a3b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exponential Function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c3d6350bca283fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parametric Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "587667969a0a755b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exponent Rules.md",
-                "mode": "source",
-                "source": false
+                "file": "Rectangle.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "definition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945
+    "width": 298.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parametric Equations.md",
+                "file": "Rectangle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parametric Equations.md",
+                "file": "Rectangle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parametric Equations.md"
+                "file": "Rectangle.md"
               }
             }
           },
@@ -213,9 +177,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c3d6350bca283fe",
+  "active": "6334af7e50b74430",
   "lastOpenFiles": [
+    "Work.md",
+    "Directed Graph.md",
+    "Slope.md",
+    "Function.md",
+    "Exponent Rules.md",
     "Exponential Function.md",
+    "Derivative.md",
+    "Array.md",
+    "Area.md",
+    "Annexation of Texas.md",
+    "American System.md",
+    "American Progress by John Gast.jpg",
+    "Algorithmic Complexity.md",
+    "Alexander Hamilton Portrait.jpg",
+    "Alexander Hamilton.md",
+    "Albany Plan of Union.md",
     "Parametric Equations.md",
     "12th Amendment.md",
     "1796 Election.md",
@@ -224,33 +203,18 @@
     "1800 Election.md",
     "Aaron Burr.md",
     "Ancient Egypt.md",
-    "Annexation of Texas.md",
     "Articles of Confederation.md",
-    "Area.md",
-    "Array.md",
-    "Exponent Rules.md",
-    "Function.md",
     "Composite Functions.md",
     "Line.md",
-    "Algorithmic Complexity.md",
     "Dynastic Cycle.md",
     "New Monarch.md",
     "Power Rule.md",
-    "Statistic.md",
-    "Confidence Interval.md",
-    "Massachusetts Circular Letter.md",
-    "Italy.md",
-    "Rectangle.md",
-    "Definite Integral.md",
-    "William Pitt.md",
     "James Madison Portrait.jpg",
     "Iranian_Astrolabe_14.jpg",
     "Greece Map.gif",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
     "centripetal-acceleration-diagram.jpg",
-    "calcbsfig1-3.png",
-    "calcbcfig1-2.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]
