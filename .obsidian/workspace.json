@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Statistic.md",
+                "file": "Dynastic Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistic.md",
+                "file": "Dynastic Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Statistic.md",
+                "file": "Dynastic Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Statistic.md"
+                "file": "Dynastic Cycle.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "8181d6fb69082c09",
   "lastOpenFiles": [
-    "Confidence Interval.md",
+    "New Monarch.md",
+    "Power Rule.md",
     "Statistic.md",
+    "Confidence Interval.md",
     "Massachusetts Circular Letter.md",
     "Italy.md",
     "Rectangle.md",
@@ -204,8 +206,6 @@
     "Iranian_Astrolabe_14.jpg",
     "Intolerable Acts.md",
     "Integer.md",
-    "Insulator.md",
-    "Instantiation.md",
     "Greece Map.gif",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
