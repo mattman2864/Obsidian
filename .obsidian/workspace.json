@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rectangle.md",
-                "mode": "preview",
+                "file": "Boston Massacre.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rectangle.md",
+                "file": "Boston Massacre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rectangle.md",
+                "file": "Boston Massacre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rectangle.md"
+                "file": "Boston Massacre.md"
               }
             }
           },
@@ -179,6 +179,21 @@
   },
   "active": "6334af7e50b74430",
   "lastOpenFiles": [
+    "Committees of Correspondence.md",
+    "Girolamo Savonarola.md",
+    "John Marshall.md",
+    "Inclinometer.md",
+    "Articles of Confederation.md",
+    "Central Limit Theorem.md",
+    "Relational Database.md",
+    "Military Revolution.md",
+    "British Action Toward Neutrality.md",
+    "Kingdom of Aragon.md",
+    "The Prince.md",
+    "Trade Winds.md",
+    "Sum Rule.md",
+    "Regression Analysis.md",
+    "Rectangle.md",
     "Work.md",
     "Directed Graph.md",
     "Slope.md",
@@ -191,24 +206,9 @@
     "Annexation of Texas.md",
     "American System.md",
     "American Progress by John Gast.jpg",
-    "Algorithmic Complexity.md",
     "Alexander Hamilton Portrait.jpg",
-    "Alexander Hamilton.md",
-    "Albany Plan of Union.md",
-    "Parametric Equations.md",
-    "12th Amendment.md",
-    "1796 Election.md",
     "1796 Election Results.png",
     "1796 Election Results Map.png",
-    "1800 Election.md",
-    "Aaron Burr.md",
-    "Ancient Egypt.md",
-    "Articles of Confederation.md",
-    "Composite Functions.md",
-    "Line.md",
-    "Dynastic Cycle.md",
-    "New Monarch.md",
-    "Power Rule.md",
     "James Madison Portrait.jpg",
     "Iranian_Astrolabe_14.jpg",
     "Greece Map.gif",
