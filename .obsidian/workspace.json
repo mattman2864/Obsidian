@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8181d6fb69082c09",
+            "id": "6334af7e50b74430",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithmic Complexity.md",
+                "file": "Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithmic Complexity.md",
+                "file": "Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithmic Complexity.md",
+                "file": "Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithmic Complexity.md"
+                "file": "Function.md"
               }
             }
           },
@@ -176,10 +176,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8181d6fb69082c09",
+  "active": "6334af7e50b74430",
   "lastOpenFiles": [
-    "Dynastic Cycle.md",
+    "Composite Functions.md",
+    "Function.md",
+    "Line.md",
     "Algorithmic Complexity.md",
+    "Dynastic Cycle.md",
     "New Monarch.md",
     "Power Rule.md",
     "Statistic.md",
@@ -201,10 +204,7 @@
     "John Adams.md",
     "James Otis.md",
     "James Monroe.md",
-    "Isaac Newton.md",
     "James Madison Portrait.jpg",
-    "Henry VIII.md",
-    "Henry VII.md",
     "Iranian_Astrolabe_14.jpg",
     "Greece Map.gif",
     "1800 Election Results Map.png",

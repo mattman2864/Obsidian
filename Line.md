@@ -33,3 +33,5 @@ If $A$ and $B$ are not both zero, the graph of the equation $Ax+By=C$ is a line.
 The equation
 $Ax+By=C$ ($A$ and $B$ not both $0$)
 is a **general linear equation** in $x$ and $y$.
+
+Although the general linear form helps in the quick identification of lines, the slope-intercept form is the one to enter into a calculator for graphing.
