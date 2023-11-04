@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dynastic Cycle.md",
+                "file": "Algorithmic Complexity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynastic Cycle.md",
+                "file": "Algorithmic Complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynastic Cycle.md",
+                "file": "Algorithmic Complexity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynastic Cycle.md"
+                "file": "Algorithmic Complexity.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "8181d6fb69082c09",
   "lastOpenFiles": [
+    "Dynastic Cycle.md",
+    "Algorithmic Complexity.md",
     "New Monarch.md",
     "Power Rule.md",
     "Statistic.md",
@@ -204,8 +206,6 @@
     "Henry VIII.md",
     "Henry VII.md",
     "Iranian_Astrolabe_14.jpg",
-    "Intolerable Acts.md",
-    "Integer.md",
     "Greece Map.gif",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
