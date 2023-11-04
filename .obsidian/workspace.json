@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1c3d6350bca283fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parametric Equations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "587667969a0a755b",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exponential Function.md",
+                "file": "Parametric Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exponential Function.md",
+                "file": "Parametric Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exponential Function.md"
+                "file": "Parametric Equations.md"
               }
             }
           },
@@ -201,10 +213,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c6966c2a3f2a3b35",
+  "active": "1c3d6350bca283fe",
   "lastOpenFiles": [
-    "Exponent Rules.md",
     "Exponential Function.md",
+    "Parametric Equations.md",
+    "12th Amendment.md",
+    "1796 Election.md",
+    "1796 Election Results.png",
+    "1796 Election Results Map.png",
+    "1800 Election.md",
+    "Aaron Burr.md",
+    "Ancient Egypt.md",
+    "Annexation of Texas.md",
+    "Articles of Confederation.md",
+    "Area.md",
+    "Array.md",
+    "Exponent Rules.md",
     "Function.md",
     "Composite Functions.md",
     "Line.md",
@@ -219,23 +243,11 @@
     "Rectangle.md",
     "Definite Integral.md",
     "William Pitt.md",
-    "Thomas Jefferson.md",
-    "Samuel Adams.md",
-    "Patrick Henry.md",
-    "Niccolò Machiavelli.md",
-    "Medici Family.md",
-    "Lewis and Clark.md",
-    "John Marshall.md",
-    "John Jay.md",
-    "John Dickinson.md",
-    "John Adams.md",
     "James Madison Portrait.jpg",
     "Iranian_Astrolabe_14.jpg",
     "Greece Map.gif",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
-    "1796 Election Results Map.png",
-    "1796 Election Results.png",
     "centripetal-acceleration-diagram.jpg",
     "calcbsfig1-3.png",
     "calcbcfig1-2.png",

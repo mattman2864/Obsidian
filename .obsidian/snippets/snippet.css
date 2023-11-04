@@ -6,3 +6,7 @@
     --callout-color: 191, 245, 66; 
     --callout-icon: map;
 }
+.callout[data-callout="definition"] {
+    --callout-color: 52, 116, 235; 
+    --callout-icon: book-marked;
+}
