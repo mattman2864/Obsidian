@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a84b393061348f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Republic of Texas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "definition",
+                "query": "house of representative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One-to-One Function.md",
+                "file": "Republic of Texas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One-to-One Function.md",
+                "file": "Republic of Texas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One-to-One Function.md"
+                "file": "Republic of Texas.md"
               }
             }
           },
@@ -177,8 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3acace2d89f5639a",
+  "active": "a84b393061348f8c",
   "lastOpenFiles": [
+    "Annexation of Texas.md",
+    "Manifest Destiny.md",
+    "Composite Functions.md",
+    "Inverse Functions.md",
     "One-to-One Function.md",
     "Boston Massacre.md",
     "Committees of Correspondence.md",
@@ -201,10 +219,6 @@
     "Slope.md",
     "Function.md",
     "Exponent Rules.md",
-    "Exponential Function.md",
-    "Derivative.md",
-    "Array.md",
-    "Area.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
