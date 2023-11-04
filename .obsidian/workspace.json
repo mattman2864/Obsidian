@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Massachusetts Circular Letter.md",
+                "file": "Statistic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Massachusetts Circular Letter.md",
+                "file": "Statistic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Massachusetts Circular Letter.md",
+                "file": "Statistic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Massachusetts Circular Letter.md"
+                "file": "Statistic.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "8181d6fb69082c09",
   "lastOpenFiles": [
+    "Confidence Interval.md",
+    "Statistic.md",
+    "Massachusetts Circular Letter.md",
     "Italy.md",
     "Rectangle.md",
     "Definite Integral.md",
@@ -203,9 +206,6 @@
     "Integer.md",
     "Insulator.md",
     "Instantiation.md",
-    "Infantry.md",
-    "Increments.md",
-    "Inclinometer.md",
     "Greece Map.gif",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
