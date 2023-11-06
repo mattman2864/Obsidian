@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bitboard.md",
+                "file": "Memory.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bitboard.md",
+                "file": "Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bitboard.md",
+                "file": "Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bitboard.md"
+                "file": "Memory.md"
               }
             }
           },
@@ -203,10 +203,13 @@
   },
   "active": "ea7d6b3197afd4a3",
   "lastOpenFiles": [
+    "Bitboard.md",
+    "C.md",
+    "Pasted image 20231105233650.png",
+    "Pasted image 20231105233230.png",
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233106.png",
     "Baldassare Castiglione.md",
-    "Bitboard.md",
     "SQL.md",
     "One-to-One Function.md",
     "Mexican-American War.md",
@@ -236,9 +239,6 @@
     "1796 Election Results Map.png",
     "James Madison Portrait.jpg",
     "Iranian_Astrolabe_14.jpg",
-    "Greece Map.gif",
-    "1800 Election Results Map.png",
-    "1800 Election Results.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]

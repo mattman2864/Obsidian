@@ -1,4 +1,4 @@
-A bitboard is a representation of a chessboard using multiple 64-[[bit]] numbers. it the fastest way to represent chessboards and the most commonly used among the most popular engines.
+A bitboard is a representation of a chessboard using multiple 64-[[Bit]] numbers. it the fastest way to represent chessboards and the most commonly used among the most popular engines.
 # 64-bit Number
 Here is an example of what a 64-bit number looks like:
 `0000000000000000000000000000000000000000000000000000000000000000`
@@ -41,7 +41,7 @@ LastBit(Number) is equal to 45 which is the number of the index (from zero) of t
 # [[C]] code representation
 Simple C89-ish code to define a bitboard can look like this if your compiler and architecture supports the unsigned long long extension at 8 bytes width:
 ```c
-typedef unsigned long long Birboard;
+typedef unsigned long long Bitboard;
 ```
 C99 users could probably get away with:
 ```c
@@ -51,3 +51,54 @@ typedef uint64_t Bitboard;
 So how do we decide how to map each chess board square to a bit in the 64 bit integer? This mapping could be arbitrary, but it behooves us to pick a mathematically advantageous mapping. In this particular mapping (or winding) we are going to say that position a1 is the least significant bit (LSB), bit 0, of the 64-bit number and h8 is the most significant bit (MSB), bit 63. The squares will be assigned left to right, bottom to top ordering to each bit index in the 64 bit number from LSB to MSB.
 ![[Pasted image 20231105233150.png]]
 Our first real example will be a bitboard which represents the WhitePawns. The left board is the initial physical location of the white pawns on a real board, and the right board is the bitboard equivalent.
+![[Pasted image 20231105233230.png|700]]
+These functions will be useful to us later when we want to iteratively process the results of a bitboard calculation.
+
+At this point one more piece of information must be explained concerning the chess board square identification with respect to the winding. We are explicitly assigning a direct bit index to each position of the board. So:
+
+A1 = 0  
+B1 = 1  
+C1 = 2  
+D1 = 3  
+E1 = 4  
+F1 = 5  
+G1 = 6  
+H1 = 7  
+A2 = 8  
+B2 = 9  
+.....  
+G7 = 54  
+H7 = 55  
+A8 = 56  
+B8 = 57  
+C8 = 58  
+D8 = 59  
+E8 = 60  
+F8 = 61  
+G8 = 62  
+H8 = 63
+
+And we are explicitly assigning a bit index to a position on the board:
+
+0 = A1  
+1 = B1  
+.....  
+62 = G8  
+63 = H8  
+
+This becomes important later when we start using the bit index and the chess board identification symbol interchangeably depending upon if we are talking about a position on the chess board or a index into a bitboard--especially in terms of FirstBit and LastBit.
+# Bitboard Visualization
+Often in this document, you will see me formatting a bitboard like the above and doing logical bitwise operations on it with the results also being bitboards formatted to look like chess boards. In effect, if I had two boards, say **BOARD_A** and **BOARD_B**, then if I wanted to do this: **BOARD_A AND BOARD_B = BOARD_C**, then **BOARD_A's A1 AND BOARD_B's A1 = BOARD_C's A1** for each position from A1 to H8.
+
+Here is an example of visualizing the bitboards as chess boards while doing bitwise operations on them.
+
+A previous example:
+
+|     | 1010011010100110101001101010011010100110101001101010011010100110 |
+| --- | ---------------------------------------------------------------- |
+| AND | 0000000000111111111100000000000000000000000000000000000000000000 |
+| =   | 0000000000100110101000000000000000000000000000000000000000000000 |
+
+The previous example rendered as chess boards:
+![[Pasted image 20231105233650.png]]
+These two forms, the bitboard AND operation and the chess board AND operation, are equivalent.

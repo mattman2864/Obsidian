@@ -1,7 +1,7 @@
 Memory, or **RAM**, is the part of computer that holds short-term data used for currently active programs on the computer.
 ## Memory Addresses
 Memory addresses are represented by a [[Hexadecimal]] value with an `0x` in from of it. For example, the address for the byte at position `35` in decimal would be `0x23`.
-## C Syntax
+## [[C]] Syntax
 In [[C]], you can use various syntax to handle the computer's memory:
 - `&` is used to get the address of an object in memory
 - `*` is used to go to a given address and return the value
