@@ -43,3 +43,11 @@ Simple C89-ish code to define a bitboard can look like this if your compiler and
 ```c
 typedef unsigned long long Birboard;
 ```
+C99 users could probably get away with:
+```c
+typedef uint64_t Bitboard;
+```
+# Chess Board Mapping
+So how do we decide how to map each chess board square to a bit in the 64 bit integer? This mapping could be arbitrary, but it behooves us to pick a mathematically advantageous mapping. In this particular mapping (or winding) we are going to say that position a1 is the least significant bit (LSB), bit 0, of the 64-bit number and h8 is the most significant bit (MSB), bit 63. The squares will be assigned left to right, bottom to top ordering to each bit index in the 64 bit number from LSB to MSB.
+![[Pasted image 20231105233150.png]]
+Our first real example will be a bitboard which represents the WhitePawns. The left board is the initial physical location of the white pawns on a real board, and the right board is the bitboard equivalent.

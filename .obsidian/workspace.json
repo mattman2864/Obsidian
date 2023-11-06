@@ -27,7 +27,7 @@
               "state": {
                 "file": "Bitboard.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -203,6 +203,8 @@
   },
   "active": "ea7d6b3197afd4a3",
   "lastOpenFiles": [
+    "Pasted image 20231105233150.png",
+    "Pasted image 20231105233106.png",
     "Baldassare Castiglione.md",
     "Bitboard.md",
     "SQL.md",
@@ -228,7 +230,6 @@
     "Kingdom of Aragon.md",
     "The Prince.md",
     "Trade Winds.md",
-    "Sum Rule.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
@@ -238,7 +239,6 @@
     "Greece Map.gif",
     "1800 Election Results Map.png",
     "1800 Election Results.png",
-    "centripetal-acceleration-diagram.jpg",
     "Vector.svg.xml",
     "Excalidraw"
   ]
