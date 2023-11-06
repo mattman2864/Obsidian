@@ -23,12 +23,8 @@
             "id": "ea7d6b3197afd4a3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Memory.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Memory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,6 +195,7 @@
   },
   "active": "ea7d6b3197afd4a3",
   "lastOpenFiles": [
+    "Memory.md",
     "Bitboard.md",
     "C.md",
     "Pasted image 20231105233650.png",
@@ -232,7 +225,6 @@
     "British Action Toward Neutrality.md",
     "Kingdom of Aragon.md",
     "The Prince.md",
-    "Trade Winds.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
