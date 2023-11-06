@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "One-to-One Function.md",
+                "file": "SQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea7d6b3197afd4a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bitboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mexican-American War.md",
+                "file": "Bitboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mexican-American War.md",
+                "file": "Bitboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mexican-American War.md"
+                "file": "Bitboard.md"
               }
             }
           },
@@ -190,12 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a84b393061348f8c",
+  "active": "ea7d6b3197afd4a3",
   "lastOpenFiles": [
-    "Annexation of Texas.md",
-    "Mexican-American War.md",
-    "Republic of Texas.md",
+    "SQL.md",
+    "Bitboard.md",
     "One-to-One Function.md",
+    "Mexican-American War.md",
+    "Annexation of Texas.md",
+    "Republic of Texas.md",
     "Manifest Destiny.md",
     "United States.md",
     "Republic of the Rio Grande.md",
@@ -216,8 +229,6 @@
     "Trade Winds.md",
     "Sum Rule.md",
     "Regression Analysis.md",
-    "Rectangle.md",
-    "Work.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
