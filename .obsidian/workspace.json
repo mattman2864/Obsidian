@@ -34,13 +34,12 @@
               "type": "markdown",
               "state": {
                 "file": "Mexican-American War.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SQL.md"
+              }
             }
           },
           {
@@ -193,8 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea7d6b3197afd4a3",
+  "active": "01117839bf763d33",
   "lastOpenFiles": [
+    "Mexican-American War.md",
+    "SQL.md",
     "Memory.md",
     "Bitboard.md",
     "C.md",
@@ -203,9 +208,7 @@
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233106.png",
     "Baldassare Castiglione.md",
-    "SQL.md",
     "One-to-One Function.md",
-    "Mexican-American War.md",
     "Annexation of Texas.md",
     "Republic of Texas.md",
     "Manifest Destiny.md",
