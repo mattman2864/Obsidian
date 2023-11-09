@@ -13,24 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constant.md",
+                "file": "Republic of Texas.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6364c722c0b31fd9",
+            "id": "bc6c9a9e6d314603",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Compromise of 1850.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d0c00e064252176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.01103591918945,
-    "collapsed": true
+    "width": 260.01103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Constant.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Constant.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Constant.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -173,8 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,10 +202,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6364c722c0b31fd9",
+  "active": "4d0c00e064252176",
   "lastOpenFiles": [
-    "Constant Multiple Rule.md",
+    "Compromise of 1850.md",
+    "conflict-files-obsidian-git.md",
+    "Republic of Texas.md",
     "Constant.md",
+    "United States.md",
+    "Statistic.md",
+    "Pasted image 20231105233650.png",
+    "Pasted image 20231105233230.png",
+    "Pasted image 20231105233150.png",
+    "Pasted image 20231105233106.png",
+    "Parametric Equations.md",
+    "One-to-One Function.md",
+    "Mexican-American War.md",
+    "Manifest Destiny.md",
+    "Inverse Functions.md",
+    "Constant Multiple Rule.md",
     "Second Great Awakening.md",
     "Work.md",
     "Feudalism.md",
@@ -202,22 +228,12 @@
     "Infantry.md",
     "Military Revolution.md",
     "Westward Expansion.md",
-    "conflict-files-obsidian-git.md",
     "Bartolomé de las Casas.md",
     "Energy.md",
     "Giovanni Pico della Mirandola.md",
     "The First Italian War.md",
     "Astrolabe.md",
     "Flat Boat.md",
-    "Salic Law.md",
-    "Clovis.md",
-    "Boolean Operator.md",
-    "Chemical Reaction.md",
-    "US Foreign Relations With Britain and France.md",
-    "Chi-Square Distribution.md",
-    "Central Limit Theorem.md",
-    "Annapolis Convention.md",
-    "Kinetic Energy.md",
     "centripetal-acceleration-diagram.jpg",
     "Net Force Diagram.svg",
     "Excalidraw/Vector.svg",
@@ -226,10 +242,6 @@
     "Untitled.canvas",
     "Pasted image 20230926131221.png",
     "Pasted image 20230920110202.png",
-    "Pasted image 20230920130033.png",
-    "Pasted image 20230926131407.png",
-    "Excalidraw",
-    "Electrical Symbols.png.png",
-    "Current.png"
+    "Excalidraw"
   ]
 }

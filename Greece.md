@@ -4,4 +4,6 @@ Greece is a European nation on the [[Mediterranean Sea]].
 | -------- | ------------------------------------------- |
 | Founded  | 1821 (Independence from [[Ottoman Empire]]) |
 | Language | [[Greek]]                                   |
-| Map         |         ![[Greece Map.gif]]                                    |
+
+>[!map]
+>![[Greece Map.gif|300]]

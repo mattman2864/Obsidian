@@ -1,6 +1,10 @@
 {
-  "textFontFamily": "Cambria",
-  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Lucida Sans Unicode",
+  "interfaceFontFamily": "Ubuntu",
   "accentColor": "",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "cssTheme": "Material Ocean",
+  "enabledCssSnippets": [
+    "snippet"
+  ]
 }

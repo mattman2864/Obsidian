@@ -1,0 +1,20 @@
+.callout[data-callout="art"] {
+    --callout-color: 245, 191, 66; 
+    --callout-icon: brush;
+}
+.callout[data-callout="map"] {
+    --callout-color: 191, 245, 66; 
+    --callout-icon: map;
+}
+.callout[data-callout="definition"] {
+    --callout-color: 85, 140, 230; 
+    --callout-icon: book-marked;
+}
+.callout[data-callout="photo"] {
+    --callout-color: 33, 204, 130;
+    --callout-icon: camera;
+}
+.callout[data-callout="image"] {
+    --callout-color: 227, 191, 73;
+    --callout-icon: image;
+}

@@ -3,6 +3,7 @@
 - [[Thomas Jefferson]] as VP
 	- party pressures prohibit collaboration
 - Conflict with France
+![John Adams](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg/220px-Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933.jpg)
 # Major Events During Presidency
 - Quasi War (1797)
 	- Naval battle in Caribbean where [[Britain]] is stopping American ships

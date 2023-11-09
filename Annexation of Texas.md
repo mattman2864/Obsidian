@@ -1,0 +1,8 @@
+[[Texas]] was annexed by the United States in 1845 and became the 28th state. Until 1846, Texas had been part of Mexico, but in that year a group of settlers from the United States who lived in Mexican Texas declared independence. They called their new country the [[Republic of Texas]], which was an independent country for nine years. Politics in the United States fractured over the issue of whether Texas should be admitted as a slave or free state. In the end, Texas was admitted to the United States a slave state. The annexation of Texas contributed to the coming of the [[Mexican-American War]] (1846-1848). The conflict started, in part, over a disagreement about which river was Mexico’s true northern border: the [[Nueces]] or the [[Rio Grande]].
+
+During the years leading up to Texas's becoming the 28th state, pro-slavery and anti-slavery forced battled over the issue of slavery's expansion into Texas. Indeed the inter-party and intra-party battles between and among [[Whig Party|Whigs]] and [[Democratic Party|Democrats]] in [[Congress]]—and elsewhere across the nation—highlighted divisions between pro-slavery and anti-slavery forces that would, in 1861, lead to the [[Civil War]].
+>[!map]
+>![Texas-pre-annexation](https://cdn.kastatic.org/ka-perseus-images/7f04b0969fb205ee8f453f44ba9cdd9cc1f0b3b6.png)
+>**The Republic of Texas pre-annexation**
+
+President [[John Tyler]] made the annexation of Texas a priority, and in the closing days of his presidency, Congress voted to make Texas a state—though it was not until December 1845 that, under President [[James Polk]], Texas formally achieved statehood.
