@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ancient Egypt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b92de137723b87eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Petrarch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Petrarch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Petrarch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Petrarch.md"
               }
             }
           },
@@ -189,10 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b92de137723b87eb",
+  "active": "01117839bf763d33",
   "lastOpenFiles": [
-    "Ancient Egypt.md",
+    "National Road.md",
+    "US Foreign Relations With Britain and France.md",
     "conflict-files-obsidian-git.md",
+    "Ancient Egypt.md",
     "Compromise of 1850.md",
     "Battle of Fallen Timbers.md",
     "Jay Treaty.md",
@@ -222,8 +211,6 @@
     "Manifest Destiny.md",
     "United States.md",
     "Republic of the Rio Grande.md",
-    "Composite Functions.md",
-    "Inverse Functions.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
