@@ -11,8 +11,12 @@
             "id": "01117839bf763d33",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ancient Egypt.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ancient Egypt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ancient Egypt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ancient Egypt.md"
+              }
             }
           },
           {
@@ -171,6 +179,13 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
+    "Battle of Fallen Timbers.md",
+    "Jay Treaty.md",
+    "Bartolomé de las Casas.md",
+    "Baldassare Castiglione.md",
+    "Astrolabe.md",
+    "1796 Election.md",
+    "12th Amendment.md",
     "Parametric Equations.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
@@ -186,7 +201,6 @@
     "Memory.md",
     "Bitboard.md",
     "C.md",
-    "Baldassare Castiglione.md",
     "One-to-One Function.md",
     "Annexation of Texas.md",
     "Republic of Texas.md",
@@ -198,12 +212,6 @@
     "Boston Massacre.md",
     "Committees of Correspondence.md",
     "Girolamo Savonarola.md",
-    "John Marshall.md",
-    "Inclinometer.md",
-    "Articles of Confederation.md",
-    "Central Limit Theorem.md",
-    "Relational Database.md",
-    "Military Revolution.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
