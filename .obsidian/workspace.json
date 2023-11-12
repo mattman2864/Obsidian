@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Petrarch.md",
+                "file": "Parametric Equations.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Petrarch.md",
+                "file": "Parametric Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Petrarch.md",
+                "file": "Parametric Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Petrarch.md"
+                "file": "Parametric Equations.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
+    "Petrarch.md",
     "National Road.md",
     "US Foreign Relations With Britain and France.md",
     "conflict-files-obsidian-git.md",
@@ -210,7 +211,6 @@
     "Republic of Texas.md",
     "Manifest Destiny.md",
     "United States.md",
-    "Republic of the Rio Grande.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
