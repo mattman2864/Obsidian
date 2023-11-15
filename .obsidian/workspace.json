@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Derivative.md",
-                "mode": "source",
+                "file": "Acceleration.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative.md",
+                "file": "Acceleration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative.md",
+                "file": "Acceleration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Derivative.md"
+                "file": "Acceleration.md"
               }
             }
           },
@@ -178,6 +178,9 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
+    "Kinematic Equations.md",
+    "Acceleration.md",
+    "Derivative.md",
     "Parametric Equations.md",
     "Petrarch.md",
     "National Road.md",
@@ -208,9 +211,6 @@
     "C.md",
     "One-to-One Function.md",
     "Annexation of Texas.md",
-    "Republic of Texas.md",
-    "Manifest Destiny.md",
-    "United States.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
