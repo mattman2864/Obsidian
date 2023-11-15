@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parametric Equations.md",
+                "file": "Derivative.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parametric Equations.md",
+                "file": "Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parametric Equations.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parametric Equations.md"
+                "file": "Derivative.md"
               }
             }
           },
@@ -172,11 +172,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
+    "Parametric Equations.md",
     "Petrarch.md",
     "National Road.md",
     "US Foreign Relations With Britain and France.md",
@@ -190,7 +192,6 @@
     "Astrolabe.md",
     "1796 Election.md",
     "12th Amendment.md",
-    "Parametric Equations.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
