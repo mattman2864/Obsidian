@@ -31,7 +31,7 @@ Head of national treasury under Washington, Federalist.
 - Article 1, Sec 8 (as justification for bank)
 - boldly articulated doctrine of **implied powers**.
 - Loose construction passed the bill through
-Authorize congress to *“make all laws which  shall be necessary and proper for carrying into execution the foregoing Powers.”*
+Authorize [[congress]] to *“make all laws which  shall be necessary and proper for carrying into execution the foregoing Powers.”*
 # [[Thomas Jefferson]]
 - Jefferson said bank convenient, not necessary
 - Had strict view of constitution (not stated explicitly, should not be allowed)

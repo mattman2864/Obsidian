@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "house of representative",
+                "query": "congress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,6 +171,18 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
+    "US Foreign Relations With Britain and France.md",
+    "Tariff of 1816.md",
+    "Kentucky and Virginia Resolutions.md",
+    "Jay Treaty.md",
+    "Alexander Hamilton.md",
+    "Treaty of Tordesillas.md",
+    "Statistical Test.md",
+    "Monarchy.md",
+    "Tests for Paired Data.md",
+    "Tariff and Tonnage of 1789.md",
+    "Salic Law.md",
+    "Hexadecimal.md",
     "Popular Sovereignty.md",
     "Wilmot Proviso.md",
     "German Immigrants.md",
@@ -184,18 +197,6 @@
     "Oregon Trail.md",
     "Annexation of Texas.md",
     "Fort Sumter.md",
-    "Civil War.md",
-    "United States.md",
-    "Acceleration.md",
-    "Kinematic Equations.md",
-    "Derivative.md",
-    "Parametric Equations.md",
-    "Petrarch.md",
-    "National Road.md",
-    "US Foreign Relations With Britain and France.md",
-    "conflict-files-obsidian-git.md",
-    "Ancient Egypt.md",
-    "Compromise of 1850.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
