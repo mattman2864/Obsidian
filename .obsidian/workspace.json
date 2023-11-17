@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Acceleration.md",
-                "mode": "preview",
+                "file": "Civil War.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Civil War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Acceleration.md",
+                "file": "Civil War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Acceleration.md"
+                "file": "Civil War.md"
               }
             }
           },
@@ -178,8 +178,9 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
-    "Kinematic Equations.md",
     "Acceleration.md",
+    "Civil War.md",
+    "Kinematic Equations.md",
     "Derivative.md",
     "Parametric Equations.md",
     "Petrarch.md",
@@ -210,7 +211,6 @@
     "Bitboard.md",
     "C.md",
     "One-to-One Function.md",
-    "Annexation of Texas.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
