@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ead655e56492e6b9",
+        "id": "3471d6fc8abf4d04",
         "type": "tabs",
         "children": [
           {
-            "id": "01117839bf763d33",
+            "id": "9330add83e1078ea",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Age of Exploration.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Age of Exploration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Age of Exploration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Age of Exploration.md"
+              }
             }
           },
           {
@@ -169,8 +176,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01117839bf763d33",
+  "active": "9330add83e1078ea",
   "lastOpenFiles": [
+    "Acceleration.md",
+    "Albany Plan of Union.md",
+    "Age of Exploration.md",
+    "1800 Election.md",
+    "2023-11-16.md",
     "US Foreign Relations With Britain and France.md",
     "Tariff of 1816.md",
     "Kentucky and Virginia Resolutions.md",
@@ -192,11 +204,6 @@
     "Oregon Territory.md",
     "James Polk.md",
     "Texas.md",
-    "John Tyler.md",
-    "Manifest Destiny.md",
-    "Oregon Trail.md",
-    "Annexation of Texas.md",
-    "Fort Sumter.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
