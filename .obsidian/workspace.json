@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "American Railroads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "American Railroads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "American Railroads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexation of Texas.md"
+                "file": "American Railroads.md"
               }
             }
           },
@@ -178,6 +178,15 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
+    "Treaty of Guadalupe Hidalgo.md",
+    "American Railroads.md",
+    "Oregon Territory.md",
+    "James Polk.md",
+    "Texas.md",
+    "John Tyler.md",
+    "Manifest Destiny.md",
+    "Oregon Trail.md",
+    "Annexation of Texas.md",
     "Fort Sumter.md",
     "Civil War.md",
     "United States.md",
@@ -195,9 +204,6 @@
     "Jay Treaty.md",
     "Bartolomé de las Casas.md",
     "Baldassare Castiglione.md",
-    "Astrolabe.md",
-    "1796 Election.md",
-    "12th Amendment.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
@@ -205,12 +211,6 @@
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233650.png",
-    "Confidence Interval.md",
-    "Deng Xiaoping.md",
-    "SQL.md",
-    "Mexican-American War.md",
-    "Memory.md",
-    "Bitboard.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
