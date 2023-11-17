@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civil War.md",
+                "file": "Fort Sumter.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Civil War.md",
+                "file": "Fort Sumter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Civil War.md",
+                "file": "Fort Sumter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Civil War.md"
+                "file": "Fort Sumter.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
-    "Acceleration.md",
     "Civil War.md",
+    "Fort Sumter.md",
+    "United States.md",
+    "Acceleration.md",
     "Kinematic Equations.md",
     "Derivative.md",
     "Parametric Equations.md",
@@ -209,8 +211,6 @@
     "Mexican-American War.md",
     "Memory.md",
     "Bitboard.md",
-    "C.md",
-    "One-to-One Function.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
