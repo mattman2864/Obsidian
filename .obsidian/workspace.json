@@ -11,12 +11,8 @@
             "id": "01117839bf763d33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "American Railroads.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "American Railroads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "American Railroads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "American Railroads.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +170,12 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
-    "Treaty of Guadalupe Hidalgo.md",
+    "Popular Sovereignty.md",
+    "Wilmot Proviso.md",
+    "German Immigrants.md",
+    "Irish Immigrants.md",
     "American Railroads.md",
+    "Treaty of Guadalupe Hidalgo.md",
     "Oregon Territory.md",
     "James Polk.md",
     "Texas.md",
@@ -200,10 +196,6 @@
     "conflict-files-obsidian-git.md",
     "Ancient Egypt.md",
     "Compromise of 1850.md",
-    "Battle of Fallen Timbers.md",
-    "Jay Treaty.md",
-    "Bartolomé de las Casas.md",
-    "Baldassare Castiglione.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
