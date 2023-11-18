@@ -1,4 +1,4 @@
-Kinematics is the study of motion without looking into the cause of motion. It is the study of [[position]], [[displacement]], time, [[velocity]], speed, and [[acceleration]]. Equations and graphs are vital tools in kinematics.
+Kinematics is the study of motion without looking into the cause of motion. It is the study of [[position]], [[displacement]], time, [[velocity]], speed, and [[Acceleration]]. Equations and graphs are vital tools in kinematics.
 
 When an object moves, its **position** relative to a point of reference changes with time. The rate at which position changes is the **velocity** of the object. If the velocity of an object changes, it is said to accelerate. The rate at which velocity changes is called **acceleration**. Velocity and  acceleration are [[vector]] quantities with both magnitude and direction. **Speed** is a [[Scalar]] quantity which is the rate of motion without direction. **Displacement** is a vector quantity defined as the change of position. Therefore, velocity is displacement divided by time.
 

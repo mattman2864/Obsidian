@@ -12,5 +12,5 @@
 - French Minister Genet
 	- Seize British ships in the name of France
 - [[Proclamation of Neutrality]] (Apr. 1793)
-	- issued by Washington and Congress
+	- issued by Washington and [[Congress]]
 	- Genet received asylum and stayed in NY

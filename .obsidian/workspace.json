@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee564a335e94d9e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mean Value Theorem.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mean Value Theorem.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mean Value Theorem.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,11 +202,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc6c9a9e6d314603",
+  "active": "ee564a335e94d9e6",
   "lastOpenFiles": [
-    "Compromise of 1850.md",
     "Mean Value Theorem.md",
     "conflict-files-obsidian-git.md",
+    "Wilmot Proviso.md",
+    "Treaty of Guadalupe Hidalgo.md",
+    "Texas.md",
+    "Popular Sovereignty.md",
+    "Oregon Trail.md",
+    "Oregon Territory.md",
+    "John Tyler.md",
+    "James Polk.md",
+    "Irish Immigrants.md",
+    "German Immigrants.md",
+    "Fort Sumter.md",
+    "Civil War.md",
+    "American Railroads.md",
+    "Acceleration.md",
+    "Compromise of 1850.md",
     "Republic of Texas.md",
     "Constant.md",
     "United States.md",
@@ -208,20 +234,6 @@
     "Mexican-American War.md",
     "Manifest Destiny.md",
     "Inverse Functions.md",
-    "Constant Multiple Rule.md",
-    "Second Great Awakening.md",
-    "Work.md",
-    "Feudalism.md",
-    "Dynastic Cycle.md",
-    "Monarchy.md",
-    "Infantry.md",
-    "Military Revolution.md",
-    "Westward Expansion.md",
-    "Bartolomé de las Casas.md",
-    "Energy.md",
-    "Giovanni Pico della Mirandola.md",
-    "The First Italian War.md",
-    "Astrolabe.md",
     "centripetal-acceleration-diagram.jpg",
     "Net Force Diagram.svg",
     "Excalidraw/Vector.svg",

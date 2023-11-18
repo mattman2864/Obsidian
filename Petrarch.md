@@ -1,4 +1,4 @@
-[]()Petrarch is labeled as "the first [[Humanism|Humanist]]".
+Petrarch is labeled as "the first [[Humanism|Humanist]]".
 - "[[Babylon]]ian captivity of the Church"
 - referred to [[Medieval Europe]] as "*The Dark Ages*"
 - Accepted the award of [[poet laurette]]
