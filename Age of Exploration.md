@@ -9,7 +9,7 @@ The Age of Exploration was the period of time characterized by the rapid oversea
 	- **Pepper**
 	- **Porcelain** and **Silk**
 3. Religion
-	- Continuing the [[Crusades]]
+	- Continued the [[Crusades]]
 	- [[Conquistadors]]
 	- [[Prester John]]
 		- Mythical [[Christianity|Christian]] king thought to have existed in the East surrounded by [[Islam|Muslims]] and [[Paganism|Pagans]].
