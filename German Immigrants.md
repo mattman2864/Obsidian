@@ -1,0 +1,1 @@
+The [[Germany|German]] Immigrants into the [[United States]] in the mid 19th century were largely skilled workers looking for a fresh start. Many of them became farmers, and this increased the population greatly, ending in over 600k new German-Americans.

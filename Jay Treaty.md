@@ -12,7 +12,7 @@ President Washington's unpopular response to [[British Action Toward Neutrality|
 - **Rejected** U.S. position on neutrality
 - No compensation for seized ships...
 # Aftermath of Treaty in America
-- Angry outcry in congress
+- Angry outcry in [[congress]]
 - Senate approved revised version in June 1795 (Federalists pushed it through)
 - Details leaked to press
 	- Sparked overwhelming rejection, protests, mobs ensued

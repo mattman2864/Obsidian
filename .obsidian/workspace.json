@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6eaa347f465b4eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parametric Equations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parametric Equations.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parametric Equations.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -176,22 +189,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01117839bf763d33",
+  "active": "c6eaa347f465b4eb",
   "lastOpenFiles": [
+    "Parametric Equations.md",
+    "conflict-files-obsidian-git.md",
+    "Wilmot Proviso.md",
+    "Treaty of Guadalupe Hidalgo.md",
+    "Texas.md",
+    "Rolle's Theorem.md",
+    "Popular Sovereignty.md",
+    "Oregon Trail.md",
+    "Oregon Territory.md",
+    "Mean Value Theorem.md",
+    "John Tyler.md",
+    "James Polk.md",
+    "Irish Immigrants.md",
+    "German Immigrants.md",
+    "Fort Sumter.md",
+    "Civil War.md",
+    "American Railroads.md",
+    "Acceleration.md",
     "Petrarch.md",
     "National Road.md",
     "US Foreign Relations With Britain and France.md",
-    "conflict-files-obsidian-git.md",
     "Ancient Egypt.md",
     "Compromise of 1850.md",
     "Battle of Fallen Timbers.md",
     "Jay Treaty.md",
     "Bartolomé de las Casas.md",
-    "Baldassare Castiglione.md",
-    "Astrolabe.md",
-    "1796 Election.md",
-    "12th Amendment.md",
-    "Parametric Equations.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
@@ -199,18 +224,6 @@
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233650.png",
-    "Confidence Interval.md",
-    "Deng Xiaoping.md",
-    "SQL.md",
-    "Mexican-American War.md",
-    "Memory.md",
-    "Bitboard.md",
-    "C.md",
-    "One-to-One Function.md",
-    "Annexation of Texas.md",
-    "Republic of Texas.md",
-    "Manifest Destiny.md",
-    "United States.md",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
     "1796 Election Results.png",
