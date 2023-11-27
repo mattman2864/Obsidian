@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
+                "file": "Slope.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
+                "file": "Slope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
+                "file": "Slope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md"
+                "file": "Slope.md"
               }
             }
           },
@@ -178,33 +178,34 @@
   },
   "active": "9330add83e1078ea",
   "lastOpenFiles": [
+    "SQL.md",
+    "Current.md",
+    "Circuit.md",
+    "Catholic Church.md",
+    "Caravel.md",
+    "C.md",
+    "Byte.md",
+    "British Action Toward Neutrality.md",
+    "Britain.md",
+    "Boston Tea Party.md",
+    "Boston Massacre.md",
+    "Boolean Operator.md",
+    "Boolean.md",
+    "Binary.md",
+    "Benjamin Franklin Portrait.jpg",
+    "Acceleration.md",
+    "1796 Election.md",
+    "12th Amendment.md",
     "Minecraft/Things to Build in New Area.md",
     "conflict-files-obsidian-git.md",
     "Rolle's Theorem.md",
     "Mean Value Theorem.md",
     "Age of Exploration.md",
     "Minecraft",
-    "Acceleration.md",
     "Albany Plan of Union.md",
     "1800 Election.md",
     "2023-11-16.md",
     "US Foreign Relations With Britain and France.md",
-    "Tariff of 1816.md",
-    "Kentucky and Virginia Resolutions.md",
-    "Jay Treaty.md",
-    "Alexander Hamilton.md",
-    "Treaty of Tordesillas.md",
-    "Statistical Test.md",
-    "Monarchy.md",
-    "Tests for Paired Data.md",
-    "Tariff and Tonnage of 1789.md",
-    "Salic Law.md",
-    "Hexadecimal.md",
-    "Popular Sovereignty.md",
-    "Wilmot Proviso.md",
-    "German Immigrants.md",
-    "Irish Immigrants.md",
-    "American Railroads.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
@@ -214,7 +215,6 @@
     "Pasted image 20231105233650.png",
     "American Progress by John Gast.jpg",
     "Alexander Hamilton Portrait.jpg",
-    "1796 Election Results.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]
