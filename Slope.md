@@ -12,10 +12,11 @@ Let $L$ be a nonvertical line in the plane and $P_1(x_1,y_1)$ and $P_2(x_2,y_2)$
 \draw[thick,->] (0,-0.5) -- (0,4.5) node[anchor=south] {$y$};
 \path (0, 0) node[anchor=north east] {$O$};
 
-\draw[cyan, line width=2pt, line cap=round, dash pattern = on 8pt off 4pt] (0.75, -5/**0.75) -- (5, 5) node[anchor=south east] {$L$};
+\draw[cyan, line width=2pt, line cap=round, dash pattern = on 8pt off 4pt] (0.75, -5/16) -- (5, 5) node[anchor=south east] {$L$};
 \draw[cyan, line width=2pt, line cap=round] (2, 5/4) -- (4, 15/4);
 \fill [fill=cyan, opacity=0.2] (2, 1.25) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt] {}
--- (4, 3.75) -- (4, 1.25);
+-- (4, 3.75) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt, label=left:{$P_2(x_2,y_2)$}] {}
+-- (4, 1.25) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt] {};
 
 \end{tikzpicture}
 \end{document}
