@@ -7,8 +7,12 @@ Let $L$ be a nonvertical line in the plane and $P_1(x_1,y_1)$ and $P_2(x_2,y_2)$
 \begin{document}
 \begin{tikzpicture}
 
-\draw[thick,->] (0,0) -- (4.5,0) node[anchor=north] {x};
-\draw[thick,->] (0,0) -- (0,4.5) node[anchor=south east] {y};
+% Axis %
+\draw[thick,->] (-0.5, 0) -- (4.5,0) node[anchor=west] {x};
+\draw[thick,->] (0,-0.5) -- (0,4.5) node[anchor=south] {y};
+\path (0, 0) node[anchor=north east] {\textit{O}};
+
+\draw
 
 \end{tikzpicture}
 \end{document}
