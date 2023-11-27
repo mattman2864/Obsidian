@@ -1,3 +1,2 @@
-- Super Smelter
-- Sorting System
-- 
+- [ ] Super Smelter
+- [ ] Storage System
