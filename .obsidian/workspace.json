@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f1886abdf9a7e857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -176,10 +189,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9330add83e1078ea",
+  "active": "f1886abdf9a7e857",
   "lastOpenFiles": [
-    "Age of Exploration.md",
     "Minecraft/Things to Build in New Area.md",
+    "conflict-files-obsidian-git.md",
+    "Rolle's Theorem.md",
+    "Mean Value Theorem.md",
+    "Age of Exploration.md",
     "Minecraft",
     "Acceleration.md",
     "Albany Plan of Union.md",
@@ -202,9 +218,6 @@
     "German Immigrants.md",
     "Irish Immigrants.md",
     "American Railroads.md",
-    "Treaty of Guadalupe Hidalgo.md",
-    "Oregon Territory.md",
-    "James Polk.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
