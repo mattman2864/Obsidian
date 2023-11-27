@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Age of Exploration.md",
+                "file": "Minecraft/Things to Build in New Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Age of Exploration.md",
+                "file": "Minecraft/Things to Build in New Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Age of Exploration.md",
+                "file": "Minecraft/Things to Build in New Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Age of Exploration.md"
+                "file": "Minecraft/Things to Build in New Area.md"
               }
             }
           },
@@ -178,9 +178,11 @@
   },
   "active": "9330add83e1078ea",
   "lastOpenFiles": [
+    "Age of Exploration.md",
+    "Minecraft/Things to Build in New Area.md",
+    "Minecraft",
     "Acceleration.md",
     "Albany Plan of Union.md",
-    "Age of Exploration.md",
     "1800 Election.md",
     "2023-11-16.md",
     "US Foreign Relations With Britain and France.md",
@@ -203,7 +205,6 @@
     "Treaty of Guadalupe Hidalgo.md",
     "Oregon Territory.md",
     "James Polk.md",
-    "Texas.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
