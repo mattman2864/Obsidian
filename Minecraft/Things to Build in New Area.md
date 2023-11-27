@@ -1,3 +1,3 @@
 - [ ] Super Smelter
 - [ ] Storage System
-- [ ] 
+- [ ] Enchanting Table
