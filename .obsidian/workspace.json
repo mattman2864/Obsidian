@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alexander Hamilton.md",
+                "file": "Derivative.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alexander Hamilton.md",
+                "file": "Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alexander Hamilton.md",
+                "file": "Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alexander Hamilton.md"
+                "file": "Derivative.md"
               }
             }
           },
@@ -179,11 +179,17 @@
   },
   "active": "a12c66dfc48c5b63",
   "lastOpenFiles": [
-    "Albany Plan of Union.md",
-    "Triangle.md",
+    "Deng Xiaoping.md",
+    "Derivative.md",
+    "Declaratory Act.md",
     "Declaration of Independence.md",
     "Declaration and Resolves.md",
     "Current.md",
+    "Currency Act.md",
+    "Crusades.md",
+    "Albany Plan of Union.md",
+    "Alexander Hamilton.md",
+    "Triangle.md",
     "Catholic Church.md",
     "Central Limit Theorem.md",
     "Centripetal Acceleration.md",
@@ -199,12 +205,6 @@
     "Britain.md",
     "British Action Toward Neutrality.md",
     "Byte.md",
-    "C.md",
-    "Ancient Egypt.md",
-    "American System.md",
-    "Algorithmic Complexity.md",
-    "Astrolabe.md",
-    "Aaron Burr.md",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
     "Benjamin Franklin Portrait.jpg",
