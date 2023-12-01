@@ -29,4 +29,3 @@ A [[Line]] that goes uphill as $x$ increases has a positive slope. A line that g
 Let $P_!(x_1, y_1)$ and $P_2(x_2,y_2)$ be points on a nonvertical line, $L$. The **slope** of $L$ is
 $$m=\frac{rise}{run}=\frac{\Delta y}{\Delta x}=\frac{y_2-y_1}{x_2-x_1}$$
 
-hello
