@@ -11,8 +11,12 @@
             "id": "a12c66dfc48c5b63",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Alexander Hamilton.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Alexander Hamilton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Alexander Hamilton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Alexander Hamilton.md"
+              }
             }
           },
           {
@@ -171,32 +179,32 @@
   },
   "active": "a12c66dfc48c5b63",
   "lastOpenFiles": [
+    "Albany Plan of Union.md",
+    "Triangle.md",
+    "Declaration of Independence.md",
+    "Declaration and Resolves.md",
+    "Current.md",
+    "Catholic Church.md",
+    "Central Limit Theorem.md",
+    "Centripetal Acceleration.md",
+    "Chain Rule.md",
+    "Char.md",
+    "Caravel.md",
+    "Civil War.md",
+    "Classical Age.md",
+    "Clovis.md",
+    "Boolean Operator.md",
+    "Boston Massacre.md",
+    "Boston Tea Party.md",
+    "Britain.md",
+    "British Action Toward Neutrality.md",
+    "Byte.md",
+    "C.md",
     "Ancient Egypt.md",
     "American System.md",
     "Algorithmic Complexity.md",
     "Astrolabe.md",
     "Aaron Burr.md",
-    "1796 Election.md",
-    "12th Amendment.md",
-    "Minecraft/Things to Build in New Area.md",
-    "SQL.md",
-    "Slope.md",
-    "Classes.md",
-    "Velocity.md",
-    "Vector.md",
-    "Valois-Habsburg War.md",
-    "Valley Forge.md",
-    "United States.md",
-    "US Foreign Relations With Britain and France.md",
-    "Two-Tailed Proportions.md",
-    "Truth Table.md",
-    "Tree.md",
-    "Treaty of Tordesillas.md",
-    "Treaty of Paris.md",
-    "Treaty of Guadalupe Hidalgo.md",
-    "Treaty of Ghent.md",
-    "Trade Winds.md",
-    "Townshend Act.md",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
     "Benjamin Franklin Portrait.jpg",
