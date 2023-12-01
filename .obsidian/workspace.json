@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Derivative.md",
-                "mode": "preview",
+                "file": "Minecraft/Things to Build in New Area.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Derivative.md",
+                "file": "Minecraft/Things to Build in New Area.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Derivative.md",
+                "file": "Minecraft/Things to Build in New Area.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Derivative.md"
+                "file": "Minecraft/Things to Build in New Area.md"
               }
             }
           },
@@ -155,13 +155,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,32 +177,33 @@
   },
   "active": "a12c66dfc48c5b63",
   "lastOpenFiles": [
-    "Deng Xiaoping.md",
+    "Articles of Confederation.md",
+    "Astrolabe.md",
+    "Algorithmic Complexity.md",
+    "Crusades.md",
+    "New Monarch.md",
+    "Tariff of 1816.md",
+    "Circuit.md",
+    "Current.md",
+    "Charge.md",
+    "Force.md",
+    "Acceleration.md",
     "Derivative.md",
+    "Velocity.md",
+    "Isaac Newton.md",
+    "Electrical Symbols.png.png",
+    "Early Political Parties.md",
+    "Dynastic Cycle.md",
+    "Directed Graph.md",
+    "Difference Rule.md",
+    "Deng Xiaoping.md",
     "Declaratory Act.md",
     "Declaration of Independence.md",
     "Declaration and Resolves.md",
-    "Current.md",
     "Currency Act.md",
-    "Crusades.md",
     "Albany Plan of Union.md",
     "Alexander Hamilton.md",
     "Triangle.md",
-    "Catholic Church.md",
-    "Central Limit Theorem.md",
-    "Centripetal Acceleration.md",
-    "Chain Rule.md",
-    "Char.md",
-    "Caravel.md",
-    "Civil War.md",
-    "Classical Age.md",
-    "Clovis.md",
-    "Boolean Operator.md",
-    "Boston Massacre.md",
-    "Boston Tea Party.md",
-    "Britain.md",
-    "British Action Toward Neutrality.md",
-    "Byte.md",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
     "Benjamin Franklin Portrait.jpg",
@@ -215,7 +214,6 @@
     "Pasted image 20231105233106.png",
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233230.png",
-    "Pasted image 20231105233650.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]
