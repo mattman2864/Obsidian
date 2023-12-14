@@ -1,1 +1,0 @@
-Andrew Carnegie was a steel tycoon and entrepreneur.
