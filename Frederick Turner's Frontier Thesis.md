@@ -1,0 +1,1 @@
+The thesis consisted of the idea that now that the frontier is gone, the American culture would change
