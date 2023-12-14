@@ -1,3 +1,4 @@
+#CS 
 **Methods** are procedures that control and define the behavior of an [[Object]].
 # Method Signatures
 Methods have signatures that consist of the name of the method and the parameter list. A method signature for a method without parameters consists of the method name and an empty parameter list.

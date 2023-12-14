@@ -1,3 +1,4 @@
+#Statistics #Math 
 Median is a statistical measure of the [[Center]].
 $M$ is the midpoint of the distribution
 half of the data is above, half is below
