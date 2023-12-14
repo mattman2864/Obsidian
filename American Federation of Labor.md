@@ -1,0 +1,1 @@
+The American Federation of Labor was an organization of labor unions which existed to support already existing labor unions as a collective.

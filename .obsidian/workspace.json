@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ca9d8e49ea3d140",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Andrew Carnegie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "612af33e75bccae8",
             "type": "leaf",
             "state": {
@@ -32,67 +20,67 @@
             }
           },
           {
-            "id": "f3f6b04f21f9bc54",
+            "id": "7f8797b9c2ae35b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "John D. Rockefeller.md",
+                "file": "Knights of Labor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "374e48f29d5be306",
+            "id": "c12cbf64378a6e66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trust.md",
+                "file": "Haymarket Riot.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "60fb212ff47a26e2",
+            "id": "5fe7b0243e6557f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gospel of Wealth.md",
+                "file": "Pullman Strike.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "00d3dd6385ff1f60",
+            "id": "74e0dd5909397b60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Horizontal Integration.md",
+                "file": "Economic Growth in US.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a388906c61cb9ed7",
+            "id": "11f6944f4c5db952",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vertical Integration.md",
+                "file": "American Federation of Labor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -160,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "National Labor Union.md",
+                "file": "Economic Growth in US.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "National Labor Union.md",
+                "file": "Economic Growth in US.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "National Labor Union.md"
+                "file": "Economic Growth in US.md"
               }
             }
           },
@@ -251,10 +239,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "612af33e75bccae8",
+  "active": "74e0dd5909397b60",
   "lastOpenFiles": [
-    "Deng Xiaoping.md",
+    "Pullman Strike.md",
+    "Economic Growth in US.md",
+    "Haymarket Riot.md",
+    "Knights of Labor.md",
+    "American Federation of Labor.md",
     "National Labor Union.md",
+    "Deng Xiaoping.md",
     "Andrew Carnegie.md",
     "Gospel of Wealth.md",
     "JP Morgan.md",
@@ -275,11 +268,6 @@
     "Minecraft/Things to Build in New Area.md",
     "Minecraft",
     "Carlisle School.md",
-    "Dawes Severalty Act.md",
-    "Homestead Act.md",
-    "Rolle's Theorem.md",
-    "Mean Value Theorem.md",
-    "Wilmot Proviso.md",
     "Pasted image 20231105233650.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233150.png",
