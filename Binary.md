@@ -1,1 +1,2 @@
+#CS
 A type of number using a base-two system of `0`s and `1`s that is used to represent all digital data in the world. A single binary digit is known as a [[Bit]], eight bits are in a [[Byte]], and four bytes can be used to make numbers known as [[Integer]]s.

@@ -1,3 +1,4 @@
+#CS
 Arrays are a data structure which includes a collection of items stored consecutively in memory. An array can consist of any data type, such as [[Integer]]s or [[Char]]s, though every item in the array must be of the same type. An array must also have a fixed size, defined on initialization.
 
 An example of arrays in C++:

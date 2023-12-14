@@ -1,3 +1,4 @@
+#APEuro 
 The Catholic Church was the dominant church in Europe from the [[Medieval Europe|Medieval Period]] onward.
 # The Clergy
 - Popes and nobles

@@ -1,3 +1,4 @@
+#APEuro
 The Black Death was a plague that ensued from 1346 to 1353. It was extremely large scale and killed a large percentage of the European population.
 # Effects
 ## Immediate

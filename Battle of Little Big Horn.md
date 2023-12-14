@@ -1,1 +1,2 @@
+#APUSH
 The Battle of Little Big Horn, also known as Custer's Last Stand, was a battle between the US Army and a group of [[Plains Indians]], which resulted in overwhelming victory for the Indians. It caused for Americans wanting lots of revenge against the Indians, leading to further annihilation of Indians.

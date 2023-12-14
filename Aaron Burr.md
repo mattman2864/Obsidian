@@ -1,3 +1,4 @@
+#APUSH
 Aaron Burr was a [[Democratic-Republicans|Democratic-Republican]] who was nominated as [[Vice-President]] under [[Thomas Jefferson]] in the 1800 election. A Democratic-Republican caucus in 1804 decided not to nominate Aaron Burr for a second term as vice president. Burr then embarked on a series of ventures, one of which threatened to break up the Union and another of which resulted in the death of political rival [[Alexander Hamilton]].
 ![Aaron Burr Portrait|300](https://upload.wikimedia.org/wikipedia/commons/8/8a/Aaron_Burr_post-failure.jpg)
 ## Federalist Conspiracy

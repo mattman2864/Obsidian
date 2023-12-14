@@ -1,1 +1,2 @@
+#CS
 Algorithmic complexity describes the order of a problem on how long it will take to solve given a number of elements $n$. Big O notation is most commonly used to describe the limiting behavior of an algorithm as $n$ approaches infinity. For example, if the relationship between size of the problem $n$ and the number of steps $T(n)$ required to solve the problem is [[Line|linear]], that is, a fixed number of steps per unit size, then the algorithmic complexity is $O(n)$.

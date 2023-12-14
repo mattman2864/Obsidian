@@ -1,3 +1,4 @@
+#APUSH #APEuro 
 Christopher Columbus was an Italian-born navigator and explorer who is credited with being the first to discover North America on four [[Christopher Columbus' Voyages to the Americas|Spanish-Based voyages]] across the Atlantic sponsored by [[Catholic Church|Catholic]] monarchs [[Ferdinand II of Aragon]] and [[Isabella I of Castile]].
 
 | Name      | Christopher Columbus                                                                       |

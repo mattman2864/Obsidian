@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9415e8d831b049c0",
+        "id": "78a6cbe25f0c85b6",
         "type": "tabs",
         "children": [
           {
-            "id": "612af33e75bccae8",
+            "id": "ec35ef85be6085db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "National Labor Union.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f8797b9c2ae35b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Knights of Labor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c12cbf64378a6e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Haymarket Riot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fe7b0243e6557f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pullman Strike.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "74e0dd5909397b60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economic Growth in US.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11f6944f4c5db952",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "American Federation of Labor.md",
+                "file": "Common Sense.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.01103591918945,
-    "collapsed": true
+    "width": 260.01103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -148,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economic Growth in US.md",
+                "file": "Common Sense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economic Growth in US.md",
+                "file": "Common Sense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economic Growth in US.md"
+                "file": "Common Sense.md"
               }
             }
           },
@@ -239,35 +177,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "74e0dd5909397b60",
+  "active": "ec35ef85be6085db",
   "lastOpenFiles": [
-    "Pullman Strike.md",
-    "Economic Growth in US.md",
-    "Haymarket Riot.md",
-    "Knights of Labor.md",
-    "American Federation of Labor.md",
-    "National Labor Union.md",
-    "Deng Xiaoping.md",
-    "Andrew Carnegie.md",
-    "Gospel of Wealth.md",
-    "JP Morgan.md",
-    "John D. Rockefeller.md",
-    "Horizontal Integration.md",
-    "Trust.md",
-    "Vertical Integration.md",
-    "Transcontinental Railroad.md",
-    "Newland's Reclamation Act.md",
-    "Frederick Turner's Frontier Thesis.md",
-    "National Grange.md",
-    "Battle of Little Big Horn.md",
-    "Sand Creek Massacre.md",
-    "Buffalo Soldiers.md",
-    "Plains Indians.md",
-    "conflict-files-obsidian-git.md",
-    "Triangle.md",
-    "Minecraft/Things to Build in New Area.md",
-    "Minecraft",
+    "Committees of Correspondence.md",
+    "Cog (ship).md",
+    "Clovis.md",
+    "Classical Age.md",
+    "Classes.md",
+    "Civil War.md",
+    "Civic Humanism.md",
+    "Circuit.md",
+    "Christopher Columbus Voyages to the Americas.md",
+    "Christopher Columbus.md",
+    "Chemical Reaction.md",
+    "Char.md",
+    "Charge.md",
+    "Chain Rule.md",
+    "Centripetal Acceleration.md",
+    "Central Limit Theorem.md",
+    "Catholic Church.md",
     "Carlisle School.md",
+    "Caravel.md",
+    "C.md",
+    "Byte.md",
+    "Buffalo Soldiers.md",
+    "British Action Toward Neutrality.md",
+    "Britain.md",
+    "Boston Tea Party.md",
+    "Boston Massacre.md",
+    "Benjamin Franklin Portrait.jpg",
+    "1796 Election Results.png",
+    "Minecraft",
     "Pasted image 20231105233650.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233150.png",
@@ -278,8 +218,6 @@
     "Vector.svg",
     "Vector.svg.xml",
     "Untitled.canvas",
-    "Pasted image 20230926131221.png",
-    "Pasted image 20230920110202.png",
     "Excalidraw"
   ]
 }
