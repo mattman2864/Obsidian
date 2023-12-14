@@ -1,3 +1,4 @@
+#APUSH
 The compromise of 1850 is a group of five laws passed in September of 1850. These laws made concessions to both free and slave states
 # Laws
 ## The Texas Provision

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Common Sense.md",
+                "file": "Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Common Sense.md",
+                "file": "Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Common Sense.md",
+                "file": "Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Common Sense.md"
+                "file": "Errors.md"
               }
             }
           },
@@ -179,32 +179,32 @@
   },
   "active": "ec35ef85be6085db",
   "lastOpenFiles": [
-    "Committees of Correspondence.md",
-    "Cog (ship).md",
-    "Clovis.md",
-    "Classical Age.md",
-    "Classes.md",
-    "Civil War.md",
-    "Civic Humanism.md",
-    "Circuit.md",
-    "Christopher Columbus Voyages to the Americas.md",
-    "Christopher Columbus.md",
-    "Chemical Reaction.md",
-    "Char.md",
-    "Charge.md",
-    "Chain Rule.md",
-    "Centripetal Acceleration.md",
-    "Central Limit Theorem.md",
-    "Catholic Church.md",
-    "Carlisle School.md",
-    "Caravel.md",
-    "C.md",
-    "Byte.md",
-    "Buffalo Soldiers.md",
-    "British Action Toward Neutrality.md",
-    "Britain.md",
-    "Boston Tea Party.md",
-    "Boston Massacre.md",
+    "Energy.md",
+    "Embargo Act.md",
+    "Economic Growth in US.md",
+    "Early Political Parties.md",
+    "Dynastic Cycle.md",
+    "Directed Graph.md",
+    "Difference Rule.md",
+    "Derivative.md",
+    "Deng Xiaoping.md",
+    "Declaratory Act.md",
+    "Declaration of Independence.md",
+    "Declaration and Resolves.md",
+    "Dawes Severalty Act.md",
+    "Current.md",
+    "Crusades.md",
+    "Critical Value.md",
+    "Currency Act.md",
+    "Contrapposto.md",
+    "Continental Congress.md",
+    "Constitutional Monarchy.md",
+    "Constant Rule.md",
+    "Constant Multiple Rule.md",
+    "Constant.md",
+    "Confidence Interval.md",
+    "Conductor.md",
+    "Compromise of 1850.md",
     "Benjamin Franklin Portrait.jpg",
     "1796 Election Results.png",
     "Minecraft",

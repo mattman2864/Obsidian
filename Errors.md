@@ -1,3 +1,4 @@
+#
 Errors can occur during [[Statistical Test]]s of significance. There are two types of statistical errors: **Type I** and **Type II**.
 - Type I Error: reject $H_o$ when $H_o$ is true
 - Type II Error: fail to reject $H_o$ when $H_o$ is false

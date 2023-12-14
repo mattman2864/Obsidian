@@ -1,1 +1,2 @@
+#APEuro 
 A Constitutional monarchy is a [[Monarchy]] where the monarch is heavily limited by a set of rules declared in a constitution. It is the most common form of monarchy in the modern era, and began to develop following the [[Enlightenment]] during the 19th century.

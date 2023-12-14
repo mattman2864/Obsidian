@@ -1,3 +1,5 @@
+#APUSH
+
 | [[Federalists]]                                                                            | [[Democratic-Republicans]]                                                                                                |
 | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- |
 | Led my merchants, bankers, and lawyers living primarily in New England.                    | Led by planters, farmers and wage earners living primarily in the South and West $\to$ A decentralized, agrarian republic |
@@ -8,5 +10,5 @@
 | Favored [[Alexander Hamilton\|Hamilton]]'s Financial policies                              | Opposed [[Alexander Hamilton\|Hamilton]]'s financial policies (especially Bank of US)                                     |
 | Passed the [[Alien and Sedition Acts]]                                                     | [[Bill of Rights]] was sacred $\to$ Passed the Virginia and Kentucky resolves.                                            |
 | Vision for the U.S. $\to$ Trace center, industry, and self-sufficient nation.              | Vision for the U.S. $\to$ agricultural society with little trade and industry.                                            |
-| Hamilton and Adams                                                                         | Jefferson and Madison                                                                                                                          |
-| ![[Alexander Hamilton Portrait.jpg]]  ![[John Adams Portrait.jpg]]                                                         | ![[Thomas Jefferson Portrait.jpg]] ![[James Madison Portrait.jpg]]                                                                                     |
+| Hamilton and Adams                                                                         | Jefferson and Madison                                                                                                     |
+| ![[Alexander Hamilton Portrait.jpg]]  ![[John Adams Portrait.jpg]]                         | ![[Thomas Jefferson Portrait.jpg]] ![[James Madison Portrait.jpg]]                                                        |

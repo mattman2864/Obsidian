@@ -1,3 +1,4 @@
+#Calculus #Math 
 The derivative is the slope of the tangent line of a function. It is a fundamental part of Calculus, and was first theorized by [[Pierre de Fermat]], though was more formally defined by [[Isaac Newton]] and [[Gottfried Leibniz]].
 
 >[!definition]

@@ -1,3 +1,4 @@
+#Statistics #Math
 The confidence interval gives a range of values that you think will contain the parameter.
 The confidence interval can be defined as:
 $CI $=$ [[Point Estimate]] $\pm$ margin of error$

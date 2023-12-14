@@ -1,1 +1,2 @@
+#WorldHistory #APEuro 
 The Dynastic cycle is a system where the historical leaders of a political body are related in a bloodline, called a dynasty. The end of a dynasty comes when the next leader is not related by blood or marriage to the previous leader. The dynastic cycle was commonplace in [[Europe]], East [[Asia]], and many other places.
