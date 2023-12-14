@@ -8,43 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f24c2c570b7d5bf6",
+            "id": "6ca9d8e49ea3d140",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Battle of Little Big Horn.md",
+                "file": "Andrew Carnagie.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d8c84022312edd8d",
+            "id": "f3f6b04f21f9bc54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "National Grange.md",
+                "file": "John D. Rockefeller.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6e13bed3a66e04c0",
+            "id": "60fb212ff47a26e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frederick Turner's Frontier Thesis.md",
+                "file": "JP Morgan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00d3dd6385ff1f60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Horizontal Integration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a388906c61cb9ed7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vertical Integration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frederick Turner's Frontier Thesis.md",
+                "file": "John D. Rockefeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frederick Turner's Frontier Thesis.md",
+                "file": "John D. Rockefeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frederick Turner's Frontier Thesis.md"
+                "file": "John D. Rockefeller.md"
               }
             }
           },
@@ -203,10 +227,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e13bed3a66e04c0",
+  "active": "f3f6b04f21f9bc54",
   "lastOpenFiles": [
-    "National Grange.md",
+    "JP Morgan.md",
+    "Vertical Integration.md",
+    "Horizontal Integration.md",
+    "John D. Rockefeller.md",
+    "Andrew Carnagie.md",
+    "Transcontinental Railroad.md",
+    "Newland's Reclamation Act.md",
     "Frederick Turner's Frontier Thesis.md",
+    "National Grange.md",
     "Battle of Little Big Horn.md",
     "Sand Creek Massacre.md",
     "Buffalo Soldiers.md",
@@ -225,13 +256,6 @@
     "Texas.md",
     "Popular Sovereignty.md",
     "Oregon Trail.md",
-    "Oregon Territory.md",
-    "John Tyler.md",
-    "James Polk.md",
-    "Irish Immigrants.md",
-    "German Immigrants.md",
-    "Fort Sumter.md",
-    "Civil War.md",
     "Pasted image 20231105233650.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233150.png",

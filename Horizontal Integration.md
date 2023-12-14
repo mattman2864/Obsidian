@@ -1,0 +1,1 @@
+Horzontal Integration is teh buying out of all competing businesses in the same industry.

@@ -1,0 +1,1 @@
+The Transcontinental Railroad connected the Western and Eastern coasts of the United States. It stimulated growth and settlement of the western frontier. The railroad companies sold the land around their railroads to settlers, which prompted further use of the railroads.

@@ -1,0 +1,1 @@
+He was an oil tycoon and one of the richest people in American History.
