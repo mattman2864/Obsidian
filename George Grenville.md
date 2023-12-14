@@ -1,2 +1,3 @@
+#APUSH 
 George Grenville was the [[British Prime Minister]] who passed the [[Currency Act|Currency]], [[Sugar Act|Sugar]], [[Quartering Act|Quartering]], and [[Stamp Act|Stamp]] Acts. He felt the colonists were being asked to pay only their fair share of debt from the [[French and Indian War]].
 ![George Grenville|300](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/George_Grenville_%281712%E2%80%931770%29_by_William_Hoare_%281707-1792%29.jpg/220px-George_Grenville_%281712%E2%80%931770%29_by_William_Hoare_%281707-1792%29.jpg)

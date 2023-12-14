@@ -1,1 +1,2 @@
+#APEuro 
 Florence is a city in Central [[Italy]] and was at the center of the Italian [[Renaissance]]. Florence was home to the likes of [[Michelangelo]], [[Galileo Galilei]], [[Niccolò Machiavelli]], the [[Medici Family]], and [[Leonardo da Vinci]], among many others.

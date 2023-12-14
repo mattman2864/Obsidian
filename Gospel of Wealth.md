@@ -1,1 +1,2 @@
+#APUSH 
 The gospel of wealth is the idea that people who reach high levels of wealth deserve it because it was given to them by God. It uses religion as a justification for the mass accumulation of wealth. The main advocate for this idea was [[Andrew Carnegie]]. It also believes that because of this wealth, rich people have a duty to reinvest and donate their money back into society through [[Philanthropy]].

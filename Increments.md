@@ -1,3 +1,4 @@
+#Math 
 If a particle moves from the point $(x_1,y_1)$ to the point $(x_2,y_2)$, the increments in its coordinates are
 $$\Delta x=x_2-x_1\quad\textrm{and}\quad\Delta y=y_2-y_1$$
 ## Example: Finding Increments
