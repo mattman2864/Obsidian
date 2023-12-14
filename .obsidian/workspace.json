@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ee5be82fda6ed62a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buffalo Soldiers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buffalo Soldiers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buffalo Soldiers.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -227,16 +239,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "19fd60a41e16003e",
+  "active": "ee5be82fda6ed62a",
   "lastOpenFiles": [
-    "Plains Indians.md",
     "Buffalo Soldiers.md",
+    "conflict-files-obsidian-git.md",
+    "Triangle.md",
+    "Minecraft/Things to Build in New Area.md",
+    "Minecraft",
+    "Plains Indians.md",
     "Carlisle School.md",
     "Dawes Severalty Act.md",
     "Homestead Act.md",
     "Rolle's Theorem.md",
     "Mean Value Theorem.md",
-    "conflict-files-obsidian-git.md",
     "Wilmot Proviso.md",
     "Treaty of Guadalupe Hidalgo.md",
     "Texas.md",
@@ -253,8 +268,6 @@
     "Acceleration.md",
     "Compromise of 1850.md",
     "Republic of Texas.md",
-    "Constant.md",
-    "United States.md",
     "Pasted image 20231105233650.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233150.png",

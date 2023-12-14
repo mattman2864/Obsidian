@@ -3,8 +3,9 @@
   "interfaceFontFamily": "Ubuntu",
   "accentColor": "",
   "baseFontSize": 17,
-  "cssTheme": "Material Ocean",
+  "cssTheme": "Catppuccin",
   "enabledCssSnippets": [
     "snippet"
-  ]
+  ],
+  "theme": "system"
 }
