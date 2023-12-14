@@ -8,31 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0639df4d117c6147",
+            "id": "54e22e108b9e89b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Republic of Texas.md",
+                "file": "Homestead Act.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bc6c9a9e6d314603",
+            "id": "b82ddf491fdbf3d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rolle's Theorem.md",
+                "file": "Dawes Severalty Act.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "798d67a62d6c17d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Carlisle School.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f24c2c570b7d5bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plains Indians.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "650300a4a280f1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buffalo Soldiers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -83,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.01103591918945
+    "width": 260.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -99,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rolle's Theorem.md",
+                "file": "Buffalo Soldiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rolle's Theorem.md",
+                "file": "Buffalo Soldiers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rolle's Theorem.md"
+                "file": "Buffalo Soldiers.md"
               }
             }
           },
@@ -190,10 +227,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bc6c9a9e6d314603",
+  "active": "19fd60a41e16003e",
   "lastOpenFiles": [
-    "Mean Value Theorem.md",
+    "Plains Indians.md",
+    "Buffalo Soldiers.md",
+    "Carlisle School.md",
+    "Dawes Severalty Act.md",
+    "Homestead Act.md",
     "Rolle's Theorem.md",
+    "Mean Value Theorem.md",
     "conflict-files-obsidian-git.md",
     "Wilmot Proviso.md",
     "Treaty of Guadalupe Hidalgo.md",
@@ -213,15 +255,10 @@
     "Republic of Texas.md",
     "Constant.md",
     "United States.md",
-    "Statistic.md",
     "Pasted image 20231105233650.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233106.png",
-    "Parametric Equations.md",
-    "One-to-One Function.md",
-    "Mexican-American War.md",
-    "Manifest Destiny.md",
     "centripetal-acceleration-diagram.jpg",
     "Net Force Diagram.svg",
     "Excalidraw/Vector.svg",
