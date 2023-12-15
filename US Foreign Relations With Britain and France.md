@@ -1,3 +1,4 @@
+#APUSH 
 - Early 1790s, war in Europe caused Americans to choose sides
 - Depending on what side, wither group seen as entering into treasonous correspondence with the enemy (GBR / FR)
 - Political parties born in this atmosphere

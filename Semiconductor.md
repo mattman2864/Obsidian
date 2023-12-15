@@ -1,1 +1,2 @@
+#Physics 
 Semiconductor materials fall between [[Insulator]]s and [[Conductor]]s. They usually act like insulators, but we can make them act like conductors under certain circumstances. The most well-known semiconductor is [[Silicon]] ([[Atomic Number]] 14). Our ability to finely control the insulating and conducting properties of silicon allows us to create modern marvels like computers and mobile phones. The atomic-level details of how semiconductor devices work are governed by the theories of [[Quantum Mechanics]].

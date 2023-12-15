@@ -1,3 +1,4 @@
+#APUSH 
 - Warned against all [[Early Political Parties|political factions]]
 - Sought to advance federalist cause in upcoming election
 	- Advent of **Hamiltonian Federalist**

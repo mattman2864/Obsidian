@@ -1,3 +1,4 @@
+#CS 
 A stack is a [[Data Structure]] where items are placed on top and removed from top (i.e. **LIFO**: Last In, First Out).
 ## Stack Operations
 `push`: add item to top of stack

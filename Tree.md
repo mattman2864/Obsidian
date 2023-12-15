@@ -1,3 +1,4 @@
+#CS 
 A tree is a hierarchical [[Data Structure]].
 ![[Pasted image 20230920130033.png]]
 ## Binary Tree

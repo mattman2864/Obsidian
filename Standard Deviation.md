@@ -1,3 +1,4 @@
+#Statistics #Math 
 The standard deviation is the average distance of all data points from the [[Mean]].
 $S_x$ = standard deviation
 $\sigma_x$ = population standard deviation

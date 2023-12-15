@@ -1,3 +1,4 @@
+#Statistics #Math 
 A statistical test is a formal procedure for comparing observed data with a hypothesis. The goal is to assess evidence provided by data about some claim concerning a [[Population]]. In a statistical test, the evidence is weighed against a claim. An outcome that would rarely happen if a claim were true is good evidence that the claim is not true.
 ## Hypothesis
 ### Null Hypothesis ($H_o$)

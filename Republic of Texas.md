@@ -1,3 +1,4 @@
+#APUSH 
 The Republic of Texas was a sovereign state in [[North America]] that existed from March 2, 1836 to February 19, 1846. It shared borders with [[Mexico]], the [[Republic of the Rio Grande]], and the [[United States]].
 # History
 [[Mexico]] won independence from [[Spain]] in 1821. At that time, Mexico's northern provinces included [[California]], [[New Mexico]], and [[Texas]].

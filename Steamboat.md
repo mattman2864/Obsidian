@@ -1,1 +1,2 @@
+#APUSH 
 Steamboats were boats that were powered by a steam engine. They became popular in the [[United States]] because they were faster and cheaper than the [[Flat Boat]]s which they replaced. They also allowed for two-way transportation up and down rivers.

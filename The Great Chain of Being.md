@@ -1,1 +1,2 @@
+#APEuro 
 The Great Chain of Being is a philosophical and religious concept derived from [[Plato]], [[Aristotle]], [[Plotinus]], and [[Proclus]]. It thought by medieval [[Christianity]] to have been decreed by God. In essence, it is the idea that Humans are unique in their ability to have free will.
