@@ -1,3 +1,4 @@
+#APEuro #WorldHistory 
 Monarchy is a form of government in which a person, the monarch, is head of state until death or abdication. The political legitimacy and authority of a monarch can range from restricted and largely symbolic to fully autocratic.
 
 The succession of monarchs in many cases has been hereditary, often building [[Dynastic Cycle|dynastic periods]]. [[Aristocrats]], though not inherent to monarchies, often serve as the pool of persons to draw the monarch from and fill the constituting institutions (e.g. [[Diet]] and [[Parliament]]), giving many monarchies [[Oligarchy|oligarchic]] elements.

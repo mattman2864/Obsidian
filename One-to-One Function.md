@@ -1,3 +1,4 @@
+#Math
 A function is a rule that assigns a single value in its range to each point in its domain. Some functions assign the same output to more than one input. For example, $f(x)=x^2$ assigns the output 4 to both 2 and -2. 
 
 ```functionplot

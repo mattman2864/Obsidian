@@ -1,3 +1,4 @@
+#APEuro 
 Petrarch is labeled as "the first [[Humanism|Humanist]]".
 - "[[Babylon]]ian captivity of the Church"
 - referred to [[Medieval Europe]] as "*The Dark Ages*"

@@ -1,3 +1,4 @@
+#APEuro 
 Niccolò Machiavelli was an Italian diplomat, author, philosopher and historian during the [[Renaissance]]. He is best known for his political treatise *[[The Prince]]*.
 
 | Name      | Niccolò Machiavelli                                     |     |     |

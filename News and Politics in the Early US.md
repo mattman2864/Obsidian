@@ -1,3 +1,4 @@
+#APUSH 
 - Ratification of [[Jay Treaty]] sparked intense political divisions.
 	- **Factions**: conspiracy to overthrow legitimate authority; threatened stability of US
 - Beneficial role of parties presenting alternative solutions to foreign and domestic problems

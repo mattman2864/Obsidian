@@ -1,3 +1,4 @@
+#Statistics #Math 
 One sample intervals are [[Confidence Interval]]s where there is only a single sample being estimated, whether it be a proportion or a mean.
 ## Estimating $\mu$
 ### One Sample $z$-interval for $\mu$

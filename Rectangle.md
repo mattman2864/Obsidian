@@ -1,1 +1,2 @@
+#Math 
 A rectangle is a [[Quadrilateral]] with four right angles and four [[Line]]s as edges. It can also be defined as a quadrilateral with all equal angles or a parallelogram with at least one right angle. A rectangle with equal sides is called a [[Square]].

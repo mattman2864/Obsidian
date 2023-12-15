@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mexican-American War.md",
+                "file": "Renaissance.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mexican-American War.md",
+                "file": "Renaissance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mexican-American War.md",
+                "file": "Renaissance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mexican-American War.md"
+                "file": "Renaissance.md"
               }
             }
           },
@@ -179,32 +179,33 @@
   },
   "active": "ec35ef85be6085db",
   "lastOpenFiles": [
-    "Methods.md",
-    "Mercantilism.md",
-    "Memory.md",
-    "Medieval Europe.md",
-    "Medici Family.md",
-    "Median.md",
-    "Mean Value Theorem.md",
-    "Mean.md",
-    "Massachusetts Circular Letter.md",
-    "Manifest Destiny.md",
-    "Loyalists.md",
-    "Louisiana Purchase.md",
-    "Linked List.md",
-    "Line.md",
-    "Lewis and Clark.md",
-    "Knights of Labor.md",
-    "Kingdom of Aragon.md",
-    "Kinetic Energy.md",
-    "Kinematics.md",
-    "Kinematic Equations.md",
-    "Kentucky and Virginia Resolutions.md",
-    "Judiciary Act of 1789.md",
-    "John Dickinson.md",
-    "JP Morgan.md",
-    "Join or Die Cartoon.md",
-    "John Tyler.md",
+    "Relational Database.md",
+    "Regression Analysis.md",
+    "Rectangle.md",
+    "Quotient Rule.md",
+    "Queue.md",
+    "Quebec Act.md",
+    "Quartering Act.md",
+    "Pullman Strike.md",
+    "Projectile.md",
+    "Product Rule.md",
+    "Proclamation of Neutrality.md",
+    "Proclamation of 1763.md",
+    "Power Rule.md",
+    "Power.md",
+    "Population Growth 1790-1810.md",
+    "Popular Sovereignty.md",
+    "Pontiacs Rebellion.md",
+    "Pointer.md",
+    "Point Estimator.md",
+    "Point Estimate.md",
+    "Plains Indians.md",
+    "Petrarch.md",
+    "Patrick Henry.md",
+    "Parametric Equations.md",
+    "Parameter.md",
+    "Ottoman Empire.md",
+    "Net Force Diagram.svg",
     "Greece Map.gif",
     "Benjamin Franklin Portrait.jpg",
     "1796 Election Results.png",
@@ -214,7 +215,6 @@
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233106.png",
     "centripetal-acceleration-diagram.jpg",
-    "Net Force Diagram.svg",
     "Excalidraw/Vector.svg",
     "Vector.svg.xml",
     "Untitled.canvas",
