@@ -11,8 +11,12 @@
             "id": "c1e24d0691de07e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Parabola.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Parabola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Parabola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Parabola.md"
+              }
             }
           },
           {
@@ -171,6 +179,17 @@
   },
   "active": "c1e24d0691de07e2",
   "lastOpenFiles": [
+    "Projectile.md",
+    "Parabola.md",
+    "Popular Sovereignty.md",
+    "Niccolò Machiavelli.md",
+    "John Marshall.md",
+    "Henry VIII.md",
+    "Knights of Labor.md",
+    "Monroe Doctrine.md",
+    "Battle of Little Big Horn.md",
+    "Massachusetts.md",
+    "Boston Tea Party.md",
     "Deng Xiaoping.md",
     "Minecraft/Things to Build in New Area.md",
     "Writs of Assistance.md",
@@ -186,17 +205,6 @@
     "Voltage.md",
     "Vertical Integration.md",
     "Velocity.md",
-    "Vector.md",
-    "Valois-Habsburg War.md",
-    "Valley Forge.md",
-    "US Foreign Relations With Britain and France.md",
-    "United States.md",
-    "Two-Tailed Proportions.md",
-    "Truth Table.md",
-    "Trust.md",
-    "Triangle.md",
-    "Tree.md",
-    "Treaty of Tordesillas.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
