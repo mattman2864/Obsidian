@@ -15,7 +15,7 @@
               "state": {
                 "file": "Minecraft/Things to Build in New Area.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -177,6 +177,8 @@
   },
   "active": "a12c66dfc48c5b63",
   "lastOpenFiles": [
+    "12th Amendment.md",
+    "Minecraft/Things to Build in New Area.md",
     "Articles of Confederation.md",
     "Astrolabe.md",
     "Algorithmic Complexity.md",
@@ -202,8 +204,6 @@
     "Declaration and Resolves.md",
     "Currency Act.md",
     "Albany Plan of Union.md",
-    "Alexander Hamilton.md",
-    "Triangle.md",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
     "Benjamin Franklin Portrait.jpg",
