@@ -1,3 +1,4 @@
+#Math
 Area is the measure of a region's size on a surface.
 ## Areas of Shapes
 ### [[Square]]

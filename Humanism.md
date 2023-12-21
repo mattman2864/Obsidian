@@ -1,3 +1,4 @@
+#APEuro 
 Humanism was an educational program during the Italian [[Renaissance]]. It included history, rhetoric, and philosophy.
 - Study of [[Classical Age]] languages and texts
 	- Classical [[Latin]] and [[Greek]]

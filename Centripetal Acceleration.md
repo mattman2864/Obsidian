@@ -1,3 +1,4 @@
+#Physics 
 In uniform [[Circle|circular]] motion, the direction of the [[velocity]] changes constantly, so there is always an associated [[Acceleration]], even though the speed might be constant.
 
 The figure below shows an object moving in a circular path at constant speed. The direction of the instantaneous velocity is shown at two points along the path. Acceleration is in the direction of the change in velocity, which points directly toward the center of rotation—the center of the circular path. This direction is shown with the [[vector]] diagram in the figure. We call the acceleration of an object moving in uniform circular motion—resulting from a net external force—the centripetal acceleration $a_c$; centripetal means “toward the center” or “center seeking”.

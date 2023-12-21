@@ -1,3 +1,4 @@
+#Statistics #Math 
 ## Conditions and Principles
 Conditions are the same as they were for [[Confidence Interval]]s
 - Normal, Random, Independent

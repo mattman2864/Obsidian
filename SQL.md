@@ -1,3 +1,4 @@
+#CS 
 SQL is a programming language for **Creating**, **Reading**, **Updating**, and **Deleting** Data. It is used to manage [[Relational Database]]s.
 
 SQL uses slightly different syntax for these operations:

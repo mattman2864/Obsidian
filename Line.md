@@ -1,3 +1,4 @@
+#Math 
 A line is defined as passing through two fixed points and having a [[Slope]] and a [[#$y$-Intercept|y-intercept]].
 ## Types of Lines
 ### Parallel Lines

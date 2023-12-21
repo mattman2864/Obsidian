@@ -1,1 +1,2 @@
+#Physics #Calculus
 Acceleration is the measure of the rate of change of velocity. It can also be described as the [[derivative]] of the [[velocity]] function, or the second derivative of the position function. In [[physics]], linear acceleration is most commonly measured in meters per second squared ($\displaystyle \text{m}/\text{s}^2$). Angular acceleration is measured most commonly in either degrees or radians per second squared ($\degree/\text{s}^2$ or $\text{rad}/\text{s}^2$).

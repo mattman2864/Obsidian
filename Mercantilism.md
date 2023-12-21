@@ -1,3 +1,4 @@
+#APEuro 
 Mercantilism is an economic system based on colonialism and imperialism, and revolves around gaining money from colonies, who send that money to their parent country. In practice, this was usually [[Europe]]an countries with colonies in the [[Americas]]. It was used mainly during the [[Age of Exploration]].
 
 # Creation

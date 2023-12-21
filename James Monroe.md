@@ -1,2 +1,3 @@
+#APUSH 
 James Monroe was the 5th [[President]] of the [[United States]]. He lacked intellect of past presidents, he avoided controversy to maintain national harmony, and he wanted to [[Monroe Doctrine|assert American power]] and influence on the world stage.
 ![James Monroe|300](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/220px-James_Monroe_White_House_portrait_1819.jpg)

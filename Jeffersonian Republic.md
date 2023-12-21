@@ -1,3 +1,4 @@
+#APUSH 
 Jeffersonian [[Republicanism]] is the ideology held by US President [[Thomas Jefferson]].
 - Self-Confident
 - Assertive

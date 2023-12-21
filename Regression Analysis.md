@@ -1,3 +1,4 @@
+#Statistics #Math 
 It can be difficult to see patterns or trends in lists of paired numbers. For this reason, we
 sometimes begin by plotting the pairs (such a plot is called a **scatter plot**) to see whether
 the corresponding points lie close to a curve of some kind. If they do, and if we can find an

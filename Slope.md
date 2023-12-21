@@ -1,3 +1,4 @@
+#Math 
 Each nonvertical [[Line]] has a *slope*, which we can calculate from [[Increments]] in coordinates.
 
 Let $L$ be a nonvertical line in the plane and $P_1(x_1,y_1)$ and $P_2(x_2,y_2)$ two points on $L$.

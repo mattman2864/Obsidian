@@ -1,1 +1,2 @@
+#APUSH 
 The Stamp Act was a law in 1765  that required all paper in the [[Thirteen Colonies]], from death and marriage certificates to newspapers, have a stamp affixed signifying that the required tax had been paid. It resulted in the creation of the [[Stamp Act Congress]].

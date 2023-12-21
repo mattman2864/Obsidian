@@ -1,3 +1,4 @@
+#APEuro
 The Age of Exploration was the period of time characterized by the rapid overseas exploration, especially but not exclusively in the New World.
 # Motives
 1. **Specie** (Bullion)

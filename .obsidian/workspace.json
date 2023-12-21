@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "9acb842ae0244429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft/Things to Build in New Area.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -175,10 +188,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a12c66dfc48c5b63",
+  "active": "9acb842ae0244429",
   "lastOpenFiles": [
-    "12th Amendment.md",
+    "conflict-files-obsidian-git.md",
     "Minecraft/Things to Build in New Area.md",
+    "Vertical Integration.md",
+    "Trust.md",
+    "Transcontinental Railroad.md",
+    "Plains Indians.md",
+    "Parabola.md",
+    "Newland's Reclamation Act.md",
+    "JP Morgan.md",
+    "Horizontal Integration.md",
+    "Homestead Act.md",
+    "Haymarket Riot.md",
+    "Gospel of Wealth.md",
+    "Carlisle School.md",
+    "Buffalo Soldiers.md",
+    "Battle of Little Big Horn.md",
+    "Andrew Carnegie.md",
+    "American Federation of Labor.md",
+    "12th Amendment.md",
     "Articles of Confederation.md",
     "Astrolabe.md",
     "Algorithmic Complexity.md",
@@ -186,24 +216,7 @@
     "New Monarch.md",
     "Tariff of 1816.md",
     "Circuit.md",
-    "Current.md",
-    "Charge.md",
-    "Force.md",
-    "Acceleration.md",
-    "Derivative.md",
-    "Velocity.md",
-    "Isaac Newton.md",
     "Electrical Symbols.png.png",
-    "Early Political Parties.md",
-    "Dynastic Cycle.md",
-    "Directed Graph.md",
-    "Difference Rule.md",
-    "Deng Xiaoping.md",
-    "Declaratory Act.md",
-    "Declaration of Independence.md",
-    "Declaration and Resolves.md",
-    "Currency Act.md",
-    "Albany Plan of Union.md",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
     "Benjamin Franklin Portrait.jpg",

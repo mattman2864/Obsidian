@@ -1,3 +1,4 @@
+#Math 
 Some rules for exponents are as follows:
 1. $a^x\cdot a^y=a^{x+y}$
 2. $\displaystyle\frac{a^x}{a^y}=a^{x-y}$

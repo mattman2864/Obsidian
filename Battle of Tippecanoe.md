@@ -1,1 +1,2 @@
+#APUSH
 The Battle of Tippecanoe was fought between American soldiers led by [[William Henry Harrison]] and Native American warriors along the banks of the [[Tippecanoe River]], in the heart of central [[Indiana]]. It took place in November 1811. [[Tecumseh]] organized a confederacy of Indian tribes to fight for their homelands. Tecumseh's brother fought against Harrison and was defeated at Tippecanoe. This made Harrison a national hero.

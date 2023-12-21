@@ -1,3 +1,4 @@
+#CS
 Hexadecimal is a number system with base 16. It most commonly uses letters to represent the decimal numbers 10-15, as shown:
 
 | Decimal Number | Hexadecimal Digit |

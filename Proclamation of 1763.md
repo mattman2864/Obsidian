@@ -1,1 +1,2 @@
+#APUSH 
 In reaction to [[Pontiac's Rebellion]], [[George III]] barred American colonists from settling west of the [[Appalachian Mountains]]. The [[Britain|British]] saw this as a quick and easy way to make peace while securing the fur trade. Colonists, however, were incensed by the crown's interference in their ability to settle land they had won in the [[French and Indian War]]. The colonists often ignored it. It was an important contributing factor to the [[American Revolution]].

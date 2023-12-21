@@ -1,3 +1,4 @@
+#WorldHistory
 Ancient Egypt was one of the first river-valley civilizations. Egyptian history includes three long periods of stability and achievement interspersed with shorter periods of political disorder. Egyptian society was organized in layers, but most people worked the land.
 ## Geography and Religion
 The [[Nile River]] played an important role in Egyptian civilization. Egyptians wrote of their reliance on the great river in "Hymn to the Nile," praising it as the "creator of all good" in its ability to bring them food and other riches. Like their religious beliefs, the Nile provided a sense of well-being and comfort to the Egyptians

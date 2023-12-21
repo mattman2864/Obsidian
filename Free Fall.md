@@ -1,1 +1,2 @@
+#Physics 
 Free fall is a special case of [[kinematics]] $-$ falling without air resistance. For all freely falling objects on [[Earth]], the [[Acceleration]] is approximately $9.8m/s^2$ downward. Even if air resistance is present, the motion can be approximated using free fall.

@@ -1,3 +1,4 @@
+#APEuro 
 New Monarch is a term used to describe the style of [[Monarchy]] that developed in the 15th and 16th centuries, and is credited as being the birth of the modern state. New Monarchs tended to increase royal authority and centralized their states.
 - **The State**
 	- Institutions of a government

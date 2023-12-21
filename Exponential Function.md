@@ -1,3 +1,4 @@
+#Math 
 An exponential function is a type of function which grows exponentially, rather than [[Line|linearly]] or [[Quadratic Function|quadratically]], etc. Exponential functions obey the [[exponent rules]].
 
 >[!Definition]
