@@ -11,12 +11,8 @@
             "id": "a12c66dfc48c5b63",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Minecraft/Things to Build in New Area.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +168,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "19fd60a41e16003e",
+  "active": "a12c66dfc48c5b63",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Function.md",
+    "Henry VIII.md",
     "Minecraft/Things to Build in New Area.md",
+    "conflict-files-obsidian-git.md",
     "Vertical Integration.md",
     "Trust.md",
     "Transcontinental Railroad.md",
@@ -200,8 +196,6 @@
     "Algorithmic Complexity.md",
     "Crusades.md",
     "New Monarch.md",
-    "Tariff of 1816.md",
-    "Circuit.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
