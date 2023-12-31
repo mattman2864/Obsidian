@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals 2024.md",
+                "file": "Gospel of Wealth.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goals 2024.md",
+                "file": "Gospel of Wealth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goals 2024.md",
+                "file": "Gospel of Wealth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goals 2024.md"
+                "file": "Gospel of Wealth.md"
               }
             }
           },
@@ -180,8 +180,8 @@
   },
   "active": "68ea6971653b6fa2",
   "lastOpenFiles": [
-    "American System.md",
     "Goals 2024.md",
+    "American System.md",
     "French and Indian War.md",
     "French Revolution.md",
     "Function.md",
