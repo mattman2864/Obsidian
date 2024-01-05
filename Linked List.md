@@ -1,3 +1,4 @@
+#CS 
 A linked list is a [[Data Structure]] consisting of a linear collection of items where each item points to the next element in memory. It is different from an [[Array]] because the values are not stored sequentially, and elements can be inserted and removed. Each [[Node]] contains a value and a pointer:
 ![[Pasted image 20230920110202.png]]
 The last element in a list points to `NULL` (`0x0` in memory). The head points to the first node.

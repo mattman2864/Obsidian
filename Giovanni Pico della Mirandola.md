@@ -1,3 +1,4 @@
+#APEuro 
 Giovanni Pico della Mirandola was an Italian [[Renaissance]] nobleman and philosopher. He is best known for his "900 Theses" and the *Oration on the Dignity of Man*, which has been referred to as the "Manifesto of the Renaissance"
 
 | Name      | Giovanni Pico della Mirandola                    |

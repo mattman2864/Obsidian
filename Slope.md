@@ -1,3 +1,4 @@
+#Math 
 Each nonvertical [[Line]] has a *slope*, which we can calculate from [[Increments]] in coordinates.
 
 Let $L$ be a nonvertical line in the plane and $P_1(x_1,y_1)$ and $P_2(x_2,y_2)$ two points on $L$.
@@ -14,9 +15,9 @@ Let $L$ be a nonvertical line in the plane and $P_1(x_1,y_1)$ and $P_2(x_2,y_2)$
 
 \draw[cyan, line width=2pt, line cap=round, dash pattern = on 8pt off 4pt] (0.75, -5/16) -- (5, 5) node[anchor=south east] {$L$};
 \draw[cyan, line width=2pt, line cap=round] (2, 5/4) -- (4, 15/4);
-\fill [fill=cyan, opacity=0.2] (2, 1.25) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt] {}
+\fill [fill=cyan, opacity=0.2] (2, 1.25) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt, label=left:{$P_1(x_1,y_1)$}] {}
 -- (4, 3.75) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt, label=left:{$P_2(x_2,y_2)$}] {}
--- (4, 1.25) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt] {};
+-- (4, 1.25) node[circle, fill=cyan, opacity = 1, inner sep = 2pt, minimum size=1pt, label=right:{$Q(x_2,y_1)$}] {};
 
 \end{tikzpicture}
 \end{document}
@@ -29,4 +30,3 @@ A [[Line]] that goes uphill as $x$ increases has a positive slope. A line that g
 Let $P_!(x_1, y_1)$ and $P_2(x_2,y_2)$ be points on a nonvertical line, $L$. The **slope** of $L$ is
 $$m=\frac{rise}{run}=\frac{\Delta y}{\Delta x}=\frac{y_2-y_1}{x_2-x_1}$$
 
-hello

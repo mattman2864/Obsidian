@@ -1,3 +1,4 @@
+#APUSH 
 President Washington's unpopular response to [[British Action Toward Neutrality|Britain attacking U.S. ports and ships in the Atlantic]].
 - last ditch effort to preserve peace
 - Sent [[John Jay]] to negotiate the list of grievances

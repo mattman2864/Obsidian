@@ -1,3 +1,4 @@
+#Physics 
 Assuming [[Acceleration]] is constant, [[kinematics]] can be described in these three equations:
 $$d=v_it+\frac{at^2}{2}$$
 $$v_f^2=v_i^2+2ad$$

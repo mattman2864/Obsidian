@@ -1,1 +1,2 @@
+#APUSH 
 Washington issued the Proclamation of Neutrality to set the precedent of staying uninvolved in European wars and affairs because the US at the time was very weak and unable to support a war effort. The [[British Action Toward Neutrality |British responded]] by blocking ports and capturing American ships. Washington responded to the British with the unpopular [[Jay Treaty]].

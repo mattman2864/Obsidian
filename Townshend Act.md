@@ -1,1 +1,2 @@
+#APUSH 
 The Townshend Act was a revenue plan passed by [[British Parliament]] in 1767. It imposed harsher taxes on the purveyors of imported goods such as glass, paper, and tea. In addition, a special board of customs officials was appointed to enforce [[Writs of Assistance]]. It was repealed in 1770.

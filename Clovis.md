@@ -1,1 +1,2 @@
+#WorldHistory 
 Clovis was the first king of the [[Franks]] to unite all of the Frankish tribes under one ruler, changing the form of leadership from a group of petty kings to a rule by a single king and ensuring that the kingship was passed down to his heirs. He is considered to be the founder of the [[Merovingian Dynasty]], which ruled the Frankish kingdom for the next two centuries. Clovis is important in the historiography of [[France]] as "the first king of what would become France".

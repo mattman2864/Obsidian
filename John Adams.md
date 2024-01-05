@@ -1,3 +1,4 @@
+#APUSH 
 - Separate of High Federalists
 	- Washington appointed cabinet
 - [[Thomas Jefferson]] as VP

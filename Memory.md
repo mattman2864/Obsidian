@@ -1,3 +1,4 @@
+#CS 
 Memory, or **RAM**, is the part of computer that holds short-term data used for currently active programs on the computer.
 ## Memory Addresses
 Memory addresses are represented by a [[Hexadecimal]] value with an `0x` in from of it. For example, the address for the byte at position `35` in decimal would be `0x23`.

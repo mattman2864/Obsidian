@@ -1,3 +1,4 @@
+#APEuro 
 The Military Revolution was a movement of states under [[New Monarch]] which included state armies.
 - Rebirth of [[Infantry]]
 - [[Gunpowder]]

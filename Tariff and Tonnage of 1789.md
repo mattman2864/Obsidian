@@ -1,3 +1,4 @@
+#APUSH 
 - Sponsored by [[James Madison]] and Signed off by [[George Washington]]
 - 5% tax on imports
 - Generated considerable revenue

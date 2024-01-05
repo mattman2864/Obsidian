@@ -1,3 +1,4 @@
+#Calculus 
 The chain rule says:
 $\frac{d}{dx}[f(g(x))]=f'(g(x))g'(x)$
 it tells us how to [[Derivative|differentiate]] [[Composite Functions]].

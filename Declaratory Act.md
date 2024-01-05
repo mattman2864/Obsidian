@@ -1,1 +1,2 @@
+#APUSH 
 The Declaratory Act replaced the [[Stamp Act]], and maintained the right of the crown to tax the colonies. This is because the [[British Parliament]]'s authority was identical in both [[Britain]] and North America.

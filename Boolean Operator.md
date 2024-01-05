@@ -1,3 +1,4 @@
+#CS
 Boolean operators take one or multiple boolean values as input and return a single boolean value as output. They can be fully defined by their [[Truth Table|truth table]]. Boolean operators are used in [[Boolean Algebra|boolean algebra]] and
 # AND    
 Returns true if both inputs are true

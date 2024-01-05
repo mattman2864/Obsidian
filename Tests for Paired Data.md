@@ -1,3 +1,4 @@
+#Statistics #Math 
 **Paired Data**: two observations (like matched pairs)
 One sample t-test  for paired data: compare data by analyzing mean difference $\mu_d$
 - Take difference within each pair to produce a single sample first

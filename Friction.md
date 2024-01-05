@@ -1,1 +1,2 @@
+#Physics 
 Friction is the [[Force]] that resists two objects sliding across each other. This is due to imperfections in two surfaces, and parts of the surfaces bending, breaking, or bonding with each other.

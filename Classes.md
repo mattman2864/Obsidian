@@ -1,3 +1,4 @@
+#CS
 Classes are formal implementations of objects, similar to a blueprint or template. Classes are used to create objects. To create an object, you must first instantiate the object with a data type (class), and then initialize it.
 # Parts of a Class
 There are 3 main parts to any class:

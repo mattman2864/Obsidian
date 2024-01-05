@@ -1,1 +1,2 @@
+#Physics 
 Energy is a measurement of the ability of something to do [[work]]. Energy can be stored and measured in many forms. The standard unit used to measure energy and work done in [[physics]] is the **joule**, which has the symbol $\text{J}$. In mechanics, 1 joule is the energy transferred when a force of 1 Newton is applied to an object and it moves it through a distance of 1 meter. Another unit of energy is the **Calorie**. One Calorie is the amount of energy required to raise 1kg of water by 1$\degree$ Celsius.

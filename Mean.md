@@ -1,3 +1,4 @@
+#Statistics #Math 
 The mean is the most common statistical measure of the [[Center]].
 $\bar{x}$: sample mean
 $\mu$: population mean

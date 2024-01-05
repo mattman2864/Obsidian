@@ -1,1 +1,2 @@
+#Statistics #Math 
 The Central Limit Theorem states that the distribution of sample means approximates a [[Normal Distribution]] as the sample size gets larger, regardless of the [[Population]]'s distribution. Sample sizes equal to or greater than 30 are often considered sufficient for the CLT to hold.

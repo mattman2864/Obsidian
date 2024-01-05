@@ -1,3 +1,4 @@
+#CS #Math 
 Graphs are a [[Data Structure]] where nodes are connected in a web of [[Line]]s called edges. There are two types of graphs: [[Undirected Graph]]s and [[Directed Graph]]s. Undirected graphs have no specific direction, while directed graphs have a specific direction for each edge. The mathematical study of graphs is called [[Graph Theory]].
 ## Terminology
 - [[Path]]: from $a$ to $b$ on [[Directed Graph]]s

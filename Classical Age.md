@@ -1,3 +1,4 @@
+#APEuro #WorldHistory 
 The Classical Age is the period of cultural history between 8th century BCE and 7th century CE centered on the [[Mediterranean Sea]], comprising the interlocking civilizations of ancient [[Greece]] and ancient [[Rome]] known as the Greco-Roman world. It is the period in which both Greek and Roman scientists flourished and wielded huge influence throughout much of [[Europe]], North [[Africa]], and West [[Asia]].
 
 Surviving fragments of classical culture led to a revival beginning in the 14th century which later came to be known as the [[Renaissance]], and various [[Neoclassicism|neo-classical]] revivals occurred in the 18th and 19th centuries.

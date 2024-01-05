@@ -1,3 +1,4 @@
+#Physics 
 Power is defined as the rate [[Energy]] ($U$) is transformed over time. We measure power in units of joules/second, also known as *watts*.
 
 ($1\;watt=1\;joule/second)$

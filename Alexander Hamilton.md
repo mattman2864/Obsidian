@@ -1,3 +1,4 @@
+#APUSH
 Head of national treasury under Washington, Federalist.
 - Cautioned excess democracy
 - Didn't trust common  folk

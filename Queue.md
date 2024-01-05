@@ -1,3 +1,4 @@
+#CS 
 A queue is a [[Data Structure]] following the principle of **FIFO** (First In, First Out).
 ## Queue Operations
 `isEmpty`: returns true if empty

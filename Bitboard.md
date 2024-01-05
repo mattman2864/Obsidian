@@ -1,3 +1,4 @@
+#CS
 A bitboard is a representation of a chessboard using multiple 64-[[Bit]] numbers. it the fastest way to represent chessboards and the most commonly used among the most popular engines.
 # 64-bit Number
 Here is an example of what a 64-bit number looks like:
