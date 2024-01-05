@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slope.md",
-                "mode": "preview",
+                "file": "Game Ideas.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slope.md",
+                "file": "Game Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slope.md",
+                "file": "Game Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slope.md"
+                "file": "Game Ideas.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "01117839bf763d33",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Acceleration.md",
+    "Game Ideas.md",
     "Slope.md",
+    "conflict-files-obsidian-git.md",
     "Minecraft/Things to Build in New Area.md",
     "Minecraft",
     "Parametric Equations.md",
@@ -198,13 +200,11 @@
     "Fort Sumter.md",
     "Civil War.md",
     "American Railroads.md",
-    "Acceleration.md",
     "Petrarch.md",
     "National Road.md",
     "US Foreign Relations With Britain and France.md",
     "Ancient Egypt.md",
     "Compromise of 1850.md",
-    "Battle of Fallen Timbers.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
