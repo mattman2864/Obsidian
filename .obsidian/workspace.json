@@ -28,9 +28,21 @@
                 "currentVersion": "1.5.3"
               }
             }
+          },
+          {
+            "id": "4775e7a40bd86054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parabola.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parabola.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parabola.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -190,8 +202,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4ea204264107f83",
+  "active": "4775e7a40bd86054",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Goals 2024.md",
+    "Game Planning.md",
+    "Game Ideas.md",
     "Projectile.md",
     "Parabola.md",
     "Popular Sovereignty.md",
@@ -214,10 +230,6 @@
     "Washington_s Farewell Address.md",
     "War of 1812.md",
     "War Hawks.md",
-    "Waltham-Lowell System.md",
-    "Voltage.md",
-    "Vertical Integration.md",
-    "Velocity.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",

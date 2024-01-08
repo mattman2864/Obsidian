@@ -1,0 +1,8 @@
+- [ ] Create web game
+- [ ] 36,600 push ups
+	- 0 so far
+- [ ] 36,600 sit ups
+	- 0 so far
+- [ ] read a book
+- [ ] get a job
+- [ ] 4.5+ GPA
