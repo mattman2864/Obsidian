@@ -1,0 +1,2 @@
+#APUSH 
+The Great Plains is a large region in the continental [[United States]] which consists of a vast high plateau of semi-arid grassland. This allows for a lot of farming, and the Great Plains is the largest agricultural region in the United States.

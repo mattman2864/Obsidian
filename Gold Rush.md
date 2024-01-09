@@ -1,0 +1,2 @@
+#APUSH
+The Gold Rush was an event in which a large amount of gold was found on the West Coast of the [[United States]], causing a mass migration and travel to western states, most notably [[California]]. This dramatically impacted California's landscape and population. The Gold Rush was characterized by violent clashes amongst settlers, miners, and [[Native Americans]] over access to the land and its natural resources.
