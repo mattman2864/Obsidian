@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parabola.md",
+                "file": "Jim Crow.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "c4ea204264107f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reservation System.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reservation System.md",
+                "file": "Jim Crow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reservation System.md",
+                "file": "Jim Crow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reservation System.md"
+                "file": "Jim Crow.md"
               }
             }
           },
@@ -192,10 +179,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4ea204264107f83",
+  "active": "c1e24d0691de07e2",
   "lastOpenFiles": [
-    "National Grange.md",
+    "Plessy v Ferguson.md",
+    "Jim Crow.md",
+    "Sharecropping.md",
+    "Parabola.md",
+    "Industrial Revolution.md",
+    "Conservation Movement.md",
+    "Dawes Severalty Act.md",
+    "Indian Wars.md",
     "Reservation System.md",
+    "National Grange.md",
     "Homestead Act.md",
     "Cattle Farming.md",
     "Great Plains.md",
@@ -206,20 +201,12 @@
     "Game Planning.md",
     "Game Ideas.md",
     "Projectile.md",
-    "Parabola.md",
     "Popular Sovereignty.md",
     "Niccolò Machiavelli.md",
     "John Marshall.md",
     "Henry VIII.md",
     "Knights of Labor.md",
     "Monroe Doctrine.md",
-    "Battle of Little Big Horn.md",
-    "Massachusetts.md",
-    "Boston Tea Party.md",
-    "Deng Xiaoping.md",
-    "Minecraft/Things to Build in New Area.md",
-    "Writs of Assistance.md",
-    "Work.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",

@@ -1,2 +1,2 @@
 #APUSH 
-The reservation system is the system where Native Americans were forced to live on pre-
+The reservation system is the system where Native Americans were forced to live on pre-determined reservations in order to give them a space to exist, while still separating them from the rest of society. This greatly harmed the already desperate existence of Native Americans, as almost all of them live in poverty.
