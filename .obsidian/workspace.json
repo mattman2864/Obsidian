@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jim Crow.md",
+                "file": "Sharecropping.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.01103591918945
+    "width": 260.01103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jim Crow.md",
+                "file": "Sharecropping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jim Crow.md",
+                "file": "Sharecropping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jim Crow.md"
+                "file": "Sharecropping.md"
               }
             }
           },
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,8 +183,11 @@
   },
   "active": "c1e24d0691de07e2",
   "lastOpenFiles": [
+    "Henry VII.md",
+    "WEB DuBois.md",
+    "Booker T Washington.md",
+    "Jim Crow Laws.md",
     "Plessy v Ferguson.md",
-    "Jim Crow.md",
     "Sharecropping.md",
     "Parabola.md",
     "Industrial Revolution.md",
@@ -204,9 +209,6 @@
     "Popular Sovereignty.md",
     "Niccolò Machiavelli.md",
     "John Marshall.md",
-    "Henry VIII.md",
-    "Knights of Labor.md",
-    "Monroe Doctrine.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
