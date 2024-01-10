@@ -1,1 +1,2 @@
+#APUSH
 Jim Crow Laws were laws which promoted racial segregation and discrimination against [[African American]]s from the period of the end of [[Reconstruction]] in 1877 until the [[Civil Rights Movement]] in the 1960s.

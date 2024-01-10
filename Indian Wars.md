@@ -1,1 +1,2 @@
+#APUSH
 The Indian Wars were a series of conflicts between the [[Native Americans]] and the white settlers, largely in the [[Great Plains]] region. This created disdain between both sides for the other, and thousands of massacres natives.
