@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fc74f8446bf38e68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Townshend Act.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Townshend Act.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Townshend Act.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -178,8 +191,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3acace2d89f5639a",
+  "active": "fc74f8446bf38e68",
   "lastOpenFiles": [
+    "Townshend Act.md",
+    "conflict-files-obsidian-git.md",
+    "WEB DuBois.md",
+    "Sharecropping.md",
+    "Reservation System.md",
+    "Plessy v Ferguson.md",
+    "Jim Crow Laws.md",
+    "Indian Wars.md",
+    "Great Plains.md",
+    "Gold Rush.md",
+    "Game Ideas.md",
+    "Conservation Movement.md",
+    "Cattle Farming.md",
+    "Booker T Washington.md",
     "Trade Winds.md",
     "Transcontinental Railroad.md",
     "Treaty of Ghent.md",
@@ -192,20 +219,6 @@
     "Friction.md",
     "Frederick Turner's Frontier Thesis.md",
     "Instantiation.md",
-    "Line.md",
-    "Linked List.md",
-    "Slope.md",
-    "Goals 2024.md",
-    "American System.md",
-    "French and Indian War.md",
-    "French Revolution.md",
-    "Function.md",
-    "Henry VIII.md",
-    "Minecraft/Things to Build in New Area.md",
-    "conflict-files-obsidian-git.md",
-    "Vertical Integration.md",
-    "Trust.md",
-    "Plains Indians.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",

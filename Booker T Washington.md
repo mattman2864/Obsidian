@@ -1,0 +1,2 @@
+#APUSH
+Booker T Washington was an [[African American]] educator and author. He was a representative of the few black elites in the period following reconstruction. He served as an example of African Americans being successful in apartheid [[United States]].

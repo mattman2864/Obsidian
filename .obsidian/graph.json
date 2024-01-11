@@ -29,13 +29,6 @@
       }
     },
     {
-      "query": "tag:#Math  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
       "query": "tag:#Statistics  ",
       "color": {
         "a": 1,
@@ -76,6 +69,13 @@
         "a": 1,
         "rgb": 28415
       }
+    },
+    {
+      "query": "Math",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +88,6 @@
   "repelStrength": 14.0625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12763555502116192,
+  "scale": 0.11133077470526459,
   "close": false
 }
