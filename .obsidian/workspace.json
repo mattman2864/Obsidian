@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Planning.md",
+                "file": "U-Substitution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Planning.md",
+                "file": "U-Substitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Planning.md",
+                "file": "U-Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Game Planning.md"
+                "file": "U-Substitution.md"
               }
             }
           },
@@ -174,11 +174,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d1227e19e1dfaf07",
   "lastOpenFiles": [
+    "Game Planning.md",
+    "U-Substitution.md",
     "Townshend Act.md",
     "conflict-files-obsidian-git.md",
     "WEB DuBois.md",
@@ -198,13 +201,11 @@
     "Treaty of Ghent.md",
     "Treaty of Guadalupe Hidalgo.md",
     "Treaty of Paris.md",
-    "Game Planning.md",
     "Product Rule.md",
     "Gospel of Wealth.md",
     "Galley Warfare.md",
     "Friction.md",
     "Frederick Turner's Frontier Thesis.md",
-    "Instantiation.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
