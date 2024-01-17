@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "U-Substitution.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "congress",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,10 @@
   },
   "active": "d1227e19e1dfaf07",
   "lastOpenFiles": [
-    "Game Planning.md",
+    "Acceleration.md",
+    "Albany Plan of Union.md",
     "U-Substitution.md",
+    "Game Planning.md",
     "Townshend Act.md",
     "conflict-files-obsidian-git.md",
     "WEB DuBois.md",
@@ -204,8 +207,6 @@
     "Product Rule.md",
     "Gospel of Wealth.md",
     "Galley Warfare.md",
-    "Friction.md",
-    "Frederick Turner's Frontier Thesis.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
