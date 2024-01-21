@@ -1,27 +1,27 @@
 # Early Game
-- [ ] Basic Iron Armor + Tools
-- [ ] A good wood supply
-- [ ] Base/house with decent storage
-- [ ] Farms (wheat, cow, sugar cane)
-- [ ] A few diamonds
+- [x] Basic Iron Armor + Tools
+- [x] A good wood supply
+- [x] Base/house with decent storage
+- [x] Farms (wheat, cow, sugar cane)
+- [x] A few diamonds
 # Basic Progression
-- [ ] Nether Portal
-- [ ] Blaze Rods
-- [ ] Ender Pearls
+- [x] Nether Portal
+- [x] Blaze Rods
+- [x] Ender Pearls
 - [ ] Enchanting Table
-- [ ] Potions
+- [x] Potions
 # More Progression
-- [ ] Get some fireworks
-- [ ] Beat Ender Dragon
-- [ ] Get Elytra
-- [ ] Get Shulker Shells
-- [ ] Nether Roof System
+- [x] Get some fireworks
+- [x] Beat Ender Dragon
+- [x] Get Elytra
+- [x] Get Shulker Shells
+- [x] Nether Roof System
 # Beginning Automation
-- [ ] Villager breeder
-- [ ] Villager Trading Hall for Enchanted Books
-- [ ] Iron Farm
+- [x] Villager breeder
+- [x] Villager Trading Hall for Enchanted Books
+- [x] Iron Farm
 - [ ] Enderman XP farm
-- [ ] Large Strip Mine w. Fortune III
+- [x] Large Strip Mine w. Fortune III
 # Expanding Automation
 - [ ] General Mob Farm
 - [ ] Auto Sugar Cane Farm
