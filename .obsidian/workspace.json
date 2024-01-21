@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U-Substitution.md",
-                "mode": "preview",
+                "file": "Minecraft Survival Progression.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "U-Substitution.md",
+                "file": "Minecraft Survival Progression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "U-Substitution.md",
+                "file": "Minecraft Survival Progression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "U-Substitution.md"
+                "file": "Minecraft Survival Progression.md"
               }
             }
           },
@@ -181,9 +181,10 @@
   },
   "active": "d1227e19e1dfaf07",
   "lastOpenFiles": [
+    "U-Substitution.md",
+    "Minecraft Survival Progression.md",
     "Acceleration.md",
     "Albany Plan of Union.md",
-    "U-Substitution.md",
     "Game Planning.md",
     "Townshend Act.md",
     "conflict-files-obsidian-git.md",
@@ -206,7 +207,6 @@
     "Treaty of Paris.md",
     "Product Rule.md",
     "Gospel of Wealth.md",
-    "Galley Warfare.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
