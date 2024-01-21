@@ -28,7 +28,9 @@
 - [ ] Gold Farm
 - [ ] Guardian Farm
 - [ ] Raid Farm
+- [ ] Wither Skeleton Farm
+- [ ] Mega Beacon
 # Late Game
-- [ ] Start Large Base
+- [ ] Large Base
 - [ ] Super Storage
-- [ ] 
+- [ ] More Mega Beacons
