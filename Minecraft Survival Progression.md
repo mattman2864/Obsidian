@@ -26,11 +26,12 @@
 - [ ] General Mob Farm
 - [ ] Auto Sugar Cane Farm
 - [ ] Gold Farm
-- [ ] Guardian Farm
 - [ ] Raid Farm
 - [ ] Wither Skeleton Farm
 - [ ] Mega Beacon
-# Late Game
-- [ ] Large Base
-- [ ] Super Storage
-- [ ] More Mega Beacons
+# Late Game Builds
+- [ ] End Portal Base
+	- [ ] Super Storage
+	- [ ] More Mega Beacons
+	- [ ] Buildings surrounding hole
+- [ ] Guardian Farm
