@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Britain.md",
+                "file": "Alaska.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Britain.md",
+                "file": "Alaska.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Britain.md",
+                "file": "Alaska.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Britain.md"
+                "file": "Alaska.md"
               }
             }
           },
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +182,8 @@
   },
   "active": "c1e24d0691de07e2",
   "lastOpenFiles": [
+    "Britain.md",
+    "Alaska.md",
     "United States.md",
     "Rolle's Theorem.md",
     "Transcontinental Railroad.md",
@@ -207,8 +208,6 @@
     "Gold Rush.md",
     "Aaron Burr.md",
     "conflict-files-obsidian-git.md",
-    "Goals 2024.md",
-    "Game Planning.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
