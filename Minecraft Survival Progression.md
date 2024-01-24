@@ -8,7 +8,7 @@
 - [x] Nether Portal
 - [x] Blaze Rods
 - [x] Ender Pearls
-- [ ] Enchanting Table
+- [x] Enchanting Table
 - [x] Potions
 # More Progression
 - [x] Get some fireworks
