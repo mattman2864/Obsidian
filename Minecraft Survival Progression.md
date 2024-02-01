@@ -8,7 +8,7 @@
 - [x] Nether Portal
 - [x] Blaze Rods
 - [x] Ender Pearls
-- [ ] Enchanting Table
+- [x] Enchanting Table
 - [x] Potions
 # More Progression
 - [x] Get some fireworks
@@ -20,10 +20,10 @@
 - [x] Villager breeder
 - [x] Villager Trading Hall for Enchanted Books
 - [x] Iron Farm
-- [ ] Enderman XP farm
+- [x] Enderman XP farm
 - [x] Large Strip Mine w. Fortune III
 # Expanding Automation
-- [ ] General Mob Farm
+- [x] General Mob Farm
 - [ ] Auto Sugar Cane Farm
 - [ ] Gold Farm
 - [ ] Raid Farm
