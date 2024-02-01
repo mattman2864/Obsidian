@@ -1,0 +1,2 @@
+#APUSH 
+The Railroad Strike of 1877 was an organized strike across multiple states of railroad [[Working Class|workers]] who were protesting wage cuts. It was the first strike across multiple states in [[United States]] history.
