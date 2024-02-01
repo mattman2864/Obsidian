@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e3f58ac1229c2a13",
+        "id": "6adf5618cca57b56",
         "type": "tabs",
         "children": [
           {
-            "id": "eafbeab7f64ff5b6",
+            "id": "7be853824efaac32",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "staged": true
+                "file": "John D. Rockefeller.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "John D. Rockefeller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "John D. Rockefeller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "John D. Rockefeller.md"
+              }
             }
           },
           {
@@ -174,8 +179,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ffebbe939d5b7618",
+  "active": "7be853824efaac32",
   "lastOpenFiles": [
+    "Cornelius Vanderbilt.md",
+    "Andrew Carnegie.md",
+    "JP Morgan.md",
+    "American Railroads.md",
+    "Gilded Age.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Alaska.md",
@@ -197,11 +207,6 @@
     "Parabola.md",
     "Industrial Revolution.md",
     "Conservation Movement.md",
-    "Dawes Severalty Act.md",
-    "Reservation System.md",
-    "National Grange.md",
-    "Homestead Act.md",
-    "Cattle Farming.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
