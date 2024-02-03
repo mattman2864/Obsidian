@@ -1,0 +1,2 @@
+#APUSH
+Social Darwinism is the adoption of [[Charles Darwin]]'s scientific theory on evolution and natural selection for the social environment. It was used to justify amassing extreme wealth in the [[Gilded Age]] and imperialism in the late 18th century.
