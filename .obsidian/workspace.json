@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Alaska.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Alaska.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Alaska.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Survival Progression.md"
+                "file": "Alaska.md"
               }
             }
           },
@@ -181,6 +180,13 @@
   },
   "active": "d1227e19e1dfaf07",
   "lastOpenFiles": [
+    "Age of Exploration.md",
+    "Acceleration.md",
+    "Aaron Burr.md",
+    "Ancient Egypt.md",
+    "Classes.md",
+    "C.md",
+    "Minecraft Survival Progression.md",
     "Social Darwinism.md",
     "Railroad Strike of 1877.md",
     "Laissez-Faire.md",
@@ -188,8 +194,6 @@
     "Cornelius Vanderbilt.md",
     "Alaska.md",
     "U-Substitution.md",
-    "Minecraft Survival Progression.md",
-    "Acceleration.md",
     "Albany Plan of Union.md",
     "Game Planning.md",
     "Townshend Act.md",
@@ -202,11 +206,6 @@
     "Indian Wars.md",
     "Great Plains.md",
     "Gold Rush.md",
-    "Game Ideas.md",
-    "Conservation Movement.md",
-    "Cattle Farming.md",
-    "Booker T Washington.md",
-    "Trade Winds.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
