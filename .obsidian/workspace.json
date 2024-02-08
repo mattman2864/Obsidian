@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gilded Age.md",
+                "file": "Central Powers.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gilded Age.md",
+                "file": "Central Powers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gilded Age.md",
+                "file": "Central Powers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gilded Age.md"
+                "file": "Central Powers.md"
               }
             }
           },
@@ -182,6 +182,10 @@
   },
   "active": "0546693c9301ec9f",
   "lastOpenFiles": [
+    "Allied Powers (WWI).md",
+    "Central Powers.md",
+    "US Neutrality in WWI.md",
+    "Gilded Age.md",
     "Parabola.md",
     "Parametric Equations.md",
     "Clovis.md",
@@ -196,7 +200,6 @@
     "Andrew Carnegie.md",
     "JP Morgan.md",
     "American Railroads.md",
-    "Gilded Age.md",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Alaska.md",
@@ -205,9 +208,6 @@
     "United States.md",
     "Rolle's Theorem.md",
     "Transcontinental Railroad.md",
-    "Regression Analysis.md",
-    "Inverse Functions.md",
-    "Indian Wars.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
