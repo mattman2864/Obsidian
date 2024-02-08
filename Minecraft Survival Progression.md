@@ -24,7 +24,6 @@
 - [x] Large Strip Mine w. Fortune III
 # Expanding Automation
 - [x] General Mob Farm
-- [ ] Auto Sugar Cane Farm
 - [ ] Gold Farm
 - [ ] Raid Farm
 - [ ] Wither Skeleton Farm

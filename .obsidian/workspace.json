@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Powers.md",
+                "file": "Lusitania.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Central Powers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Central Powers.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Central Powers.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,10 +180,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0546693c9301ec9f",
+  "active": "19fd60a41e16003e",
   "lastOpenFiles": [
-    "Allied Powers (WWI).md",
+    "Lusitania.md",
+    "conflict-files-obsidian-git.md",
     "Central Powers.md",
+    "Allied Powers (WWI).md",
     "US Neutrality in WWI.md",
     "Gilded Age.md",
     "Parabola.md",
@@ -200,14 +202,12 @@
     "Andrew Carnegie.md",
     "JP Morgan.md",
     "American Railroads.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.md",
     "Alaska.md",
     "U-Substitution.md",
     "Minecraft Survival Progression.md",
     "United States.md",
     "Rolle's Theorem.md",
-    "Transcontinental Railroad.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
