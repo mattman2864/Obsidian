@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c130f915d2eb4c2",
+        "id": "f66ef0302a923b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "d1227e19e1dfaf07",
+            "id": "b159556a1884c1c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Patrick Henry.md",
+                "file": "Y-Intercept.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Patrick Henry.md",
+                "file": "Y-Intercept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Patrick Henry.md",
+                "file": "Y-Intercept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Patrick Henry.md"
+                "file": "Y-Intercept.md"
               }
             }
           },
@@ -178,10 +178,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d1227e19e1dfaf07",
+  "active": "b159556a1884c1c0",
   "lastOpenFiles": [
-    "Petrarch.md",
+    "Line.md",
+    "Y-Intercept.md",
+    "Slope.md",
+    "Regression Analysis.md",
     "Patrick Henry.md",
+    "Petrarch.md",
     "Net Force.md",
     "Linked List.md",
     "James Monroe.md",
@@ -202,10 +206,6 @@
     "Railroad Strike of 1877.md",
     "Laissez-Faire.md",
     "Gilded Age.md",
-    "Cornelius Vanderbilt.md",
-    "U-Substitution.md",
-    "Game Planning.md",
-    "Townshend Act.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",

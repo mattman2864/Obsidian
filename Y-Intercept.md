@@ -1,0 +1,1 @@
+A Y-Intercept of a function or graph is a point where the 
