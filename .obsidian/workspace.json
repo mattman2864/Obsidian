@@ -11,12 +11,8 @@
             "id": "b159556a1884c1c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Military Revolution.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Military Revolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,7 +103,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792599,
+                  "scale": 0.6316046762907493,
                   "close": true
                 }
               }
@@ -136,6 +131,14 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
+    "Britain.md",
+    "Constitutional Monarchy.md",
+    "Monarchy.md",
+    "Dynastic Cycle.md",
+    "Holy Roman Empire.md",
+    "New Monarch.md",
+    "Military Revolution.md",
+    "Infantry.md",
     "Minecraft Survival Progression.md",
     "US Neutrality in WWI.md",
     "Triangle.md",
@@ -154,14 +157,6 @@
     "Treaty of Tordesillas.md",
     "Tree.md",
     "Trust.md",
-    "Irish Immigrants.md",
-    "American Railroads.md",
-    "Ireland.md",
-    "John D. Rockefeller.md",
-    "Vertical Integration.md",
-    "Andrew Carnegie.md",
-    "Gospel of Wealth.md",
-    "Philanthropy.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
