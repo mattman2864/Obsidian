@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gilded Age.md",
+                "file": "Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gilded Age.md",
+                "file": "Tree.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,7 +108,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224436,
+                  "scale": 0.5087618855792599,
                   "close": true
                 }
               }
@@ -136,7 +136,21 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
+    "Triangle.md",
+    "Trust.md",
+    "Irish Immigrants.md",
+    "American Railroads.md",
+    "Ireland.md",
     "United States.md",
+    "John D. Rockefeller.md",
+    "Vertical Integration.md",
+    "Andrew Carnegie.md",
+    "Gospel of Wealth.md",
+    "Philanthropy.md",
+    "Cattle Farming.md",
+    "Great Plains.md",
+    "Conservation Movement.md",
+    "Gilded Age.md",
     "James Monroe.md",
     "Vector.md",
     "William Pitt.md",
@@ -148,20 +162,6 @@
     "U-Substitution.md",
     "Treaty of Tordesillas.md",
     "Treaty of Ghent.md",
-    "conflict-files-obsidian-git.md",
-    "US Neutrality in WWI.md",
-    "Lusitania.md",
-    "Central Powers.md",
-    "Allied Powers (WWI).md",
-    "Line.md",
-    "Slope.md",
-    "Regression Analysis.md",
-    "Patrick Henry.md",
-    "Petrarch.md",
-    "Net Force.md",
-    "Linked List.md",
-    "Greece.md",
-    "Force.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
