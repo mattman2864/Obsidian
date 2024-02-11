@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Y-Intercept.md",
+                "file": "Gilded Age.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,99 +76,55 @@
     "type": "split",
     "children": [
       {
-        "id": "636573fb195234cf",
+        "id": "662c824a044fd946",
         "type": "tabs",
         "children": [
           {
-            "id": "9c15ea986f29eabf",
+            "id": "69e239b08599b03a",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "localgraph",
               "state": {
-                "file": "Y-Intercept.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Gilded Age.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.4,
+                  "nodeSizeMultiplier": 0.763541666666667,
+                  "lineSizeMultiplier": 2.42239583333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224436,
+                  "close": true
+                }
               }
-            }
-          },
-          {
-            "id": "b0d72c32fe6602c9",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Y-Intercept.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "399b3051314f6022",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "184fc85566fc4f84",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Y-Intercept.md"
-              }
-            }
-          },
-          {
-            "id": "6a3638e5ba483c89",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "7b0bb685d57084e2",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "19fd60a41e16003e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -180,8 +136,19 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "United States.md",
+    "James Monroe.md",
+    "Vector.md",
+    "William Pitt.md",
+    "Voltage.md",
+    "US Foreign Relations With Britain and France.md",
+    "Treaty of Guadalupe Hidalgo.md",
+    "The Prince.md",
     "Y-Intercept.md",
+    "U-Substitution.md",
+    "Treaty of Tordesillas.md",
+    "Treaty of Ghent.md",
+    "conflict-files-obsidian-git.md",
     "US Neutrality in WWI.md",
     "Lusitania.md",
     "Central Powers.md",
@@ -193,19 +160,8 @@
     "Petrarch.md",
     "Net Force.md",
     "Linked List.md",
-    "James Monroe.md",
     "Greece.md",
     "Force.md",
-    "Contrapposto.md",
-    "Alexander Hamilton.md",
-    "Albany Plan of Union.md",
-    "Alaska.md",
-    "Age of Exploration.md",
-    "Acceleration.md",
-    "Aaron Burr.md",
-    "Ancient Egypt.md",
-    "Classes.md",
-    "C.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
