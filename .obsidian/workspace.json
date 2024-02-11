@@ -11,8 +11,12 @@
             "id": "b159556a1884c1c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft Survival Progression.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Minecraft Survival Progression.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
