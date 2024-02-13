@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft Survival Progression.md",
-                "mode": "source",
+                "file": "Newtons Third Law.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Newtons Third Law.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,32 +136,33 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
+    "Newtons Second Law.md",
+    "Newtons First Law.md",
+    "Westward Expansion.md",
+    "Newland's Reclamation Act.md",
+    "New Monarch.md",
+    "Net Work.md",
+    "Net Force Diagram.svg",
+    "Net Force.md",
+    "Naturalism.md",
+    "National Road.md",
+    "National Labor Union.md",
+    "National Grange.md",
+    "Monroe Doctrine.md",
+    "Monarchy.md",
+    "Missouri Compromise.md",
+    "Minecraft Survival Progression.md",
     "Britain.md",
     "Constitutional Monarchy.md",
-    "Monarchy.md",
     "Dynastic Cycle.md",
     "Holy Roman Empire.md",
-    "New Monarch.md",
     "Military Revolution.md",
     "Infantry.md",
-    "Minecraft Survival Progression.md",
     "US Neutrality in WWI.md",
     "Triangle.md",
     "Townshend Act.md",
     "Charge.md",
     "War of 1812.md",
-    "WEB DuBois.md",
-    "Alexander Hamilton.md",
-    "Whiskey Rebellion.md",
-    "Washington_s Farewell Address.md",
-    "Y-Intercept.md",
-    "William Pitt.md",
-    "Waltham-Lowell System.md",
-    "United States.md",
-    "Treaty of Guadalupe Hidalgo.md",
-    "Treaty of Tordesillas.md",
-    "Tree.md",
-    "Trust.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
@@ -172,7 +173,6 @@
     "Pasted image 20230926131407.png",
     "Pasted image 20231105233106.png",
     "Pasted image 20231105233150.png",
-    "Pasted image 20231105233230.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]
