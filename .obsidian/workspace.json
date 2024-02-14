@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oregon Trail.md",
-                "mode": "preview",
+                "file": "Commercial Revolution.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oregon Trail.md",
+                "file": "Commercial Revolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,9 +136,10 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
+    "Oregon Trail.md",
+    "Commercial Revolution.md",
     "Ottoman Empire.md",
     "Newtons Third Law.md",
-    "Oregon Trail.md",
     "Oregon Territory.md",
     "One-to-One Function.md",
     "One Sample Interval.md",
@@ -162,7 +163,6 @@
     "Constitutional Monarchy.md",
     "Dynastic Cycle.md",
     "Holy Roman Empire.md",
-    "Military Revolution.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
