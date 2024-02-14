@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Potosí.md",
+                "file": "Price Revolution.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Potosí.md",
+                "file": "Price Revolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,11 +136,12 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
+    "Potosí.md",
+    "Price Revolution.md",
     "Goals 2024.md",
     "Game Planning.md",
     "Game Ideas.md",
     "Commercial Revolution.md",
-    "Potosí.md",
     "Oregon Trail.md",
     "Ottoman Empire.md",
     "Newtons Third Law.md",
@@ -162,7 +163,6 @@
     "Monroe Doctrine.md",
     "Monarchy.md",
     "Missouri Compromise.md",
-    "Minecraft Survival Progression.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
