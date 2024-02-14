@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commercial Revolution.md",
+                "file": "Potosi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Commercial Revolution.md",
+                "file": "Potosi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -136,8 +136,9 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
-    "Oregon Trail.md",
     "Commercial Revolution.md",
+    "Potosi.md",
+    "Oregon Trail.md",
     "Ottoman Empire.md",
     "Newtons Third Law.md",
     "Oregon Territory.md",
@@ -162,7 +163,6 @@
     "Britain.md",
     "Constitutional Monarchy.md",
     "Dynastic Cycle.md",
-    "Holy Roman Empire.md",
     "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
     "The Art of Painting by Jan Vermeer.jpg",
