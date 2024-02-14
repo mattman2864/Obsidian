@@ -1,0 +1,1 @@
+Potosí is a gold mine in [[Bolivia]] where 400,000 tons of silver were found.
