@@ -1,0 +1,1 @@
+$$f'(x)=2 \left( \frac{x+3}{2x} \right)\left( \frac{6}{(x+3)^2} \right)$$
