@@ -56,4 +56,49 @@
 56. Gary Numan
 57. Fear Factory
 58. Machine Head
-59. 
+59. Nine Inch Nails
+60. A Perfect Circle
+61. Mudvayne
+62. Incubus
+63. Godsmack
+64. Evanescence
+65. Flyleaf
+66. The Prodigy
+67. P.O.D.
+68. Taproot
+69. Crazy Town
+70. Gravity Kills
+71. Pulse Ultra
+72. C418
+73. Orgy
+74. Static-X
+75. Stabbing Westward
+76. Chevelle
+77. Leaether Strip
+78. Spineshank
+79. Stone Sour
+80. Severals
+81. Godflesh
+82. Meat Beat Manifesto
+83. Pharrel Williams
+84. Taylor Swift
+85. Ice Spice
+86. Spice Girls
+87. Snoop Dogg
+88. Beyonce
+89. Rihanna
+90. Shakira
+91. Olivia Rodrigo
+92. Michael Jackson
+93. Billie Eilish
+94. Revis
+95. Maroon 5
+96. The Weeknd
+97. System of a Down
+98. Limp Bizkit
+99. Kittie
+100. Ministry
+101. Yuno Miles
+102. Weird Al Yankovic
+103. Three Days Grace
+104. 
