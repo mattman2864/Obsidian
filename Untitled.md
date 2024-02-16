@@ -101,4 +101,39 @@
 101. Yuno Miles
 102. Weird Al Yankovic
 103. Three Days Grace
-104. 
+104. Seether
+105. Papa Roach
+106. The Smashing Pumpkins
+107. Alien Ant Farm
+108. Fort Minor
+109. Hatebreed
+110. Drowning Pool
+111. Radiohead
+112. Crossbreed
+113. Sublime
+114. Endo
+115. Crystal Method
+116. The Killers
+117. Oasis
+118. Modest Mouse
+119. Jackson 5
+120. Bruce Springsteen
+121. Louis Armstrong
+122. Elvis Presley
+123. Aesthetic Perfection
+124. Collective Soul
+125. Juice WRLD
+126. 21 Savage
+127. Babytron
+128. Playboy Carti
+129. Lil Uzi Vert
+130. The Rock
+131. Pantera
+132. The Offspring
+133. Gorillaz
+134. Powerman 5000
+135. Black Sabbath
+136. Rise Against
+137. The Cranberries
+138. Franz Ferdinand
+139. 
