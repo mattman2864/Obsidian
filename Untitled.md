@@ -136,4 +136,25 @@
 136. Rise Against
 137. The Cranberries
 138. Franz Ferdinand
-139. 
+139. Foo Fighters
+140. Avenged Sevenfold
+141. 311
+142. Pearl Jam
+143. Bob Marley
+144. Alice In Chains
+145. Journey
+146. Van Halen
+147. RHCP
+148. Nickelback
+149. Mushroom Head
+150. Nonpoint
+151. The Heavy
+152. Crosses
+153. Pitchshifter
+154. Slayer
+155. Earshot
+156. Velvet Revolver
+157. Combichrist
+158. Razed in Black
+159. Twenty One Pilots
+160. 
