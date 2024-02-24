@@ -13,7 +13,7 @@ This shows that the acceleration $a_x$ in the horizontal direction is equal to t
 
 Similarly, for the vertical direction:
 $$a_y=\frac{\Sigma F_y}{m}$$
-This shows that the acceleration $a_y$ in the horizontal direction is equal to the net force in the horizontal direction, $\Sigma F_y$, divided by the mass. 
+This shows that the acceleration $a_y$ in the vertical direction is equal to the net force in the vertical direction, $\Sigma F_y$, divided by the mass. 
 
 >[!Warning]
 >A common mistake made is to plug a vertical force into a horizontal equation, or vice versa.

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thomas Jefferson.md",
-                "mode": "source",
+                "file": "United States.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thomas Jefferson.md",
+                "file": "United States.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,14 +120,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thomas Jefferson.md",
+                "file": "United States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thomas Jefferson.md",
+                "file": "United States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thomas Jefferson.md"
+                "file": "United States.md"
               }
             }
           }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Thomas Jefferson.md",
+                "file": "United States.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +212,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3213363860503595,
+                  "scale": 0.4505081176757829,
                   "close": true
                 }
               }
@@ -238,10 +238,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b159556a1884c1c0",
+  "active": "6602f65fb5906bcd",
   "lastOpenFiles": [
-    "Thomas Jefferson Portrait.jpg",
+    "John Tyler.md",
+    "United States.md",
+    "American Railroads.md",
+    "Irish Immigrants.md",
+    "Second Bank of the U.S..md",
+    "American System.md",
+    "Relational Database.md",
+    "Tree.md",
+    "Derivative.md",
+    "Acceleration.md",
+    "Force.md",
+    "Newtons Third Law.md",
+    "Isaac Newton.md",
+    "Newtons Second Law.md",
+    "Net Force.md",
+    "Vector.md",
+    "Net Force Diagram.svg",
+    "Pasted image 20231105233650.png",
+    "Pasted image 20231105233230.png",
+    "Pasted image 20231105233150.png",
+    "Pasted image 20231105233106.png",
+    "Pasted image 20230926131407.png",
+    "Pasted image 20230920130033.png",
+    "Pasted image 20230920110202.png",
     "Thomas Jefferson.md",
+    "Thomas Jefferson Portrait.jpg",
     "The Prince.md",
     "The Great Chain of Being.md",
     "The First Italian War.md",
@@ -252,31 +276,8 @@
     "Battles of Saratoga.md",
     "Astrolabe.md",
     "Baldassare Castiglione.md",
-    "Bartolomé de las Casas.md",
-    "Battle of Fallen Timbers.md",
-    "Battle of Little Big Horn.md",
-    "Battle of Tippecanoe.md",
-    "Battles of Trenton and Princeton.md",
-    "Benjamin Franklin.md",
-    "Binary.md",
-    "Bitboard.md",
-    "Black Death.md",
-    "Booker T Washington.md",
-    "Boolean.md",
-    "Boolean Operator.md",
-    "Boston Massacre.md",
-    "Boston Tea Party.md",
-    "Britain.md",
-    "American Progress by John Gast.jpg",
     "FTC",
-    "Net Force Diagram.svg",
-    "Electrical Symbols.png.png",
-    "Benjamin Franklin Portrait.jpg",
     "Minecraft",
-    "Pasted image 20230920110202.png",
-    "Pasted image 20230920130033.png",
-    "Pasted image 20230926131407.png",
-    "Pasted image 20231105233106.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]
