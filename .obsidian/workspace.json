@@ -11,8 +11,12 @@
             "id": "b159556a1884c1c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Thomas Jefferson.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Thomas Jefferson.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -103,7 +108,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6316046762907493,
+                  "scale": 0.8854989543150419,
                   "close": true
                 }
               }
@@ -115,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thomas Jefferson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Thomas Jefferson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,14 +171,58 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Thomas Jefferson.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1a66c0678bb84194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477c53cbd90290a0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Thomas Jefferson.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.4,
+                  "nodeSizeMultiplier": 0.763541666666667,
+                  "lineSizeMultiplier": 2.42239583333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.3213363860503595,
+                  "close": true
+                }
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,44 +240,43 @@
   },
   "active": "b159556a1884c1c0",
   "lastOpenFiles": [
-    "FTC/Intake Design Matrix.md",
-    "FTC",
-    "Control Loops.md",
-    "Voltage.md",
-    "Philanthropy.md",
-    "Price Revolution.md",
-    "Potosí.md",
-    "Goals 2024.md",
-    "Game Planning.md",
-    "Game Ideas.md",
-    "Commercial Revolution.md",
-    "Oregon Trail.md",
-    "Ottoman Empire.md",
-    "Newtons Third Law.md",
-    "Oregon Territory.md",
-    "One-to-One Function.md",
-    "One Sample Interval.md",
-    "Newtons Second Law.md",
-    "Newtons First Law.md",
-    "Westward Expansion.md",
-    "Newland's Reclamation Act.md",
-    "New Monarch.md",
-    "Net Work.md",
-    "Net Force Diagram.svg",
-    "Net Force.md",
-    "Naturalism.md",
-    "National Road.md",
-    "National Labor Union.md",
-    "Electrical Symbols.png.png",
     "Thomas Jefferson Portrait.jpg",
+    "Thomas Jefferson.md",
+    "The Prince.md",
+    "The Great Chain of Being.md",
+    "The First Italian War.md",
     "The Art of Painting by Jan Vermeer.jpg",
+    "The Sack of Rome.md",
+    "Array.md",
+    "Articles of Confederation.md",
+    "Battles of Saratoga.md",
+    "Astrolabe.md",
+    "Baldassare Castiglione.md",
+    "Bartolomé de las Casas.md",
+    "Battle of Fallen Timbers.md",
+    "Battle of Little Big Horn.md",
+    "Battle of Tippecanoe.md",
+    "Battles of Trenton and Princeton.md",
+    "Benjamin Franklin.md",
+    "Binary.md",
+    "Bitboard.md",
+    "Black Death.md",
+    "Booker T Washington.md",
+    "Boolean.md",
+    "Boolean Operator.md",
+    "Boston Massacre.md",
+    "Boston Tea Party.md",
+    "Britain.md",
+    "American Progress by John Gast.jpg",
+    "FTC",
+    "Net Force Diagram.svg",
+    "Electrical Symbols.png.png",
     "Benjamin Franklin Portrait.jpg",
     "Minecraft",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
     "Pasted image 20231105233106.png",
-    "Pasted image 20231105233150.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]
