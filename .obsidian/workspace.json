@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Full State Feedback.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Full State Feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Full State Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Full State Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Annexation of Texas.md"
+                "file": "Full State Feedback.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Annexation of Texas.md",
+                "file": "Full State Feedback.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,6 +248,8 @@
   },
   "active": "ded7127090e3a9fa",
   "lastOpenFiles": [
+    "Annexation of Texas.md",
+    "Full State Feedback.md",
     "Louisiana Purchase.md",
     "John Adams.md",
     "Wilmot Proviso.md",
@@ -272,8 +274,6 @@
     "Knights of Labor.md",
     "Haymarket Riot.md",
     "Dawes Severalty Act.md",
-    "Frederick Turner's Frontier Thesis.md",
-    "Lusitania.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
     "OpenControlDiagram.bmp",
