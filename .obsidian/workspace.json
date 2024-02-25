@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ded7127090e3a9fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Open Control Loop.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "United States.md",
+                "file": "Open Control Loop.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "United States.md",
+                "file": "Open Control Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "United States.md",
+                "file": "Open Control Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "United States.md"
+                "file": "Open Control Loop.md"
               }
             }
           }
@@ -189,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "United States.md",
+                "file": "Open Control Loop.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,10 +251,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6602f65fb5906bcd",
+  "active": "ded7127090e3a9fa",
   "lastOpenFiles": [
-    "John Tyler.md",
     "United States.md",
+    "Open Control Loop.md",
+    "John Tyler.md",
     "American Railroads.md",
     "Irish Immigrants.md",
     "Second Bank of the U.S..md",
@@ -275,7 +289,6 @@
     "Articles of Confederation.md",
     "Battles of Saratoga.md",
     "Astrolabe.md",
-    "Baldassare Castiglione.md",
     "FTC",
     "Minecraft",
     "Vector.svg.xml",
