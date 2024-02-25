@@ -72,4 +72,11 @@ while (Math.abs(error) > tolerance) {
 ```
 In the above examples, we have two very different types of controllers. the first one is what the average programmer would likely develop as a solution to this type of problem. This is called the Bang Bang controller.
 
-The Bang Bang controller is a type of closed loop controller that abruptly switches between two or more outputs based on the current 
+The Bang Bang controller is a type of closed loop controller that abruptly switches between two or more outputs based on the current system state. While this controller can work in many situations, it is often suboptimal and can lead to undesired oscillations.
+
+The second controller may look a little less familiar. This controller is the proportional feedback controller. This type of controller generates some output directly proportional to the error between the reference and the current state. The result of this controller is that the output is much smoother and much more predictable. The proportional feedback controller structure is almost always more desirable than that of a bang-bang controller due to the proportional controller's continuous and linear nature. We can also add onto this controller and create more complex items such as the [[PID Controller]].
+
+![](BangBang.bmp)
+Model of a bang bang controller
+![](ProportionalController.bmp)
+The consensus is that the proportional controller is superior to the bang-bang controller. This, however, is still not recommended, and it is often beneficial to move towards a variant of the proportional controller known as the Proportional Integral Derivative (PID) Controller.

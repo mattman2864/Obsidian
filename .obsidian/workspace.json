@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Closed Loop Control.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -240,6 +240,8 @@
   },
   "active": "ded7127090e3a9fa",
   "lastOpenFiles": [
+    "ProportionalController.bmp",
+    "BangBang.bmp",
     "Open Loop Control.md",
     "Closed Loop Control.md",
     "Railroad Strike of 1877.md",
@@ -273,9 +275,7 @@
     "Acceleration.md",
     "Force.md",
     "Newtons Third Law.md",
-    "Isaac Newton.md",
     "Net Force Diagram.svg",
-    "Pasted image 20231105233106.png",
     "FTC",
     "Minecraft",
     "Vector.svg.xml",
