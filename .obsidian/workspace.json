@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Closed Loop Control.md",
-                "mode": "preview",
+                "file": "Function.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Closed Loop Control.md",
+                "file": "Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Closed Loop Control.md",
+                "file": "Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Closed Loop Control.md",
+                "file": "Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,12 +172,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Closed Loop Control.md"
+                "file": "Function.md"
               }
+            }
+          },
+          {
+            "id": "01588ffe576f770e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "1a66c0678bb84194",
@@ -189,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Closed Loop Control.md",
+                "file": "Function.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,12 +246,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ded7127090e3a9fa",
+  "active": "b2703a31c4011c5a",
   "lastOpenFiles": [
+    "Civil War.md",
+    "Boston Tea Party.md",
+    "Loyalists.md",
+    "Albany Plan of Union.md",
+    "Texas.md",
+    "Proclamation of Neutrality.md",
+    "News and Politics in the Early US.md",
+    "Stamp Act Congress.md",
+    "Knights of Labor.md",
+    "Haymarket Riot.md",
+    "Dawes Severalty Act.md",
+    "Frederick Turner's Frontier Thesis.md",
+    "Lusitania.md",
+    "Reservation System.md",
+    "Cornelius Vanderbilt.md",
+    "Closed Loop Control.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
     "Open Loop Control.md",
-    "Closed Loop Control.md",
     "Railroad Strike of 1877.md",
     "Republic of Texas.md",
     "Triangle.md",
@@ -253,10 +276,7 @@
     "U-Substitution.md",
     "United States.md",
     "Parameter.md",
-    "Parametric Equations.md",
-    "One Sample Interval.md",
     "OpenControlDiagram.bmp",
-    "Writs of Assistance.md",
     "b9dyc2ts.bmp",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
@@ -264,18 +284,6 @@
     "Pasted image 20231105233150.png",
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233650.png",
-    "John Tyler.md",
-    "American Railroads.md",
-    "Irish Immigrants.md",
-    "Second Bank of the U.S..md",
-    "American System.md",
-    "Relational Database.md",
-    "Tree.md",
-    "Derivative.md",
-    "Acceleration.md",
-    "Force.md",
-    "Newtons Third Law.md",
-    "Net Force Diagram.svg",
     "FTC",
     "Minecraft",
     "Vector.svg.xml",
