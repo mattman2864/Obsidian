@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Open Control Loop.md",
+                "file": "Closed Loop Control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Open Control Loop.md",
+                "file": "Closed Loop Control.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Open Control Loop.md",
+                "file": "Closed Loop Control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Open Control Loop.md",
+                "file": "Closed Loop Control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Open Control Loop.md"
+                "file": "Closed Loop Control.md"
               }
             }
           }
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Open Control Loop.md",
+                "file": "Closed Loop Control.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -240,8 +240,9 @@
   },
   "active": "ded7127090e3a9fa",
   "lastOpenFiles": [
+    "Open Loop Control.md",
+    "Closed Loop Control.md",
     "OpenControlDiagram.bmp",
-    "Open Control Loop.md",
     "United States.md",
     "Writs of Assistance.md",
     "b9dyc2ts.bmp",

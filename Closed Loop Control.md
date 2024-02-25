@@ -1,0 +1,7 @@
+Closed-Loop Control means that we are **modifying input to our system based on its output.**
+
+I believe an excellent way to think about closed-loop control is driving a car down a highway. in this example, your steering wheel doesn't need to be commanded, and there are no other cars on the road that you need to worry about avoiding. The only thing that you must do is keep as close to the speed limit (reference) as possible. Let's say you look at your car's speedometer and notice you are just below the speed limit. As a result of this observation, you press on the accelerator, and your car speeds up towards the **reference**. As you get closer to the reference, you back off of the accelerator more and more until your vehicle is at the reference. This concept is the general concept of closed-loop control.
+>[!definition] Reference
+>The reference is a term that describes where we want out system to be. A reference could be the target speed of a motor, the target angle that a drivetrain is facing, or nay other state that we would like to control. This reference is the value that our closed-loop system is trying to converge our system's state on.
+
+Closed-loop control requires something to estimate or observe the state of our system. The overwhelming majority of the time in FTC is an encoder, but it could easily be another sensor, such as a rev distance sensor. This observer, unfortunately, means that closed-l

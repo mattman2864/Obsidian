@@ -28,4 +28,7 @@ Open loop control is an incredibly simple way to get a robot performing actions.
 - Energy inefficient
 	- Motors must run at maximum power to utilize their maximum torque potential
 - Consistency will vary as battery voltage changes.
-These downfalls really only matter for certain types of systems. For example, your intake doesn't really need to reject disturbances from the outside world like your drivetrain does. This means that choosing Open Loo
+These downfalls really only matter for certain types of systems. For example, your intake doesn't really need to reject disturbances from the outside world like your drivetrain does. This means that choosing Open Loop Control vs [[Closed Loop Control]] is decided with personal preference and the ***design requirements*** of your system.
+>[!definition] Design Requirements
+>What your system needs to accomplish.
+>Does it need to reject disturbances? Does it need to be fast? Can it be slow? How accurate does it need to be? All of these things are factored into your system's ***design requirements***.
