@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Function.md",
+                "file": "Annexation of Texas.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Function.md",
+                "file": "Annexation of Texas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Function.md",
+                "file": "Annexation of Texas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Function.md",
+                "file": "Annexation of Texas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Function.md"
+                "file": "Annexation of Texas.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Function.md",
+                "file": "Annexation of Texas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -246,8 +246,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b2703a31c4011c5a",
+  "active": "ded7127090e3a9fa",
   "lastOpenFiles": [
+    "Louisiana Purchase.md",
+    "John Adams.md",
+    "Wilmot Proviso.md",
+    "Hartford Convention.md",
+    "National Road.md",
+    "Tension.md",
+    "Flat Boat.md",
+    "Projectile.md",
+    "Boolean.md",
+    "Linked List.md",
+    "Point Estimator.md",
+    "Gospel of Wealth.md",
+    "Function.md",
     "Civil War.md",
     "Boston Tea Party.md",
     "Loyalists.md",
@@ -261,21 +274,8 @@
     "Dawes Severalty Act.md",
     "Frederick Turner's Frontier Thesis.md",
     "Lusitania.md",
-    "Reservation System.md",
-    "Cornelius Vanderbilt.md",
-    "Closed Loop Control.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
-    "Open Loop Control.md",
-    "Railroad Strike of 1877.md",
-    "Republic of Texas.md",
-    "Triangle.md",
-    "Truth Table.md",
-    "Trust.md",
-    "Two-Tailed Proportions.md",
-    "U-Substitution.md",
-    "United States.md",
-    "Parameter.md",
     "OpenControlDiagram.bmp",
     "b9dyc2ts.bmp",
     "Pasted image 20230920110202.png",
