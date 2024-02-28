@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lusitania.md",
+                "file": "Sussex Pledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lusitania.md",
+                "file": "Sussex Pledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lusitania.md",
+                "file": "Sussex Pledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lusitania.md"
+                "file": "Sussex Pledge.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "0546693c9301ec9f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Lusitania.md",
+    "Sussex Pledge.md",
+    "conflict-files-obsidian-git.md",
     "Central Powers.md",
     "Allied Powers (WWI).md",
     "US Neutrality in WWI.md",
@@ -207,7 +208,6 @@
     "U-Substitution.md",
     "Minecraft Survival Progression.md",
     "United States.md",
-    "Rolle's Theorem.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",

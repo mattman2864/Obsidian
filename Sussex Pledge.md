@@ -1,0 +1,2 @@
+#APUSH
+The Sussex Pledge was a pledge made by [[Germany]] stating that they would no longer use U-boats to sink passenger ships without warning during [[World War I]]. Although it did limit German use of U-boats and helped maintain [[US Neutrality in WWI]], it did not end it, as shown by the sinking of the [[Lusitania]].

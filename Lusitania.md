@@ -1,1 +1,2 @@
 #APUSH 
+The Lusitania was a [[Britain|British]] ocean liner which was sunken by [[Germany|German]] U-boats during [[World War I]]. Almost 2000 civilians dies in the sinking, including over 100 Americans. This was one of the main reasons the [[United States]] entered the war.
