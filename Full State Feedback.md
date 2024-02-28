@@ -10,4 +10,4 @@ Full state feedback takes a slightly different approach than PID control, but ha
 
 One can model a linear system in the form:
 $$\dot x=Ax+Bu$$
-where $\dot x$ is the vector that represents the state of yoursystem
+where $\dot x$ is the vector that represents the state of the system
