@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44c793d931c0c9de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sussex Pledge.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sussex Pledge.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sussex Pledge.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -180,11 +193,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0546693c9301ec9f",
+  "active": "44c793d931c0c9de",
   "lastOpenFiles": [
-    "Lusitania.md",
     "Sussex Pledge.md",
     "conflict-files-obsidian-git.md",
+    "b9dyc2ts.bmp",
+    "Y-Intercept.md",
+    "ProportionalController.bmp",
+    "Potosí.md",
+    "Philanthropy.md",
+    "OpenControlDiagram.bmp",
+    "Open Loop Control.md",
+    "Ireland.md",
+    "Full State Feedback.md",
+    "Commercial Revolution.md",
+    "Closed Loop Control.md",
+    "BangBang.bmp",
+    "Lusitania.md",
     "Central Powers.md",
     "Allied Powers (WWI).md",
     "US Neutrality in WWI.md",
@@ -199,15 +224,6 @@
     "Laissez-Faire.md",
     "Trust.md",
     "John D. Rockefeller.md",
-    "Cornelius Vanderbilt.md",
-    "Andrew Carnegie.md",
-    "JP Morgan.md",
-    "American Railroads.md",
-    "Untitled.md",
-    "Alaska.md",
-    "U-Substitution.md",
-    "Minecraft Survival Progression.md",
-    "United States.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
@@ -215,10 +231,6 @@
     "1796 Election Results.png",
     "Minecraft",
     "Pasted image 20231105233650.png",
-    "Pasted image 20231105233230.png",
-    "Pasted image 20231105233150.png",
-    "Pasted image 20231105233106.png",
-    "centripetal-acceleration-diagram.jpg",
     "Vector.svg.xml",
     "Untitled.canvas",
     "Excalidraw"
