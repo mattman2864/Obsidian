@@ -4,3 +4,7 @@ Germany was left with lots of debt, and they printed lots of money to pay for it
 # Good Neighbor Policy
 # Appeasement
 Allied nations would give [[Adolf Hitler]] what he wanted, and let him get away with attacking smaller nations, as a hope that he would stop the aggression. This only made Hitler more powerful, and let multiple countries fall under Nazi control.
+# Neutrality Acts
+- 1935: Banned [[United States]] from providing weapons to nations at war
+- 1936: Banned the offering of loans to nations at war
+- 1937: **Cash & Carry** - permitted trade with warring nations of nonmilitary goods only if those nations paid cash and transported the items themselves
