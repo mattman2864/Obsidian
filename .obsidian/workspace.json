@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treaty of Versailles.md",
+                "file": "US Road to WWII.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Treaty of Versailles.md",
+                "file": "US Road to WWII.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Treaty of Versailles.md",
+                "file": "US Road to WWII.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treaty of Versailles.md"
+                "file": "US Road to WWII.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   "active": "d2bc3b28ba43151d",
   "lastOpenFiles": [
     "Treaty of Versailles.md",
+    "US Road to WWII.md",
     "conflict-files-obsidian-git.md",
     "Sussex Pledge.md",
     "b9dyc2ts.bmp",
@@ -224,7 +225,6 @@
     "Social Darwinism.md",
     "Laissez-Faire.md",
     "Trust.md",
-    "John D. Rockefeller.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
