@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "44c793d931c0c9de",
+            "id": "d2bc3b28ba43151d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Treaty of Versailles.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Treaty of Versailles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Treaty of Versailles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Treaty of Versailles.md"
               }
             }
           },
@@ -193,10 +193,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "44c793d931c0c9de",
+  "active": "d2bc3b28ba43151d",
   "lastOpenFiles": [
-    "Sussex Pledge.md",
+    "Treaty of Versailles.md",
     "conflict-files-obsidian-git.md",
+    "Sussex Pledge.md",
     "b9dyc2ts.bmp",
     "Y-Intercept.md",
     "ProportionalController.bmp",
