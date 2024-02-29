@@ -11,6 +11,11 @@ U.S. was working to feed its increased military forces, Allied soldiers, and Axi
 Due to rationing, black market purchases became common (especially tires!). Extra ration books or stockpiled materials from before the war were used in the black market. Propaganda pushed that black market sellers & buyers were not patriotic and personally supporting the Axis Powers/Hitler by “stealing” needed supplies.
 ## Blackouts
 While not as common as in [[Europe]], blackouts were often practiced on the west and east coast. The goal was to prevent light or communication signals to make it harder for U-boats or bombs to find their targets. Volunteers making up the Civilian Defense checked homes and enforced blackouts, possibly issuing fines or prison. No light could be emitting from the home - rise in blackout curtains, though cardboard/scrap was more common due to lack of fabric from rationing. This grew in as a conservation measure to better support production efforts. MLB and minor league baseball will only play during the day to prevent need for lights at night.
-## 
-Frequent drives for scrap metal - especially steel and aluminum.
-Cans, Old cars, bed frames, radiators, pots, and pipes. Expanded to paper, rubber, tin, and nylon.
+## Salvage for Victory
+Frequent drives for scrap metal - especially steel and aluminum. Cans, Old cars, bed frames, radiators, pots, and pipes were all utilized. Expanded to paper, rubber, tin, and nylon.
+# Espionage
+Growing fear of Axis Power spies combined with in increase in the workforce involved in the war production created a genuine fear of spilling critical secrets to the enemy. Discouraged sharing information via phone, letter, or airwaves. Actual threat was less than stated to public.
+# Women
+Women increase their role in the workforce to fill needs as men go off and fight. "Rosie the Riveter" based on a song of the same name. Rose Will Monroe of [[Michigan]] was selected to be filmed for a war bond promotion video. She worked on the construction of B-24 and B-29 bombers. By mid 1940s, percentage of women in the workforce increased from 25% to 36%. For the first time, women are allowed to enlist. The served as nurses, admin roles, and some as decoders.
+# Minorities
+There was increased suspicion of those of Axis power nationalities, such as in Japanese Internment Camps. Blacks were still segregated in the military and many kept from the front lines but some advancements were seen. The Pittsburgh Courier, a Black newspaper, promoted a “Double V” campaign: V for victory in the war abroad, and another V for victory in the efforts to end segregation at home. Roosevelt signed an executive order creating a Fair Employment Practices Committee (FEPC) to investigate discrimination complaints.
