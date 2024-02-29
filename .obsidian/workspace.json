@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "a12b1968f7c216be",
+            "id": "525c8dc69b64c094",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "US Homefront in World War II.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -66,7 +68,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -88,8 +90,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "US Road to WWII.md",
+                "file": "US Homefront in World War II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "US Road to WWII.md",
+                "file": "US Homefront in World War II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "US Road to WWII.md"
+                "file": "US Homefront in World War II.md"
               }
             }
           },
@@ -203,10 +204,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a12b1968f7c216be",
+  "active": "525c8dc69b64c094",
   "lastOpenFiles": [
-    "Treaty of Versailles.md",
     "US Road to WWII.md",
+    "US Homefront in World War II.md",
+    "Treaty of Versailles.md",
     "conflict-files-obsidian-git.md",
     "Sussex Pledge.md",
     "b9dyc2ts.bmp",
@@ -234,7 +236,6 @@
     "Railroad Strike of 1877.md",
     "Social Darwinism.md",
     "Laissez-Faire.md",
-    "Trust.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
