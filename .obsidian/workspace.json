@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0546693c9301ec9f",
+            "id": "2ca97f7835f88dc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sussex Pledge.md",
+                "file": "Good-Neighbor Policy.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "d2bc3b28ba43151d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "US Road to WWII.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "525c8dc69b64c094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "US Homefront in World War II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c43c3f35fa680b8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Good-Neighbor Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Good-Neighbor Policy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Good-Neighbor Policy.md"
+              }
             }
           },
           {
@@ -209,15 +180,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3c43c3f35fa680b8",
+  "active": "2ca97f7835f88dc3",
   "lastOpenFiles": [
+    "Good-Neighbor Policy.md",
+    "Sussex Pledge.md",
+    "US Road to WWII.md",
+    "US Homefront in World War II.md",
     "Britain.md",
     "Kellogg-Briand Pact.md",
-    "US Homefront in World War II.md",
-    "US Road to WWII.md",
     "Treaty of Versailles.md",
     "conflict-files-obsidian-git.md",
-    "Sussex Pledge.md",
     "b9dyc2ts.bmp",
     "Y-Intercept.md",
     "ProportionalController.bmp",
@@ -240,7 +212,6 @@
     "Clovis.md",
     "Area.md",
     "Railroad Strike of 1877.md",
-    "Social Darwinism.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
