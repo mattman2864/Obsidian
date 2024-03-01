@@ -3,7 +3,7 @@
   "interfaceFontFamily": "Ubuntu",
   "accentColor": "",
   "baseFontSize": 17,
-  "cssTheme": "Minimal",
+  "cssTheme": "Prism",
   "enabledCssSnippets": [
     "snippet"
   ],
