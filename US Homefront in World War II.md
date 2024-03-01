@@ -6,7 +6,7 @@ People could buy the bond at $18, and later get $25 back. War Stamps were a "min
 # Rationing
 Anything needed for the war effort was rationed, meaning you needed a "coupon" to cash in to purchase the item. Food, tires, gas, and clothing/fabric were rationed. Sugar was the first to be rationed - main producers were the [[Philippines]] and [[Hawaii]], both of which were now affected by the war. The average American was limited to 4 gallons of gas per week. People were limited to two pairs of shoes per year in 1945.
 ## Victory Gardens
-U.S. was working to feed its increased military forces, Allied soldiers, and Axis POWs, causing limited food availability. Victory Gardens became a way for the public to support the war effort AND increase their personal food supply. In 1945, ~20 million gardens were in use and produced about 40% of all vegetables consumed in the United States.
+The [] was working to feed its increased military forces, Allied soldiers, and Axis POWs, causing limited food availability. Victory Gardens became a way for the public to support the war effort AND increase their personal food supply. In 1945, ~20 million gardens were in use and produced about 40% of all vegetables consumed in the United States.
 ## Black Market
 Due to rationing, black market purchases became common (especially tires!). Extra ration books or stockpiled materials from before the war were used in the black market. Propaganda pushed that black market sellers & buyers were not patriotic and personally supporting the Axis Powers/Hitler by “stealing” needed supplies.
 ## Blackouts

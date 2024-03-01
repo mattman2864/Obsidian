@@ -42,9 +42,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c43c3f35fa680b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "US Homefront in World War II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +135,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "US Homefront in World War II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +156,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "US Homefront in World War II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -205,10 +209,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "525c8dc69b64c094",
+  "active": "3c43c3f35fa680b8",
   "lastOpenFiles": [
-    "US Road to WWII.md",
+    "Britain.md",
+    "Kellogg-Briand Pact.md",
     "US Homefront in World War II.md",
+    "US Road to WWII.md",
     "Treaty of Versailles.md",
     "conflict-files-obsidian-git.md",
     "Sussex Pledge.md",
@@ -233,10 +239,8 @@
     "Parametric Equations.md",
     "Clovis.md",
     "Area.md",
-    "Britain.md",
     "Railroad Strike of 1877.md",
     "Social Darwinism.md",
-    "Laissez-Faire.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
