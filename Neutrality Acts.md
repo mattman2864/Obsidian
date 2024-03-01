@@ -1,0 +1,2 @@
+#APUSH 
+The Neutrality Acts were passed by [[Congress]] to try to keep the [[United States]] out of war by making it illegal for Americans to sell or transport arms or other war materials to belligerent nations. Later acts lifted the embargo and implemented a cash-and-carry system. No loans were to be given out to warring nations, and any non-war materials could only be traded if the other country paid in cash and shipped the materials themselves.
