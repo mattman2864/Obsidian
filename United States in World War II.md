@@ -33,3 +33,8 @@
 - Top leaders defended themselves by denying knowledge or involvement in crimes. Many blamed [[Adolf Hitler]] (could not be tried; died of suicide)
 - 12 defendants sentenced to death
 - 12 further trials by the US focusing on Holocaust crimes
+# Navajo Code Talkers
+- Used Indian tribal language to send secret messages in the Pacific/European theatre -> crucial to Allied victory
+- Germany/Japan was never able to crack the code
+# Manhattan Project
+- August  1939 - [[Albert Einstein]] informs FDR that Germany is close to
