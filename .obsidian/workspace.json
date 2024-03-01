@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quarantine Speech.md",
+                "file": "United States in World War II.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quarantine Speech.md",
+                "file": "United States in World War II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quarantine Speech.md",
+                "file": "United States in World War II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quarantine Speech.md"
+                "file": "United States in World War II.md"
               }
             }
           },
@@ -182,8 +182,9 @@
   },
   "active": "2ca97f7835f88dc3",
   "lastOpenFiles": [
-    "Neutrality Acts.md",
     "Quarantine Speech.md",
+    "United States in World War II.md",
+    "Neutrality Acts.md",
     "Good-Neighbor Policy.md",
     "Sussex Pledge.md",
     "US Road to WWII.md",
@@ -211,7 +212,6 @@
     "Gilded Age.md",
     "Parabola.md",
     "Parametric Equations.md",
-    "Clovis.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
