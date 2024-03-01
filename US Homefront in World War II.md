@@ -20,4 +20,29 @@ Women increase their role in the workforce to fill needs as men go off and fight
 # Minorities
 There was increased suspicion of those of Axis power nationalities, such as in Japanese Internment Camps. Blacks were still segregated in the military and many kept from the front lines but some advancements were seen. The Pittsburgh Courier, a Black newspaper, promoted a “Double V” campaign: V for victory in the war abroad, and another V for victory in the efforts to end segregation at home. Roosevelt signed an executive order creating a Fair Employment Practices Committee (FEPC) to investigate discrimination complaints.
 # Zoot Suit Riots
-Zoot Suits were popular in the 1930s - required more fabric than alloed by rationing. It was popular among Black and Mexican-American communities - came to be seen as "thugs". Servicemen stationed outside of LA angered by use of resources during wartime. Fight between a uiformed officer and Mexican American youths, with the servicemen being beaten. Exploded into full-scale riots throughout the LA area, and across California, forming into racial
+Zoot Suits were popular in the 1930s - required more fabric than alloed by rationing. It was popular among Black and Mexican-American communities - came to be seen as "thugs". Servicemen stationed outside of LA angered by use of resources during wartime. Fight between a uiformed officer and Mexican American youths, with the servicemen being beaten. Exploded into full-scale riots throughout the LA area, and across California, forming into racially motivated violence.
+# Japanese Insurance Camps
+- Growing suspicions of those of Japanese descent as being spies or otherwise aiding the Japanese forces
+- Executive Order 9066 (Feb 1942) -  FDR's executive order puts more than 100,000 Japanese Americans regardless of citizenship in internment camps across the US for the remainder of the war 
+	- People of Japanese descent were forced to leave their homes and imprisoned without trial 
+		- Given ~3 days of notification to pack and sell home
+	- No evidence of being disloyal/spies/traitors etc., majority were American citizens
+- Done in the name of “national security,” disregarding need for due process
+## Life inside the Camps
+- Located in isolated parts of US
+- Fenced in with guard tower
+	- Freedom of movement in the camp, but not allowed outside of the camp
+- Barrack-style living conditions
+- Equipped with basic schools and hospitals 
+- Schools staffed by the government, many led to a lack of cultural education
+- Men were given “loyalty” tests to the U.S. Those who swore loyalty were eventually drafted into the military
+	- Segregated and given some of the most dangerous tasks, yet became some of the most decorated battalions
+## Korematsu v. US
+- Fred Korematsu refused to be relocated.
+- Arrested and convicted.
+- Took his case to the Supreme Court of the U.S.
+- Supreme Court upheld Executive Order 9066 as constitutional in the name of National Security
+	- consistent with Schenck v. U.S. of limiting citizen rights during wartime
+## 1983 Commission
+- A 1983 Commission on Wartime Relocation report determined that Internment Camps were “not justified by military necessity”
+- 1988: President Ronald Reagan issued apology, citing internment camps were an injustice to Japanese Americans. Gave $20,000 in reparations to each person.
