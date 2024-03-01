@@ -6,4 +6,7 @@
 	- General [[Dwight Eisenhower]] was named Supreme Commander of the Allied invasion forces
 - [[Normandy Beach]] decided on as an attack spot, but [[General Patton]] setup Dover beaches as decoy.
 	- Inflatable army worked
-- Britain, [[Poland]], [[Netherlands]], 
+- Britain, [[Poland]], [[Netherlands]], [[Belgium]], [[France]], [[Canada]] all involved
+- Largest invasion in history by air, land and sea
+- 64000 watercraft, 1000 RAF bombers, 150,000 paratroopers hit shoreline
+- Hit a stalemate but eventually break through, results in the liberation of France
