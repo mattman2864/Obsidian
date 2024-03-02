@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b332c77fa05bb573",
+        "id": "f66ef0302a923b3f",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca97f7835f88dc3",
+            "id": "ded7127090e3a9fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "United States in World War II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4678ba8b1a87d6d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harry Truman.md",
+                "file": "Full State Feedback.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,6 +33,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "3acace2d89f5639a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
             "id": "f2c3bd1fed6f73b4",
             "type": "leaf",
             "state": {
@@ -55,7 +53,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -66,63 +64,87 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "ffebbe939d5b7618",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 260.01103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
     "type": "split",
     "children": [
       {
-        "id": "636573fb195234cf",
+        "id": "662c824a044fd946",
         "type": "tabs",
         "children": [
           {
-            "id": "9c15ea986f29eabf",
+            "id": "69e239b08599b03a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Full State Feedback.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.4,
+                  "nodeSizeMultiplier": 0.763541666666667,
+                  "lineSizeMultiplier": 2.42239583333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8854989543150419,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "6602f65fb5906bcd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "United States in World War II.md",
+                "file": "Full State Feedback.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "b0d72c32fe6602c9",
+            "id": "4aa5a08293b3ac07",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "United States in World War II.md",
+                "file": "Full State Feedback.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "399b3051314f6022",
+            "id": "e7acd288b1c24f98",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +155,7 @@
             }
           },
           {
-            "id": "184fc85566fc4f84",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "United States in World War II.md"
-              }
-            }
-          },
-          {
-            "id": "6a3638e5ba483c89",
+            "id": "97ab4dcb7849b140",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -155,15 +167,17 @@
             }
           },
           {
-            "id": "7b0bb685d57084e2",
+            "id": "b2703a31c4011c5a",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "Full State Feedback.md"
+              }
             }
           },
           {
-            "id": "19fd60a41e16003e",
+            "id": "01588ffe576f770e",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -171,67 +185,108 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
+      },
+      {
+        "id": "1a66c0678bb84194",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477c53cbd90290a0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Full State Feedback.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -1.4,
+                  "nodeSizeMultiplier": 0.763541666666667,
+                  "lineSizeMultiplier": 2.42239583333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.450508117675783,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 532.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "publish:Publish changes...": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ca97f7835f88dc3",
+  "active": "01588ffe576f770e",
   "lastOpenFiles": [
-    "Harry Truman.md",
     "United States in World War II.md",
-    "Quarantine Speech.md",
-    "Neutrality Acts.md",
-    "Good-Neighbor Policy.md",
-    "Sussex Pledge.md",
     "US Road to WWII.md",
     "US Homefront in World War II.md",
-    "Britain.md",
-    "Kellogg-Briand Pact.md",
     "Treaty of Versailles.md",
-    "conflict-files-obsidian-git.md",
-    "b9dyc2ts.bmp",
-    "Y-Intercept.md",
-    "ProportionalController.bmp",
-    "Potosí.md",
-    "Philanthropy.md",
-    "OpenControlDiagram.bmp",
-    "Open Loop Control.md",
-    "Ireland.md",
+    "Sussex Pledge.md",
+    "Quarantine Speech.md",
+    "Neutrality Acts.md",
+    "Kellogg-Briand Pact.md",
+    "Harry Truman.md",
+    "Good-Neighbor Policy.md",
+    "Annexation of Texas.md",
     "Full State Feedback.md",
-    "Commercial Revolution.md",
-    "Closed Loop Control.md",
+    "Louisiana Purchase.md",
+    "John Adams.md",
+    "Wilmot Proviso.md",
+    "Hartford Convention.md",
+    "National Road.md",
+    "Tension.md",
+    "Flat Boat.md",
+    "Projectile.md",
+    "Boolean.md",
+    "Linked List.md",
+    "Point Estimator.md",
+    "Gospel of Wealth.md",
+    "Function.md",
+    "Civil War.md",
+    "ProportionalController.bmp",
     "BangBang.bmp",
-    "Lusitania.md",
-    "Central Powers.md",
-    "Allied Powers (WWI).md",
-    "US Neutrality in WWI.md",
-    "Gilded Age.md",
-    "Parabola.md",
-    "The Art of Painting by Jan Vermeer.jpg",
-    "Net Force Diagram.svg",
-    "Greece Map.gif",
-    "Benjamin Franklin Portrait.jpg",
-    "1796 Election Results.png",
-    "Minecraft",
+    "OpenControlDiagram.bmp",
+    "b9dyc2ts.bmp",
+    "Pasted image 20230920110202.png",
+    "Pasted image 20230920130033.png",
+    "Pasted image 20230926131407.png",
+    "Pasted image 20231105233150.png",
+    "Pasted image 20231105233230.png",
     "Pasted image 20231105233650.png",
+    "FTC",
+    "Minecraft",
     "Vector.svg.xml",
-    "Untitled.canvas",
     "Excalidraw"
   ]
 }
