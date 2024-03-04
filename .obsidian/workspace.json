@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b332c77fa05bb573",
+        "id": "4747c6e2a25e662c",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca97f7835f88dc3",
+            "id": "7ad5b77a3622f3d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "United States in World War II.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4678ba8b1a87d6d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Harry Truman.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -77,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -98,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "United States in World War II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "United States in World War II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "United States in World War II.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +173,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2ca97f7835f88dc3",
+  "active": "7ad5b77a3622f3d7",
   "lastOpenFiles": [
     "Harry Truman.md",
+    "WWII Rescue and Liberation.md",
+    "Yalta Conference.md",
+    "Nuremberg Trials.md",
+    "Navajo Code Talkers.md",
+    "Manhattan Project.md",
     "United States in World War II.md",
+    "V-E Day.md",
+    "D-Day.md",
     "Quarantine Speech.md",
     "Neutrality Acts.md",
     "Good-Neighbor Policy.md",
@@ -215,14 +204,7 @@
     "Ireland.md",
     "Full State Feedback.md",
     "Commercial Revolution.md",
-    "Closed Loop Control.md",
     "BangBang.bmp",
-    "Lusitania.md",
-    "Central Powers.md",
-    "Allied Powers (WWI).md",
-    "US Neutrality in WWI.md",
-    "Gilded Age.md",
-    "Parabola.md",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
     "Greece Map.gif",
