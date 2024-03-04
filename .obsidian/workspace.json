@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Manhattan Project.md",
+                "file": "Decision to Drop the Atomic Bomb.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manhattan Project.md",
+                "file": "Decision to Drop the Atomic Bomb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manhattan Project.md",
+                "file": "Decision to Drop the Atomic Bomb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manhattan Project.md"
+                "file": "Decision to Drop the Atomic Bomb.md"
               }
             }
           },
@@ -183,13 +183,15 @@
   },
   "active": "c6fc41e8d7c19194",
   "lastOpenFiles": [
+    "Wartime Conferences.md",
+    "Decision to Drop the Atomic Bomb.md",
+    "Manhattan Project.md",
     "conflict-files-obsidian-git.md",
     "Harry Truman.md",
     "WWII Rescue and Liberation.md",
     "Yalta Conference.md",
     "Nuremberg Trials.md",
     "Navajo Code Talkers.md",
-    "Manhattan Project.md",
     "United States in World War II.md",
     "V-E Day.md",
     "D-Day.md",
@@ -210,8 +212,6 @@
     "OpenControlDiagram.bmp",
     "Open Loop Control.md",
     "Ireland.md",
-    "Full State Feedback.md",
-    "Commercial Revolution.md",
     "BangBang.bmp",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
