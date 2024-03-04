@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4747c6e2a25e662c",
+        "id": "54bde24fd1fc4b2a",
         "type": "tabs",
         "children": [
           {
-            "id": "7ad5b77a3622f3d7",
+            "id": "c6fc41e8d7c19194",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -66,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.01103591918945,
-    "collapsed": true
+    "width": 260.01103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -120,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           },
           {
@@ -152,12 +153,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +173,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ad5b77a3622f3d7",
+  "active": "19fd60a41e16003e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Harry Truman.md",
     "WWII Rescue and Liberation.md",
     "Yalta Conference.md",
@@ -193,7 +194,6 @@
     "Britain.md",
     "Kellogg-Briand Pact.md",
     "Treaty of Versailles.md",
-    "conflict-files-obsidian-git.md",
     "b9dyc2ts.bmp",
     "Y-Intercept.md",
     "ProportionalController.bmp",
