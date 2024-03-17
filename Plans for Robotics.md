@@ -8,7 +8,8 @@ I believe that if we do these things and the things I list below, we can be comp
 ### Ideas for game
 - 1v1s
 - blindfold
-- stealing
+- stealing from backdrop
+- drone distance competition
 ### Fundraising
 - concessions
 - donations
@@ -16,13 +17,17 @@ I believe that if we do these things and the things I list below, we can be comp
 ## Learn
 - Online Resources
 	- [Game Manual Zero](https://www.gm0.net/)
-		- Good place to start for all general topics related to ftc, from outreach and fundraising to manufacturing to control theory to team management
+		- Good place to start for all general topics related to FTC, from outreach and fundraising to manufacturing to control theory to team management
+		- More of an introduction sometimes but is still very useful
 	- [Crtl Alt FTC](https://www.ctrlaltftc.com) 
-		- Best resource for control theory for FTC, has lots of artl
+		- Best resource on control theory for FTC, has lots of articles on important topics
+	- [FTCLib](https://www.ftclib.com) 
+		- another great resource for programming topics
+	- Wolfpack has a lot of great videos on YouTube on various design and programming topics
 - Get familiar with CAD
 	- build practice parts
 	- use a single tool - OnShape recommended
-	- learn how to do assemblies with custom parts and gobilda parts
+	- learn how to do assemblies with custom parts and goBilda parts
 - Programmers learn basic control theory
 	- FSM
 	- PID
@@ -86,3 +91,4 @@ I believe that if we do these things and the things I list below, we can be comp
 - Outreach should only be for
 	- low-effort events such as a couple hours one night
 	- fundraising
+	- 
