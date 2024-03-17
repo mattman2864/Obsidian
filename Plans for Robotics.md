@@ -2,7 +2,7 @@ first things first
 ***BE PRESENT***
 ***BE ON TIME***
 ***BE FOCUSED AND INVOLVED***
-I believe that if we do these things and the things I list below, we can be competitive with the top teams in the state and even the world.
+If we do these things and the things I list below, we can be competitive with the top teams in the state and even the world.
 # Before Next Season
 ## Offseason Event
 ### Ideas for game
@@ -91,4 +91,3 @@ I believe that if we do these things and the things I list below, we can be comp
 - Outreach should only be for
 	- low-effort events such as a couple hours one night
 	- fundraising
-	- 
