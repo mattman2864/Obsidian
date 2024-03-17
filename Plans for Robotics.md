@@ -1,8 +1,8 @@
-one thing first:
+first things first
 ***BE PRESENT***
 ***BE ON TIME***
 ***BE FOCUSED AND INVOLVED***
-If we can do those three things, we can be a much, much better team. I believe that if we do these things and the things I list below, we can be competitive witht 
+I believe that if we do these things and the things I list below, we can be competitive with the top teams in the state and even the world.
 # Before Next Season
 ## Offseason Event
 ### Ideas for game
@@ -17,6 +17,7 @@ If we can do those three things, we can be a much, much better team. I believe t
 - Get familiar with CAD
 	- build practice parts
 	- use a single tool - OnShape recommended
+	- learn how to do assemblies with custom parts and gobilda parts
 - Programmers learn basic control theory
 	- FSM
 	- PID
@@ -42,6 +43,7 @@ If we can do those three things, we can be a much, much better team. I believe t
 	- Occam's Razor - "The simplest solution is often the best"
 2. Prototype
 	- Model the part in CAD using an assembly of 3D printed parts and goBilda parts
+		- We should try to model as much of the robot as possible. Lots of time reprinting parts could be saved if we just made sure the part fit in the assembly.
 	- If everything seems alright, build a minimum functioning prototype and test
 	- are there any changes that need to be made? if so then return to sketch/modeling phase
 3. Testing
@@ -49,6 +51,9 @@ If we can do those three things, we can be a much, much better team. I believe t
 	- If changed need to be made, return to sketch/prototype
 4. Construction
 	- Build a high-quality version with intended use on the final robot. This should not be changed except in a dire case such as breakage
+		- Use yellow ABS for printed parts
+		- see if we can machine aluminum for things like arms and drive train
+		- use
 ## Software
 - Utilize modularity cleanly but not excessively
 - Utilize control theory concepts
