@@ -14,6 +14,11 @@ I believe that if we do these things and the things I list below, we can be comp
 - donations
 - sign-up fee
 ## Learn
+- Online Resources
+	- [Game Manual Zero](https://www.gm0.net/)
+		- Good place to start for all general topics related to ftc, from outreach and fundraising to manufacturing to control theory to team management
+	- [Crtl Alt FTC](https://www.ctrlaltftc.com) 
+		- Best resource for control theory for FTC, has lots of artl
 - Get familiar with CAD
 	- build practice parts
 	- use a single tool - OnShape recommended
@@ -21,7 +26,7 @@ I believe that if we do these things and the things I list below, we can be comp
 - Programmers learn basic control theory
 	- FSM
 	- PID
-	- [Crtl Alt FTC](https://www.ctrlaltftc.com)
+	- [Crtl Alt FTC](https://www.ctrlaltftc.com) is a great resource for these topics
 - Programmers learn git *well*
 	- branching
 	- merging
@@ -35,7 +40,7 @@ I believe that if we do these things and the things I list below, we can be comp
 	- reaching out to friends and family
 - Watch videos
 	- **TODO: add video watchlist**
-# New Techniques/Approaches
+# During the Season
 ## Development Process
 1. Sketch
 	- draw out plan on paper for a general approach
@@ -55,7 +60,7 @@ I believe that if we do these things and the things I list below, we can be comp
 - Use yellow ABS for printed parts
 - see if we can machine aluminum for things like arms and drive train
 - use fancy servos in important places like claws and arms
-	- the minis might be worth a try. They are much smaller and lighter, and so would work well as a claw on the end of an arm.
+	- the minis might be worth a try in some scenarios. They are much smaller and lighter, and so would work well as a claw on the end of an arm.
 - use belts on motors if possible to prevent breakage
 - 
 ## Software
@@ -69,10 +74,12 @@ I believe that if we do these things and the things I list below, we can be comp
 - Use different scenarios and challenges such as a part breaking or another robot getting in the way
 	- do not tell the drivers beforehand - learn to adapt to different situations
 - Don't be afraid of using 2 drivers
-# Time Management
+## Time Management
 - Programming can begin *before* construction, if a basic plan is created. appropriate adjustments in the program can be made as the physical robot changes
 - Robot should be given to programmers at a certain point to complete autos (depends how long autos take)
 - If first competition is in December, get autos in a basic workable state, otherwise use winter break to make autos get extra points (i.e. cycling in auto/scoring extra game elements)
+- We should start with meeting 3 times a week for 2-3 hours
+	- adjustments can be made later in the season as we get closer to competition if we need more/less time
 ## Outreach
 - Although we do some outreach during the season, and that is okay, we should absolutely not prioritize outreach over work on the robot. Other teams are simply very very good at outreach, and there is no chance for us to even be considered.
 - We have not won even 3rd place for any award that considers outreach, we are far from those teams
