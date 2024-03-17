@@ -51,9 +51,13 @@ I believe that if we do these things and the things I list below, we can be comp
 	- If changed need to be made, return to sketch/prototype
 4. Construction
 	- Build a high-quality version with intended use on the final robot. This should not be changed except in a dire case such as breakage
-		- Use yellow ABS for printed parts
-		- see if we can machine aluminum for things like arms and drive train
-		- use
+## Design
+- Use yellow ABS for printed parts
+- see if we can machine aluminum for things like arms and drive train
+- use fancy servos in important places like claws and arms
+	- the minis might be worth a try. They are much smaller and lighter, and so would work well as a claw on the end of an arm.
+- use belts on motors if possible to prevent breakage
+- 
 ## Software
 - Utilize modularity cleanly but not excessively
 - Utilize control theory concepts
