@@ -16,6 +16,13 @@
 	- FSM
 	- PID
 	- [Crtl Alt FTC](https://www.ctrlaltftc.com)
+- Programmers learn git *well*
+	- branching
+	- merging
+	- pull requests
+	- commits
+	- pushes
+	- etc
 - Look into possible fundraising opportunities
 	- waffle bake sale
 	- cold email/call
@@ -33,5 +40,18 @@
 	- Model the part in CAD using an assembly of 3D printed parts and goBilda parts
 	- If everything seems alright, build a minimum functioning prototype and test
 	- are there any changes that need to be made? if so then return to sketch/modeling phase
-3. Construction
-	- Build a high-quality
+3. Testing
+	- Extensive testing should be put in place to ensure the part is the best it possibly can be
+	- If changed need to be made, return to sketch/prototype
+4. Construction
+	- Build a high-quality version with intended use on the final robot. This should not be changed except in a dire case such as breakage
+## Software
+- Utilize modularity cleanly but not excessively
+- Utilize control theory concepts
+- Utilize Git when necessary for collaboration
+## Driving
+- Lots of driving practice
+- Finalize robot at least a week before competitions in order to give time for driver practice
+- Use different scenarios and challenges such as a part breaking or another robot getting in the way
+	- do not tell the drivers beforehand - learn to adapt to different situations
+- Don't be afraid of using 2 drivers
