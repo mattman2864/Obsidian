@@ -1,3 +1,8 @@
+one thing first:
+***BE PRESENT***
+***BE ON TIME***
+***BE FOCUSED AND INVOLVED***
+If we can do those three things, we can be a much, much better team. I believe that if we do these things and the things I list below, we can be competitive witht 
 # Before Next Season
 ## Offseason Event
 ### Ideas for game
@@ -22,7 +27,6 @@
 	- pull requests
 	- commits
 	- pushes
-	- etc
 - Look into possible fundraising opportunities
 	- waffle bake sale
 	- cold email/call
@@ -51,7 +55,18 @@
 - Utilize Git when necessary for collaboration
 ## Driving
 - Lots of driving practice
+	- Use our own field if possible, if not then the MESH is fine
 - Finalize robot at least a week before competitions in order to give time for driver practice
 - Use different scenarios and challenges such as a part breaking or another robot getting in the way
 	- do not tell the drivers beforehand - learn to adapt to different situations
 - Don't be afraid of using 2 drivers
+# Time Management
+- Programming can begin *before* construction, if a basic plan is created. appropriate adjustments in the program can be made as the physical robot changes
+- Robot should be given to programmers at a certain point to complete autos (depends how long autos take)
+- If first competition is in December, get autos in a basic workable state, otherwise use winter break to make autos get extra points (i.e. cycling in auto/scoring extra game elements)
+## Outreach
+- Although we do some outreach during the season, and that is okay, we should absolutely not prioritize outreach over work on the robot. Other teams are simply very very good at outreach, and there is no chance for us to even be considered.
+- We have not won even 3rd place for any award that considers outreach, we are far from those teams
+- Outreach should only be for
+	- low-effort events such as a couple hours one night
+	- fundraising
