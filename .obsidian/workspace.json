@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decision to Drop the Atomic Bomb.md",
+                "file": "Baby Boom.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Decision to Drop the Atomic Bomb.md",
+                "file": "Baby Boom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Decision to Drop the Atomic Bomb.md",
+                "file": "Baby Boom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Decision to Drop the Atomic Bomb.md"
+                "file": "Baby Boom.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "c6fc41e8d7c19194",
   "lastOpenFiles": [
-    "Wartime Conferences.md",
+    "Levittowns and the Suburbs.md",
+    "Baby Boom.md",
     "Decision to Drop the Atomic Bomb.md",
+    "Wartime Conferences.md",
     "Manhattan Project.md",
     "conflict-files-obsidian-git.md",
     "Harry Truman.md",
@@ -210,8 +212,6 @@
     "Potosí.md",
     "Philanthropy.md",
     "OpenControlDiagram.bmp",
-    "Open Loop Control.md",
-    "Ireland.md",
     "BangBang.bmp",
     "The Art of Painting by Jan Vermeer.jpg",
     "Net Force Diagram.svg",
