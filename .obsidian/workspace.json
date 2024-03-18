@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "McCarthyism.md",
+                "file": "Civil Rights Movement.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "McCarthyism.md",
+                "file": "Civil Rights Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "McCarthyism.md",
+                "file": "Civil Rights Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "McCarthyism.md"
+                "file": "Civil Rights Movement.md"
               }
             }
           },
@@ -183,8 +183,11 @@
   },
   "active": "c6fc41e8d7c19194",
   "lastOpenFiles": [
-    "Fallout Shelters.md",
+    "National Interstate Highways Defense Act.md",
+    "Civil Rights Movement.md",
+    "TV in the 1950s.md",
     "McCarthyism.md",
+    "Fallout Shelters.md",
     "Baby Boom.md",
     "Levittowns and the Suburbs.md",
     "Decision to Drop the Atomic Bomb.md",
@@ -206,10 +209,7 @@
     "US Road to WWII.md",
     "US Homefront in World War II.md",
     "Britain.md",
-    "Kellogg-Briand Pact.md",
-    "Treaty of Versailles.md",
     "b9dyc2ts.bmp",
-    "Y-Intercept.md",
     "ProportionalController.bmp",
     "OpenControlDiagram.bmp",
     "BangBang.bmp",
