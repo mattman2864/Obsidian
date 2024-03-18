@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baby Boom.md",
+                "file": "McCarthyism.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baby Boom.md",
+                "file": "McCarthyism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baby Boom.md",
+                "file": "McCarthyism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Baby Boom.md"
+                "file": "McCarthyism.md"
               }
             }
           },
@@ -183,8 +183,10 @@
   },
   "active": "c6fc41e8d7c19194",
   "lastOpenFiles": [
-    "Levittowns and the Suburbs.md",
+    "Fallout Shelters.md",
+    "McCarthyism.md",
     "Baby Boom.md",
+    "Levittowns and the Suburbs.md",
     "Decision to Drop the Atomic Bomb.md",
     "Wartime Conferences.md",
     "Manhattan Project.md",
@@ -209,8 +211,6 @@
     "b9dyc2ts.bmp",
     "Y-Intercept.md",
     "ProportionalController.bmp",
-    "Potosí.md",
-    "Philanthropy.md",
     "OpenControlDiagram.bmp",
     "BangBang.bmp",
     "The Art of Painting by Jan Vermeer.jpg",

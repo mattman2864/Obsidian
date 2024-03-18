@@ -1,0 +1,2 @@
+#APUSH 
+McCarthyism was the political repression and persecution of left-wing and [[Communism|Communist]] individuals and a campaign spreading fear of alleged communist and [[Soviet Union|Soviet]] espionage in the [[United States]] during the 1940s & 50s.
