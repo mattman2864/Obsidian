@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Civil Rights Movement.md",
+                "file": "Sputnik.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Civil Rights Movement.md",
+                "file": "Sputnik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Civil Rights Movement.md",
+                "file": "Sputnik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Civil Rights Movement.md"
+                "file": "Sputnik.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "c6fc41e8d7c19194",
   "lastOpenFiles": [
-    "National Interstate Highways Defense Act.md",
     "Civil Rights Movement.md",
+    "Sputnik.md",
+    "National Interstate Highways Defense Act.md",
     "TV in the 1950s.md",
     "McCarthyism.md",
     "Fallout Shelters.md",
@@ -208,7 +209,6 @@
     "Sussex Pledge.md",
     "US Road to WWII.md",
     "US Homefront in World War II.md",
-    "Britain.md",
     "b9dyc2ts.bmp",
     "ProportionalController.bmp",
     "OpenControlDiagram.bmp",
