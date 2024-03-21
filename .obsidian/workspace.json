@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36c8ec5d405fbfc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plans for Robotics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plans for Robotics.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans for Robotics.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,35 +191,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a7706e6b8765c14",
+  "active": "36c8ec5d405fbfc3",
   "lastOpenFiles": [
-    "www.ctrlaltftc.com.md",
     "Plans for Robotics.md",
     "conflict-files-obsidian-git.md",
+    "b9dyc2ts.bmp",
+    "Jim Crow Laws.md",
+    "Ireland.md",
+    "Indian Wars.md",
+    "Harry Truman.md",
+    "Great Plains.md",
+    "Good-Neighbor Policy.md",
+    "Gold Rush.md",
+    "Gilded Age.md",
+    "Full State Feedback.md",
+    "Decision to Drop the Atomic Bomb.md",
+    "D-Day.md",
+    "Cornelius Vanderbilt.md",
+    "Conservation Movement.md",
+    "Commercial Revolution.md",
+    "Closed Loop Control.md",
+    "Central Powers.md",
+    "Cattle Farming.md",
+    "Booker T Washington.md",
+    "BangBang.bmp",
+    "Allied Powers (WWI).md",
+    "Alaska.md",
+    "www.ctrlaltftc.com.md",
     "Game Ideas.md",
     "Vertical Integration.md",
-    "Trust.md",
-    "Triangle.md",
-    "Transcontinental Railroad.md",
-    "Plains Indians.md",
-    "Parabola.md",
-    "Newland's Reclamation Act.md",
-    "National Labor Union.md",
-    "National Grange.md",
-    "Massachusetts.md",
-    "Game Planning.md",
-    "Frederick Turner's Frontier Thesis.md",
-    "Economic Growth in US.md",
-    "Dawes Severalty Act.md",
-    "Andrew Carnegie.md",
-    "American Federation of Labor.md",
-    "Acceleration.md",
-    "Slope.md",
-    "Minecraft/Things to Build in New Area.md",
     "Minecraft",
-    "Parametric Equations.md",
-    "Wilmot Proviso.md",
-    "Treaty of Guadalupe Hidalgo.md",
     "Pasted image 20230920110202.png",
     "Pasted image 20230920130033.png",
     "Pasted image 20230926131407.png",
@@ -217,8 +229,6 @@
     "Pasted image 20231105233230.png",
     "Pasted image 20231105233650.png",
     "American Progress by John Gast.jpg",
-    "Alexander Hamilton Portrait.jpg",
-    "1796 Election Results.png",
     "Vector.svg.xml",
     "Excalidraw"
   ]

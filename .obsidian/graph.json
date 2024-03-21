@@ -29,13 +29,6 @@
       }
     },
     {
-      "query": "tag:#Math  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084188
-      }
-    },
-    {
       "query": "tag:#Statistics  ",
       "color": {
         "a": 1,
@@ -76,10 +69,17 @@
         "a": 1,
         "rgb": 28415
       }
+    },
+    {
+      "query": "Math",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 0.993229166666667,
   "lineSizeMultiplier": 0.865625,
@@ -88,6 +88,6 @@
   "repelStrength": 14.0625,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.12763555502116192,
-  "close": false
+  "scale": 0.11079182165953876,
+  "close": true
 }

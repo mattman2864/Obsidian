@@ -1,0 +1,2 @@
+#APUSH #APEuro 
+The Central Powers in [[World War I]] consisted of [[Germany]], [[Austria-Hungary]], [[Bulgaria]], and the [[Ottoman Empire]]. Largely located in [[Central Europe]], it began as an alliance between Germany and Austria-Hungary.

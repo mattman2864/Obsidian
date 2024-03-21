@@ -1,0 +1,2 @@
+#APUSH 
+[[Woodrow Wilson]] declared US neutrality in [[World War I]] on August 4, 1914 because it was seen as a European-only conflict. While the US did remain neutral for most of the war, they did eventually join the conflict on the side of the [[Allied Powers (WWI)]] in 1917.

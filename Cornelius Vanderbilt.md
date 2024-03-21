@@ -1,0 +1,2 @@
+#APUSH
+Cornelius Vanderbilt was an [[United States|American]] steamboat and railroad tycoon, and one of the richest people in American history. He owned a massive business in the steamboat industry, and then transitioned to railroads, which was massively successful.

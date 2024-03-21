@@ -3,7 +3,11 @@
   "interfaceFontFamily": "Ubuntu",
   "accentColor": "",
   "baseFontSize": 17,
+<<<<<<< HEAD
   "cssTheme": "Atom",
+=======
+  "cssTheme": "Prism",
+>>>>>>> origin/main
   "enabledCssSnippets": [
     "snippet"
   ],

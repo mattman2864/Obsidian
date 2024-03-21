@@ -1,0 +1,2 @@
+#APUSH
+[[Franklin Roosevelt]] gave the famous Quarantine Speech in 1937. In it, he declared that war was a disease that needed to be quarantined. He stated that he would be willing to work with other peaceful nations to stop the spread of war.
