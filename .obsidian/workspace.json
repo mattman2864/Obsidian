@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sputnik.md",
+                "file": "Combining Two Proportions.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sputnik.md",
+                "file": "Combining Two Proportions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sputnik.md",
+                "file": "Combining Two Proportions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sputnik.md"
+                "file": "Combining Two Proportions.md"
               }
             }
           },
@@ -183,8 +183,9 @@
   },
   "active": "c6fc41e8d7c19194",
   "lastOpenFiles": [
-    "Civil Rights Movement.md",
     "Sputnik.md",
+    "Combining Two Proportions.md",
+    "Civil Rights Movement.md",
     "National Interstate Highways Defense Act.md",
     "TV in the 1950s.md",
     "McCarthyism.md",
@@ -208,7 +209,6 @@
     "Good-Neighbor Policy.md",
     "Sussex Pledge.md",
     "US Road to WWII.md",
-    "US Homefront in World War II.md",
     "b9dyc2ts.bmp",
     "ProportionalController.bmp",
     "OpenControlDiagram.bmp",
