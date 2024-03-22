@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Combining Two Proportions.md",
+                "file": "Queue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06c939a8607e67ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Combining Two Proportions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Combining Two Proportions.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combining Two Proportions.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -164,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,10 +193,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c6fc41e8d7c19194",
+  "active": "06c939a8607e67ac",
   "lastOpenFiles": [
-    "Sputnik.md",
+    "Queue.md",
+    "conflict-files-obsidian-git.md",
+    "Data Structure.md",
+    "Memory.md",
     "Combining Two Proportions.md",
+    "www.ctrlaltftc.com.md",
+    "Plans for Robotics.md",
+    "Sputnik.md",
     "Civil Rights Movement.md",
     "National Interstate Highways Defense Act.md",
     "TV in the 1950s.md",
@@ -195,7 +213,6 @@
     "Decision to Drop the Atomic Bomb.md",
     "Wartime Conferences.md",
     "Manhattan Project.md",
-    "conflict-files-obsidian-git.md",
     "Harry Truman.md",
     "WWII Rescue and Liberation.md",
     "Yalta Conference.md",
@@ -204,11 +221,6 @@
     "United States in World War II.md",
     "V-E Day.md",
     "D-Day.md",
-    "Quarantine Speech.md",
-    "Neutrality Acts.md",
-    "Good-Neighbor Policy.md",
-    "Sussex Pledge.md",
-    "US Road to WWII.md",
     "b9dyc2ts.bmp",
     "ProportionalController.bmp",
     "OpenControlDiagram.bmp",
