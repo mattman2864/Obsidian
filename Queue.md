@@ -6,4 +6,3 @@ A queue is a [[Data Structure]] following the principle of **FIFO** (First In, F
 `dequeue`: removes item from end of queue
 `peek`: return last item in queue
 `size`: return size of queue
-# [[C]]
