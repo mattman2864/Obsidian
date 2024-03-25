@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Queue.md",
+                "file": "Plans for Robotics.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Queue.md",
+                "file": "Plans for Robotics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Queue.md",
+                "file": "Plans for Robotics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Queue.md"
+                "file": "Plans for Robotics.md"
               }
             }
           },
@@ -164,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +182,8 @@
   },
   "active": "c6fc41e8d7c19194",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Queue.md",
+    "conflict-files-obsidian-git.md",
     "Data Structure.md",
     "Memory.md",
     "Combining Two Proportions.md",
