@@ -12,5 +12,16 @@ Walmart The High Cost of Low Price is a 2005 documentary about the unethical bus
 	- Republican guy pro-union
 	- Poverty as a result of Walmart
 	- H&H Hardware goes out of business
+		- Owner is able to sell without going into debt
 	- Walmart destroys small towns
-	- "Wal-Mart D"
+	- "Wal-Mart Drives Down Retail Wages $3 Billion Every Year"
+	- Small business owners that pay employees better wages go out of business
+- Walmart Employees
+	- purposely short-staffed to cut costs - negatively impacts workers
+	- workers having to put in extra time to make up for the lack of employees
+	- Juxtaposes CEOs bragging about benefits with workers talking about their day-to-day as workers
+	- Walmart Workers relying on welfare
+	- Medical coverage that exists is not enough
+	- single parents having to choose between caring for their children and food
+	- Walmart encouraging employees to go on welfare
+	- 
