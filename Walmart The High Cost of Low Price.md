@@ -19,7 +19,7 @@ Walmart The High Cost of Low Price is a 2005 documentary about the unethical bus
 - Walmart Employees
 	- purposely short-staffed to cut costs - negatively impacts workers
 	- workers having to put in extra time to make up for the lack of employees
-	- Juxtaposes CEOs bragging about benefits with workers talking about their day-to-day as workers
+	- Juxtaposes CEOs bragging about benefits with workers talking about their day-to-day struggles
 	- Walmart Workers relying on welfare
 	- Medical coverage that exists is not enough
 	- single parents having to choose between caring for their children and food
@@ -27,7 +27,12 @@ Walmart The High Cost of Low Price is a 2005 documentary about the unethical bus
 	- You are worried about whether you will have enough food on the table, but you have to walk in with a smile on your face and fake it
 	- Tens of thousands of Walmart employees and their families on welfare in each state
 	- Walmart costs taxpayers $1,557,000,000 to support employees
-- Walmart very anti-union
-	- "Third-Party Representation"
-	- aggressive union-busting
-	- 
+	- Walmart very anti-union
+		- "Third-Party Representation"
+		- aggressive union-busting
+		- Walmart spends millions to prevent unions
+	- Forced to do impossible jobs in order to keep job
+	- Trains managers how to cheat workers out of overtime
+- Dozens of lawsuits for wage abuses
+- Walmart average wage well below poverty line
+- 
