@@ -20,17 +20,31 @@
             }
           },
           {
-            "id": "c468fbc39c270eab",
+            "id": "69e72850dfbf88c7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.8"
+                "file": "Walmart The High Cost of Low Price.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d80ae0f8462fdd7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Full State Feedback.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -131,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Full State Feedback.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Full State Feedback.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Full State Feedback.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -208,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Full State Feedback.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,34 +271,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c468fbc39c270eab",
+  "active": "d80ae0f8462fdd7b",
   "lastOpenFiles": [
+    "Walmart The High Cost of Low Price.md",
+    "conflict-files-obsidian-git.md",
+    "Full State Feedback.md",
+    "Yalta Conference.md",
+    "Wartime Conferences.md",
+    "WWII Rescue and Liberation.md",
+    "V-E Day.md",
+    "TV in the 1950s.md",
+    "Sputnik.md",
+    "Plans for Robotics.md",
+    "Nuremberg Trials.md",
+    "Navajo Code Talkers.md",
+    "National Interstate Highways Defense Act.md",
+    "McCarthyism.md",
+    "Manhattan Project.md",
+    "Levittowns and the Suburbs.md",
+    "Fallout Shelters.md",
+    "Decision to Drop the Atomic Bomb.md",
+    "Data Structure.md",
+    "D-Day.md",
+    "Combining Two Proportions.md",
+    "Civil Rights Movement.md",
+    "Baby Boom.md",
     "United States in World War II.md",
     "US Road to WWII.md",
     "US Homefront in World War II.md",
-    "Treaty of Versailles.md",
-    "Sussex Pledge.md",
-    "Quarantine Speech.md",
-    "Neutrality Acts.md",
-    "Kellogg-Briand Pact.md",
-    "Harry Truman.md",
-    "Good-Neighbor Policy.md",
-    "Annexation of Texas.md",
-    "Full State Feedback.md",
-    "Louisiana Purchase.md",
-    "John Adams.md",
-    "Wilmot Proviso.md",
-    "Hartford Convention.md",
-    "National Road.md",
-    "Tension.md",
-    "Flat Boat.md",
-    "Projectile.md",
-    "Boolean.md",
-    "Linked List.md",
-    "Point Estimator.md",
-    "Gospel of Wealth.md",
-    "Function.md",
-    "Civil War.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
     "OpenControlDiagram.bmp",
