@@ -33,6 +33,8 @@ Walmart The High Cost of Low Price is a 2005 documentary about the unethical bus
 		- Walmart spends millions to prevent unions
 	- Forced to do impossible jobs in order to keep job
 	- Trains managers how to cheat workers out of overtime
-- Dozens of lawsuits for wage abuses
-- Walmart average wage well below poverty line
-- 
+	- Dozens of lawsuits for wage abuses
+	- Walmart average wage well below poverty line
+	- Women discriminated in the workplace
+	- Blatant racism and sexism
+	- 
