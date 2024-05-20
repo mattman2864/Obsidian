@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c468fbc39c270eab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +257,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01588ffe576f770e",
+  "active": "c468fbc39c270eab",
   "lastOpenFiles": [
     "United States in World War II.md",
     "US Road to WWII.md",
