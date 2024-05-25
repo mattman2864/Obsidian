@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8af61379f7e10563",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,7 +259,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "69e72850dfbf88c7",
+  "active": "8af61379f7e10563",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Walmart The High Cost of Low Price.md",
