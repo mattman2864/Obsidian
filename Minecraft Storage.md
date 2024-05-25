@@ -21,7 +21,11 @@
 	- Raw Meat
 	- Cooked Meat
 	- Golden Food
-	- Farm
+	- Farm Items
 - Materials
 	- Valuables
+	- Mob Loot
+	- Armor Trims & Upgrade Templates
 	- 
+	- Other Materials
+- 
