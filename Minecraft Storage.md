@@ -17,6 +17,11 @@
 	- Tools + Weapons
 	- Bows
 	- Crossbows
+	- Utility
+		- Fireworks
+		- Totems
+		- Buckets/Filled Buckets
+		- Leads
 - Food
 	- Raw Meat
 	- Cooked Meat
@@ -26,6 +31,15 @@
 	- Valuables
 	- Mob Loot
 	- Armor Trims & Upgrade Templates
-	- 
 	- Other Materials
-- 
+- Wood
+	- Acacia
+	- Birch
+	- Cherry
+	- Crimson
+	- Dark Oak
+	- Jungle
+	- Mangrove
+	- Oak
+	- Spruce
+	- Warped
