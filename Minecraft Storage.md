@@ -1,0 +1,27 @@
+- Earth
+	- Cobblestone
+	- Stone
+	- Diorite/Andesite/Granite
+	- Other Natural Variants
+	- Dirt
+	- Sand/Gravel
+	- Clay/Terracotta
+- Building Blocks
+	- Stone Bricks
+	- Bricks
+	- Smooth Stone
+	- Glass
+	- Other Building Blocks
+- Gear
+	- Armor
+	- Tools + Weapons
+	- Bows
+	- Crossbows
+- Food
+	- Raw Meat
+	- Cooked Meat
+	- Golden Food
+	- Farm
+- Materials
+	- Valuables
+	- 

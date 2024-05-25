@@ -20,12 +20,14 @@
             }
           },
           {
-            "id": "8af61379f7e10563",
+            "id": "0e9235f21ad1250f",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Minecraft Storage.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -97,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Walmart The High Cost of Low Price.md",
+                "file": "Minecraft Storage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Walmart The High Cost of Low Price.md",
+                "file": "Minecraft Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Walmart The High Cost of Low Price.md",
+                "file": "Minecraft Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Walmart The High Cost of Low Price.md"
+                "file": "Minecraft Storage.md"
               }
             }
           },
@@ -209,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Walmart The High Cost of Low Price.md",
+                "file": "Minecraft Storage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,10 +261,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8af61379f7e10563",
+  "active": "0e9235f21ad1250f",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Minecraft Storage.md",
     "Walmart The High Cost of Low Price.md",
+    "conflict-files-obsidian-git.md",
     "Full State Feedback.md",
     "Yalta Conference.md",
     "Wartime Conferences.md",
@@ -286,7 +289,6 @@
     "Baby Boom.md",
     "United States in World War II.md",
     "US Road to WWII.md",
-    "US Homefront in World War II.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
     "OpenControlDiagram.bmp",
