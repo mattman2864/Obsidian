@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "266127d57e472f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft Mod Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Mod Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Mod Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Mod Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Storage.md"
+                "file": "Minecraft Mod Ideas.md"
               }
             }
           },
@@ -211,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Mod Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,9 +273,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e9235f21ad1250f",
+  "active": "266127d57e472f0b",
   "lastOpenFiles": [
     "Minecraft Storage.md",
+    "Minecraft Mod Ideas.md",
     "Walmart The High Cost of Low Price.md",
     "conflict-files-obsidian-git.md",
     "Full State Feedback.md",
@@ -288,7 +301,6 @@
     "Civil Rights Movement.md",
     "Baby Boom.md",
     "United States in World War II.md",
-    "US Road to WWII.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
     "OpenControlDiagram.bmp",
