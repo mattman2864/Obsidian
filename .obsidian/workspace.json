@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a609a4b607f30939",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,7 +283,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "266127d57e472f0b",
+  "active": "a609a4b607f30939",
   "lastOpenFiles": [
     "Minecraft Storage.md",
     "Minecraft Mod Ideas.md",
