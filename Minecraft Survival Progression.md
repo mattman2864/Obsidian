@@ -21,17 +21,14 @@
 - [x] Villager Trading Hall for Enchanted Books
 - [x] Iron Farm
 - [x] Enderman XP farm
-- [x] Large Strip Mine w. Fortune III
 # Expanding Automation
 - [x] General Mob Farm
 - [ ] Slime Farm
-- [ ] Gold Farm
-- [ ] Raid Farm
+- [x] Gold Farm
+- [x] Raid Farm
 - [ ] Wither Skeleton Farm
 - [ ] Mega Beacon
 # Late Game Builds
-- [ ] End Portal Base
-	- [ ] Super Storage
-	- [ ] More Mega Beacons
-	- [ ] Buildings surrounding hole
+- [ ] Super Storage
+- [ ] More Mega Beacons
 - [ ] Guardian Farm
