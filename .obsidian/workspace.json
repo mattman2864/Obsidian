@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Minecraft Storage.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Minecraft Storage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Minecraft Storage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Minecraft Storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Survival Progression.md"
+                "file": "Minecraft Storage.md"
               }
             }
           },
@@ -198,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Survival Progression.md",
+                "file": "Minecraft Storage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,6 +250,7 @@
   },
   "active": "f28b5791aefe0932",
   "lastOpenFiles": [
+    "Minecraft Survival Progression.md",
     "Walmart The High Cost of Low Price.md",
     "Minecraft Storage.md",
     "Minecraft Mod Ideas.md",
@@ -275,7 +276,6 @@
     "Combining Two Proportions.md",
     "Civil Rights Movement.md",
     "Baby Boom.md",
-    "United States in World War II.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
     "OpenControlDiagram.bmp",
