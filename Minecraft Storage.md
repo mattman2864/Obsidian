@@ -1,39 +1,79 @@
 - Natural
 	- Azalea
+	- Cactus
+	- Coral
+		- Tube Coral
+			- Tube Coral Block
+			- Dead Tube Coral Block
+			- Tube Coral
+			- Dead Tube Coral
+			- Tube Coral Fan
+			- Dead Tube Coral Fan
 	- Sculk Catalyst
 	- Sculk Sensor
 	- Spore Blossom
 - Wood
-	- Acacia Log
-	- Acacia Trapdoor
-	- Bamboo Fence
-	- Dark Oak Leaves
-	- Oak Pressure Plate
-	- Stripped Mangrove Log
-	- Stripped Spruce Wood
-	- Spruce Boat
-	- Warped Stem
+	- Acacia
+		- Acacia Log
+		- Acacia Trapdoor
+		- Acacia Pressure Plate
+		- Acacia Button
+	- Bamboo
+		- Bamboo Fence
+	- Birch
+		- Birch Trapdoor
+	- Dark Oak
+		- Dark Oak Leaves
+	- Oak
+		- Oak Wood Slab
+		- Oak Pressure Plate
+		- Oak Sign
+		- Oak Hanging Sign
+	- Mangrove
+		- Stripped Mangrove Log
+	- Spruce
+		- Stripped Spruce Wood
+		- Spruce Boat
+	- Warped
+		- Warped Stem
 - Mob Drops/Other Ingredients
 	- Bottle
+	- Flint
 	- Honeycomb
+	- Nether Star
 	- Prismarine Crystals
 - Food 
+	- Baked Potato
+	- Poisonous Potato
 - Stone
+	- Deepslate
+	- Cracked Deepslate Tiles
+	- Red Sandstone
 	- Red Sandstone Stairs
+	- Smooth Stone
 - Building Blocks
 	- Quartz Bricks
 	- Tinted Glass
 	- Torch
 - Color
-	- Pink Banner
-	- Lime Carpet
-	- Blue Terracotta
-	- Black Wool
-	- Light Blue Wool
+	- Banners
+		- Pink Banner
+	- Carpet
+		- Lime Carpet
+	- Terracotta
+		- Blue Terracotta
+	- Wool
+		- Black Wool
+		- Light Blue Wool
+		- Magenta Wool
 - Minerals
-	- Block of Coal
-	- Iron Ore
+	- Coal
+		- Block of Coal
+	- Iron
+		- Iron Ore
 - Nether
+	- Nether Brick
+		- Nether Brick Wall
 - End
 - Redstone
 	- Powered Rail
