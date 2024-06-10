@@ -1,4 +1,5 @@
 - Natural
+	- Block of Amethyst
 	- Amethyst Cluster
 	- Amethyst Shard
 	- Azalea
@@ -90,6 +91,8 @@
 - Mob Drops/Other Ingredients
 	- Armadillo Scute
 	- Arrow
+	- Blaze Powder
+	- Blaze Rod
 	- Bottle
 	- Flint
 	- Honeycomb
@@ -119,6 +122,7 @@
 	- Beacon
 	- Bee Hive
 	- Bell
+	- Blast Furnace
 	- Quartz Bricks
 	- Tinted Glass
 	- Torch
@@ -191,6 +195,74 @@
 		- Purple Concrete Powder
 		- Magenta Concrete Powder
 		- Pink Concrete Powder
+	- Dye
+		- White Dye
+		- Light Grey Dye
+		- Grey Dye
+		- Black Dye
+		- Brown Dye
+		- Red Dye
+		- Orange Dye
+		- Yellow Dye
+		- Lime Dye
+		- Green Dye
+		- Cyan Dye
+		- Light Blue Dye
+		- Blue Dye
+		- Purple Dye
+		- Magenta Dye
+		- Pink Dye
+	- Glazed Terracotta
+		-  White Glazed Terracotta
+		- Light Grey Glazed Terracotta
+		- Grey Glazed Terracotta
+		- Black Glazed Terracotta
+		- Brown Glazed Terracotta
+		- Red Glazed Terracotta
+		- Orange Glazed Terracotta
+		- Yellow Glazed Terracotta
+		- Lime Glazed Terracotta
+		- Green Glazed Terracotta
+		- Cyan Glazed Terracotta
+		- Light Blue Glazed Terracotta
+		- Blue Glazed Terracotta
+		- Purple Glazed Terracotta
+		- Magenta Glazed Terracotta
+		- Pink Glazed Terracotta
+	- Stained Glass
+		-  White Stained Glass
+		- Light Grey Stained Glass
+		- Grey Stained Glass
+		- Black Stained Glass
+		- Brown Stained Glass
+		- Red Stained Glass
+		- Orange Stained Glass
+		- Yellow Stained Glass
+		- Lime Stained Glass
+		- Green Stained Glass
+		- Cyan Stained Glass
+		- Light Blue Stained Glass
+		- Blue Stained Glass
+		- Purple Stained Glass
+		- Magenta Stained Glass
+		- Pink Stained Glass
+	- Stained Glass Pane
+		-  White Stained Glass Pane
+		- Light Grey Stained Glass Pane
+		- Grey Stained Glass Pane
+		- Black Stained Glass Pane
+		- Brown Stained Glass Pane
+		- Red Stained Glass Pane
+		- Orange Stained Glass Pane
+		- Yellow Stained Glass Pane
+		- Lime Stained Glass Pane
+		- Green Stained Glass Pane
+		- Cyan Stained Glass Pane
+		- Light Blue Stained Glass Pane
+		- Blue Stained Glass Pane
+		- Purple Stained Glass Pane
+		- Magenta Stained Glass Pane
+		- Pink Stained Glass Pane
 	- Terracotta
 		 White Terracotta
 		- Light Grey Terracotta
@@ -228,12 +300,41 @@
 - Minerals
 	- Coal
 		- Block of Coal
+		- Coal
 	- Iron
+		- Block of Iron
+		- Iron Ingot
+		- Iron Nugget
 		- Iron Ore
+		- Deepslate Iron Ore
+		- Raw iron
+		- Block of Raw Iron
+	- Lapis Lazuli
+		- Block of Lapis Lazuli
+		- Lapis Lazuli Ore
+		- Deepslate Lapis Lazuli Orew
 	- Netherite
 		- Ancient Debris
 - Nether
 	- Basalt
+	- Blackstone
+		- Blackstone
+		- Gilded Blackstone
+		- Blackstone Stairs
+		- Blackstone Slab
+		- Blackstone Wall
+		- Polished Blackstone
+		- Chiseled Polished Blackstone
+		- Polished Blackstone Stairs
+		- Polished Blackstone Slab
+		- Polished Blackstone Wall
+		- Polished Blackstone Pressure Plate
+		- Polished Blackstone Button
+		- Polished Blackstone Bricks
+		- Cracked Polished Blackstone Bricks
+		- Polished Blackstone Brick Stair
+		- Polished Blackstone Brick Slab
+		- Polished Blackstone Brick Wall
 	- Nether Brick
 		- Nether Brick Wall
 - End
