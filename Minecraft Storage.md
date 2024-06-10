@@ -1,35 +1,8 @@
-- Earth
-	- Cobblestone
-	- Stone
-	- Diorite/Andesite/Granite
-	- Other Natural Variants
-	- Dirt
-	- Sand/Gravel
-	- Clay/Terracotta
-- Building Blocks
-	- Stone Bricks
-	- Bricks
-	- Smooth Stone
-	- Glass
-	- Other Building Blocks
-- Food
-	- Raw Meat
-	- Cooked Meat
-	- Golden Food
-	- Farm Items
-- Materials
-	- Valuables
-	- Mob Loot
-	- Armor Trims & Upgrade Templates
-	- Other Materials
+- Natural
 - Wood
-	- Acacia
-	- Birch
-	- Cherry
-	- Crimson
-	- Dark Oak
-	- Jungle
-	- Mangrove
-	- Oak
-	- Spruce
-	- Warped
+- Mob Drops
+- Food Stone
+- Color
+- Minerals
+- Nether
+- End
