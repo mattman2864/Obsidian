@@ -8,6 +8,13 @@
 	- Big Dripleaf
 	- Cactus
 	- Coral
+		- Brain Coral
+			- Brain Coral Block
+			- Dead Brain Coral Block
+			- Brain Coral
+			- Dead Brain Coral
+			- Brain Coral Fan
+			- Dead Brain Coral Fan
 		- Tube Coral
 			- Tube Coral Block
 			- Dead Tube Coral Block
@@ -18,6 +25,11 @@
 	- Flowers
 		- Allium
 		- Azure bluet
+		- Blue Orchid
+	- Ice
+		- Ice
+		- Packed Ice
+		- Blue Ice
 	- Sculk Catalyst
 	- Sculk Sensor
 	- Spore Blossom
@@ -93,7 +105,17 @@
 	- Arrow
 	- Blaze Powder
 	- Blaze Rod
+	- Bone
+	- Bone Block
+	- Bone Meal
+	- Book
+	- Bowl
 	- Bottle
+	- brick
+	- brown mushroom
+	- brown mushroom block
+	- red mushroom
+	- red mushroom block
 	- Flint
 	- Honeycomb
 	- Nether Star
@@ -104,6 +126,7 @@
 	- Beetroot
 	- Beetroot Seeds
 	- Beetroot Soup
+	- Bread
 	- Poisonous Potato
 - Stone
 	- Andesite
@@ -123,7 +146,16 @@
 	- Bee Hive
 	- Bell
 	- Blast Furnace
-	- Quartz Bricks
+	- Bookshelf
+	- Brewing Stand
+	- Bricks
+		- Bricks
+		- brick stairs
+		- brick slab
+		- brick wall
+	- Quartz
+		- Block of Quartz
+		- Quartz Bricks
 	- Tinted Glass
 	- Torch
 - Color
@@ -301,6 +333,30 @@
 	- Coal
 		- Block of Coal
 		- Coal
+	- Copper
+		- Block of Copper
+		- Copper ingot
+		- Copper Ore
+		- Deepslate Copper Ore
+		- Raw Copper
+		- Block of Raw Copper
+	- Diamond
+		- Block of Diamond
+		- Diamond
+		- Deepslate Diamond Ore
+	- Emerald
+		- Block of Emerald
+		- Emerald
+		- Emerald Ore
+	- Gold
+		- Block of Gold
+		- Gold Ingot
+		- Gold Nugget
+		- Gold Ore
+		- Deepslate Gold Ore
+		- Nether Gold Ore
+		- Raw Gold
+		- Block of Raw Gold
 	- Iron
 		- Block of Iron
 		- Iron Ingot
@@ -312,9 +368,7 @@
 	- Lapis Lazuli
 		- Block of Lapis Lazuli
 		- Lapis Lazuli Ore
-		- Deepslate Lapis Lazuli Orew
-	- Netherite
-		- Ancient Debris
+		- Deepslate Lapis Lazuli Ore
 - Nether
 	- Basalt
 	- Blackstone
@@ -339,6 +393,7 @@
 		- Nether Brick Wall
 - End
 - Redstone
+	- Block of Redstone
 	- Rails
 		- Activator Rail
 		- Powered Rail
