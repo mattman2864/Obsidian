@@ -4,7 +4,7 @@
 	- Azalea
 	- Azalea Leaves
 	- Bee Nest
-	- 
+	- Big Dripleaf
 	- Cactus
 	- Coral
 		- Tube Coral
@@ -56,7 +56,23 @@
 		- Bamboo Sign
 		- Bamboo Hanging Sign
 	- Birch
+		- Birch Log
+		- Birch Wood
+		- Stripped birch Log
+		- Stripped Birch Wood
+		- birch Planks
+		- Birch Stairs
+		- Birch Slab
+		- Birch Fence
+		- Birch Fence Gate
+		- Birch Door
 		- Birch Trapdoor
+		- Birch Pressure Plate
+		- Birch Button
+		- Birch Sign
+		- Birch Hanging Sign
+		- Birch Leaves
+		- Birch Sapling
 	- Dark Oak
 		- Dark Oak Leaves
 	- Oak
@@ -79,9 +95,12 @@
 	- Honeycomb
 	- Nether Star
 	- Prismarine Crystals
-- Food 
+- Food/Farmables
 	- Apple
 	- Baked Potato
+	- Beetroot
+	- Beetroot Seeds
+	- Beetroot Soup
 	- Poisonous Potato
 - Stone
 	- Andesite
@@ -98,20 +117,114 @@
 	- Armor Stand
 	- Barrell
 	- Beacon
+	- Bee Hive
+	- Bell
 	- Quartz Bricks
 	- Tinted Glass
 	- Torch
 - Color
 	- Banners
+		- White Banner
+		- Light Grey Banner
+		- Grey Banner
+		- Black Banner
+		- Brown Banner
+		- Red Banner
+		- Orange Banner
+		- Yellow Banner
+		- Lime Banner
+		- Green Banner
+		- Cyan Banner
+		- Light Blue Banner
+		- Blue Banner
+		- Purple Banner
+		- Magenta Banner
 		- Pink Banner
 	- Carpet
+		- White Carpet
+		- Light Grey Carpet
+		- Grey Carpet
+		- Black Carpet
+		- Brown Carpet
+		- Red Carpet
+		- Orange Carpet
+		- Yellow Carpet
 		- Lime Carpet
+		- Green Carpet
+		- Cyan Carpet
+		- Light Blue Carpet
+		- Blue Carpet
+		- Purple Carpet
+		- Magenta Carpet
+		- Pink Carpet
+	- Concrete
+		-  White Concrete
+		- Light Grey Concrete
+		- Grey Concrete
+		- Black Concrete
+		- Brown Concrete
+		- Red Concrete
+		- Orange Concrete
+		- Yellow Concrete
+		- Lime Concrete
+		- Green Concrete
+		- Cyan Concrete
+		- Light Blue Concrete
+		- Blue Concrete
+		- Purple Concrete
+		- Magenta Concrete
+		- Pink Concrete
+	- Concrete Powder
+		-  White Concrete Powder
+		- Light Grey Concrete Powder
+		- Grey Concrete Powder
+		- Black Concrete Powder
+		- Brown Concrete Powder
+		- Red Concrete Powder
+		- Orange Concrete Powder
+		- Yellow Concrete Powder
+		- Lime Concrete Powder
+		- Green Concrete Powder
+		- Cyan Concrete Powder
+		- Light Blue Concrete Powder
+		- Blue Concrete Powder
+		- Purple Concrete Powder
+		- Magenta Concrete Powder
+		- Pink Concrete Powder
 	- Terracotta
+		 White Terracotta
+		- Light Grey Terracotta
+		- Grey Terracotta
+		- Black Terracotta
+		- Brown Terracotta
+		- Red Terracotta
+		- Orange Terracotta
+		- Yellow Terracotta
+		- Lime Terracotta
+		- Green Terracotta
+		- Cyan Terracotta
+		- Light Blue Terracotta
 		- Blue Terracotta
+		- Purple Terracotta
+		- Magenta Terracotta
+		- Pink Terracotta
 	- Wool
+		-  White Wool
+		- Light Grey Wool
+		- Grey Wool
 		- Black Wool
+		- Brown Wool
+		- Red Wool
+		- Orange Wool
+		- Yellow Wool
+		- Lime Wool
+		- Green Wool
+		- Cyan Wool
 		- Light Blue Wool
+		- Blue Wool
+		- Purple Wool
 		- Magenta Wool
+		- Pink Wool
 - Minerals
 	- Coal
 		- Block of Coal
