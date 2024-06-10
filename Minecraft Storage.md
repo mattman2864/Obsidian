@@ -1,10 +1,39 @@
 - Natural
+	- Azalea
+	- Sculk Catalyst
+	- Sculk Sensor
+	- Spore Blossom
 - Wood
-- Mob Drops
-- Food Stone
+	- Acacia Log
+	- Acacia Trapdoor
+	- Bamboo Fence
+	- Dark Oak Leaves
+	- Oak Pressure Plate
+	- Stripped Mangrove Log
+	- Stripped Spruce Wood
+	- Spruce Boat
+	- Warped Stem
+- Mob Drops/Other Ingredients
+	- Bottle
+	- Honeycomb
+	- Prismarine Crystals
+- Food 
+- Stone
+	- Red Sandstone Stairs
+- Building Blocks
+	- Quartz Bricks
+	- Tinted Glass
+	- Torch
 - Color
+	- Pink Banner
+	- Lime Carpet
+	- Blue Terracotta
+	- Black Wool
+	- Light Blue Wool
 - Minerals
+	- Block of Coal
+	- Iron Ore
 - Nether
 - End
 - Redstone
-- Bulk
+	- Powered Rail
