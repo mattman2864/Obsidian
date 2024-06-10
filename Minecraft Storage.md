@@ -6,3 +6,5 @@
 - Minerals
 - Nether
 - End
+- Redstone
+- Bulk
