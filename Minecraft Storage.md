@@ -1,5 +1,10 @@
 - Natural
+	- Amethyst Cluster
+	- Amethyst Shard
 	- Azalea
+	- Azalea Leaves
+	- Bee Nest
+	- 
 	- Cactus
 	- Coral
 		- Tube Coral
@@ -9,17 +14,47 @@
 			- Dead Tube Coral
 			- Tube Coral Fan
 			- Dead Tube Coral Fan
+	- Flowers
+		- Allium
+		- Azure bluet
 	- Sculk Catalyst
 	- Sculk Sensor
 	- Spore Blossom
 - Wood
 	- Acacia
 		- Acacia Log
+		- Acacia Wood
+		- Acacia Planks
+		- Acacia Stairs
+		- Acacia Slab
+		- Acacia Fence
+		- Acacia Fence Gate
+		- Acacia Door
 		- Acacia Trapdoor
 		- Acacia Pressure Plate
 		- Acacia Button
+		- Acacia Sign
+		- Acacia Hanging Sign
+		- Acacia Leaves
+		- Acacia Sapling
 	- Bamboo
+		- Bamboo
+		- Block of Bamboo
+		- Block of Stripped Bamboo
+		- Bamboo Planks
+		- Bamboo Mosaic
+		- Bamboo Stairs
+		- Bamboo Mosaic Stairs
+		- Bamboo Slab
+		- Bamboo Mosaic Slab
 		- Bamboo Fence
+		- Bamboo Fence Gate
+		- Bamboo Door
+		- Bamboo Trapdoor
+		- Bamboo Pressure Plate
+		- Bamboo Button
+		- Bamboo Sign
+		- Bamboo Hanging Sign
 	- Birch
 		- Birch Trapdoor
 	- Dark Oak
@@ -37,21 +72,32 @@
 	- Warped
 		- Warped Stem
 - Mob Drops/Other Ingredients
+	- Armadillo Scute
+	- Arrow
 	- Bottle
 	- Flint
 	- Honeycomb
 	- Nether Star
 	- Prismarine Crystals
 - Food 
+	- Apple
 	- Baked Potato
 	- Poisonous Potato
 - Stone
+	- Andesite
+		- Andesite Stairs
+		- Andesite Slab
+		- Andesite Wall
 	- Deepslate
 	- Cracked Deepslate Tiles
 	- Red Sandstone
 	- Red Sandstone Stairs
 	- Smooth Stone
 - Building Blocks
+	- Anvil
+	- Armor Stand
+	- Barrell
+	- Beacon
 	- Quartz Bricks
 	- Tinted Glass
 	- Torch
@@ -71,9 +117,14 @@
 		- Block of Coal
 	- Iron
 		- Iron Ore
+	- Netherite
+		- Ancient Debris
 - Nether
+	- Basalt
 	- Nether Brick
 		- Nether Brick Wall
 - End
 - Redstone
-	- Powered Rail
+	- Rails
+		- Activator Rail
+		- Powered Rail
