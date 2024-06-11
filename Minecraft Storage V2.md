@@ -147,7 +147,9 @@
 		- Sign
 		- Hanging Sign
 		- Leaves
-		- Sapling
+		- Roots
+		- Muddy Roots
+		- propagule
 	- Oak
 		- Log
 		- Wood
@@ -237,7 +239,6 @@
 		- Slab
 		- Polished Slab
 		- Wall
-	- Sand
 	- Sandstone
 		- Stair
 		- Slab
@@ -290,7 +291,12 @@
 		- Wall
 	- dripstone
 		- pointed
-- Mud and Clay
+	- End Stone
+		- Bricks
+			- stair
+			- slab
+			- wall
+- Mud, Clay, Dirt and Sand
 	- Bricks
 		- stairs
 		- slab
@@ -300,6 +306,17 @@
 		- slab
 		- wall
 		- packed
+	- Clay
+	- Dirt
+	- Coarse Dirt
+	- Grass block
+	- gravel
+	- mud
+	- mycelium
+	- podzol
+	- red sand
+	- rooted dirt
+	- sand
 - Nether
 	- Basalt
 		- Polished
@@ -358,9 +375,36 @@
 		- Colors Stained
 		- Panes Colors Stained
 		- Tinted
-	- 
-- Ores and Ore Blocks
+	- Sponge
+	- wet sponge
+	- Prismarine
+		- stairs
+		- slab
+		- wall
+		- dark
+			- stairs
+			- slab
+		- bricks
+			- stairs
+			- slab
+- Minerals
+	- Iron
+		- block
+		- ingot
+		- nugget
+		- ore
+		- deepslate ore
+		- raw
+		- raw block
+- purpur
+	- stair
+	- slab
+	- pillar
 - Colored Blocks
+	- concrete
+	- dyes
+	- 
+	- wool
 - Greenery/Nature
 	- Coral
 		- brain
@@ -398,9 +442,34 @@
 			- dead coral
 			- dead coral block
 			- dead coral fan
-		- 
+	- Ice/Snow
+		- Ice
+		- Packed ice
+		- blue ice
+		- snow
+		- snow block
+	- dried kelp block
+	- kelp
+	- seagrass
+	- sea pickle
 - Crops and Flowers
+	- Chorus Plant
+	- Chorus Flower
 - Mob Drops
 - Decorations
+	- Campfire
+		- soul
+	- End rod
+	- glowstone
+	- shroomlight
+	- jack o lantern
+	- lantern
+		- soul
+	- redstone lamp
+	- sea lantern
+	- torch
+		- soul
+	- iron bars
+	- chain
 - Redstone
 - Misc.
