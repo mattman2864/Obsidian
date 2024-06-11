@@ -299,6 +299,7 @@
 	- obsidian
 		- crying
 	- calcite
+	- gravel
 - Mud, Clay, Dirt and Sand
 	- Bricks
 		- stairs
@@ -568,7 +569,6 @@
 	- carved pumpkin
 	- jack o lantern
 	- pumpkin seeds
-	- hay bale
 	- melon
 	- melon slice
 	- melon seeds
@@ -605,6 +605,8 @@
 	- cookie
 	- pumpkin pie
 	- cocoa beans
+	- hay bale
+	- wheat
 - Mob Drops/Ingredients/Utility Items
 	- armadillo scute
 	- arrow
@@ -639,6 +641,7 @@
 	- glow ink sac
 	- glowstone dust
 	- glass bottle
+	- gunpowder
 - Decorations
 	- Campfire
 		- soul
@@ -681,6 +684,7 @@
 	- armor stand
 	- bookshelf
 	- chiseled bookshelf
+	- glow item frame
 - Redstone
 	- Block
 	- redstone
@@ -711,4 +715,8 @@
 	- jukebox
 	- note block
 	- tnt
+	- light weighted pressure plate
+	- heavy weighted pressure plate
+	- lightning rod
+	- 
 - Misc.
