@@ -555,7 +555,7 @@
 		- fern
 		- grass
 		- tall grass
-		- farn
+		- fern
 		- large fern
 		- lily pad
 		- vines
@@ -610,6 +610,7 @@
 	- arrow
 	- rotten flesh
 	- spider eye
+	- fermented spider eye
 	- bone block
 	- bone
 	- bone meal
@@ -622,15 +623,31 @@
 	- charcoal
 	- clock
 	- compass
+	- disc fragment
+	- dragon head
+	- echo shard
+	- egg
+	- ender pearl
+	- eye of ender
+	- feather
+	- fire charge
+	- firework (dur 3)
+	- firework star
+	- flint
+	- ghast tear
+	- glistering melon
+	- glow ink sac
+	- glowstone dust
+	- glass bottle
 - Decorations
 	- Campfire
 		- soul
 	- End rod
+	- end crystal
 	- glowstone
 	- shroomlight
 	- lantern
 		- soul
-	- redstone lamp
 	- sea lantern
 	- torch
 		- soul
@@ -668,13 +685,13 @@
 	- Block
 	- redstone
 	- deepslate ore
-	- ore
 	- comparator
 	- repeater
 	- daylight detector
 	- lever
 	- observer
 	- torch
+	- redstone lamp
 	- target
 	- tripwire hook
 	- dispenser
