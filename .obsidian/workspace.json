@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e74d7cdb2528bcf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minecraft Storage V2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Storage V2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Storage V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Storage V2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minecraft Storage.md"
+                "file": "Minecraft Storage V2.md"
               }
             }
           },
@@ -198,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Minecraft Storage.md",
+                "file": "Minecraft Storage V2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,11 +261,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f28b5791aefe0932",
+  "active": "e74d7cdb2528bcf8",
   "lastOpenFiles": [
+    "Minecraft Storage.md",
+    "Minecraft Storage V2.md",
     "Minecraft Survival Progression.md",
     "Walmart The High Cost of Low Price.md",
-    "Minecraft Storage.md",
     "Minecraft Mod Ideas.md",
     "conflict-files-obsidian-git.md",
     "Full State Feedback.md",
@@ -275,7 +289,6 @@
     "D-Day.md",
     "Combining Two Proportions.md",
     "Civil Rights Movement.md",
-    "Baby Boom.md",
     "ProportionalController.bmp",
     "BangBang.bmp",
     "OpenControlDiagram.bmp",
