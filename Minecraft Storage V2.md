@@ -351,11 +351,13 @@
 			- stairs
 			- slab
 		- chiseled
+		- ore
 	- Netherrack
 	- Nether Bricks
 		- Stairs
 		- slab
 		- fence
+		- brick
 		- red
 			- stairs
 			- slab
@@ -610,9 +612,6 @@
 - Mob Drops/Ingredients/Utility Items
 	- armadillo scute
 	- arrow
-	- rotten flesh
-	- spider eye
-	- fermented spider eye
 	- bone block
 	- bone
 	- bone meal
@@ -632,6 +631,7 @@
 	- ender pearl
 	- eye of ender
 	- feather
+	- fermented spider eye
 	- fire charge
 	- firework (dur 3)
 	- firework star
@@ -642,6 +642,14 @@
 	- glowstone dust
 	- glass bottle
 	- gunpowder
+	- lead
+	- leather
+	- magma cream
+	- name tag
+	- nautilus shell
+	- 
+	- rotten flesh
+	- spider eye
 - Decorations
 	- Campfire
 		- soul
@@ -684,7 +692,9 @@
 	- armor stand
 	- bookshelf
 	- chiseled bookshelf
+	- item frame
 	- glow item frame
+	- ladder
 - Redstone
 	- Block
 	- redstone
