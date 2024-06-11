@@ -296,6 +296,8 @@
 			- stair
 			- slab
 			- wall
+	- obsidian
+		- crying
 - Mud, Clay, Dirt and Sand
 	- Bricks
 		- stairs
@@ -387,6 +389,10 @@
 		- bricks
 			- stairs
 			- slab
+	- - purpur
+		- stair
+		- slab
+		- pillar
 - Minerals
 	- Iron
 		- block
@@ -396,10 +402,47 @@
 		- deepslate ore
 		- raw
 		- raw block
-- purpur
-	- stair
-	- slab
-	- pillar
+	- gold
+		- block
+		- ingot
+		- nugget
+		- ore
+		- deepslate ore
+		- nether ore
+		- raw
+		- raw block
+	- diamond
+		- diamond block
+		- diamond
+		- deepslate ore
+	- emerald
+		- block
+		- emerald
+		- ore
+	- amethyst
+		- block
+		- cluster
+		- buds
+			- large
+			- medium
+			- small
+	- lapis
+		- block
+		- lapis
+		- deepslate ore
+	- coal
+		- block
+		- coal
+		- ore
+		- deep ore
+	- copper
+		- block
+		- copper
+		- ore
+		- deepslate ore
+		- raw
+		- raw block
+
 - Colored Blocks
 	- concrete
 	- dyes
@@ -452,9 +495,71 @@
 	- kelp
 	- seagrass
 	- sea pickle
+	- skulk
+		- catalyst
+		- skulk
+		- vein
+		- shrieker
+		- sensor
+	- bees
+		- honey block
+		- honeycomb
+		- bee nest
+		- beehive
+		- honey bottle
+		- honeycomb
+	- flowers
+		- allium
+		- azure bluet
+		- blue orchid
+		- cornflower
+		- dandelion
+		- lilac
+		- lily of the valley
+		- orange tulip
+		- oxeye daisy
+		- peony
+		- pink tulip
+		- poppy
+		- red tulip
+		- rose bush
+		- sunflower
+		- white tulip
+		- wither rose
+	- mushrooms
+		- brown mushroom
+		- brown mushroom block
+		- mushroom stem
+		- red mushroom
+		- red mushroom block
+	- cave
+		- big dripleaf
+		- small dripleaf
+		- hanging roots
+		- moss block
+		- moss carpet
+		- glow lichen
+		- spore blossom
+	- shrubbery
+		- dead bush
+		- fern
+		- grass
+		- tall grass
+		- farn
+		- large fern
+		- lily pad
+		- vines
+		- 
 - Crops and Flowers
 	- Chorus Plant
 	- Chorus Flower
+	- cactus
+	- pumpkin
+	- carved pumpkin
+	- jack o lantern
+	- hay bale
+	- melon
+	- sugar cane
 - Mob Drops
 - Decorations
 	- Campfire
@@ -462,7 +567,6 @@
 	- End rod
 	- glowstone
 	- shroomlight
-	- jack o lantern
 	- lantern
 		- soul
 	- redstone lamp
