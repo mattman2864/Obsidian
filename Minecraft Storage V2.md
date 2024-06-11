@@ -203,7 +203,7 @@
 		- Wart Block
 		- Fungus
 - Stone
-	- Stone
+		- Stone
 		- Stairs
 		- Slab
 		- Pressure Plate
@@ -237,6 +237,7 @@
 		- Slab
 		- Polished Slab
 		- Wall
+	- Sand
 	- Sandstone
 		- Stair
 		- Slab
@@ -300,11 +301,104 @@
 		- wall
 		- packed
 - Nether
+	- Basalt
+		- Polished
+		- Smooth
+	- Blackstone
+		- Stairs
+		- slab
+		- wall
+		- polished
+			- stairs
+			- slab
+			- wall
+			- bricks
+				- stairs
+				- slab
+				- wall
+				- cracked
+			- chiseled
+	- gilded
+	- Quartz block
+		- stairs
+		- slab
+		- smooth
+			- stairs
+			- slab
+		- chiseled
+	- Netherrack
+	- Nether Bricks
+		- Stairs
+		- slab
+		- fence
+		- red
+			- stairs
+			- slab
+			- wall
+	- magma
+	- soul sand
+	- soul soil
+	- plants
+		- wart
+		- warped
+			- warped wart block
+			- sprouts
+			- twisting vines
+			- warped fungus
+			- warped roots
+			- nylium
+		- crimson
+			- wart block
+			- weeping vines
+			- fungus
+			- roots
+			- nylium
+- Special Building Blocks\
+	- Glass
+		- Colors Stained
+		- Panes Colors Stained
+		- Tinted
 	- 
-- Special Building Blocks
 - Ores and Ore Blocks
 - Colored Blocks
-- Greenery
+- Greenery/Nature
+	- Coral
+		- brain
+			- coral
+			- coral block
+			- coral fan
+			- dead coral
+			- dead coral block
+			- dead coral fan
+		- bubble
+			- coral
+			- coral block
+			- coral fan
+			- dead coral
+			- dead coral block
+			- dead coral fan
+		- fire
+			- coral
+			- coral block
+			- coral fan
+			- dead coral
+			- dead coral block
+			- dead coral fan
+		- horn
+			- coral
+			- coral block
+			- coral fan
+			- dead coral
+			- dead coral block
+			- dead coral fan
+		- tube
+			- coral
+			- coral block
+			- coral fan
+			- dead coral
+			- dead coral block
+			- dead coral fan
+		- 
 - Crops and Flowers
 - Mob Drops
 - Decorations
