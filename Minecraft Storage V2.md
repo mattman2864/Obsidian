@@ -669,6 +669,7 @@
 	- slimeball
 	- spectral arrow
 	- spider eye
+	- snowball
 	- stick
 	- string
 	- sugar
