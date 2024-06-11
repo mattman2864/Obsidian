@@ -298,17 +298,20 @@
 			- wall
 	- obsidian
 		- crying
+	- calcite
 - Mud, Clay, Dirt and Sand
 	- Bricks
 		- stairs
 		- slab
 		- wall
+		- brick
 	- mud bricks
 		- stairs
 		- slab
 		- wall
 		- packed
 	- Clay
+	- clay ball
 	- Dirt
 	- Coarse Dirt
 	- Grass block
@@ -356,6 +359,8 @@
 			- stairs
 			- slab
 			- wall
+		- chiseled
+		- cracked
 	- magma
 	- soul sand
 	- soul soil
@@ -438,7 +443,7 @@
 		- deep ore
 	- copper
 		- block
-		- copper
+		- ingot
 		- ore
 		- deepslate ore
 		- raw
@@ -554,9 +559,10 @@
 		- large fern
 		- lily pad
 		- vines
+	- cobweb
 - Crops and Flowers
-	- Chorus Plant
 	- Chorus Flower
+	- chorus fruit
 	- cactus
 	- pumpkin
 	- carved pumpkin
@@ -598,8 +604,8 @@
 	- bread
 	- cookie
 	- pumpkin pie
-	- 
-- Mob Drops/Ingredients
+	- cocoa beans
+- Mob Drops/Ingredients/Utility Items
 	- armadillo scute
 	- arrow
 	- rotten flesh
@@ -612,6 +618,10 @@
 	- blaze powder
 	- book
 	- bowl
+	- bucket
+	- charcoal
+	- clock
+	- compass
 - Decorations
 	- Campfire
 		- soul
@@ -624,6 +634,7 @@
 	- sea lantern
 	- torch
 		- soul
+	- candle
 	- iron bars
 	- chain
 	- utility
