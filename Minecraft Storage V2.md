@@ -301,6 +301,7 @@
 		- crying
 	- calcite
 	- gravel
+	- tuff
 - Mud, Clay, Dirt and Sand
 	- Bricks
 		- stairs
@@ -569,6 +570,9 @@
 	- cobweb
 	- pitcher plant
 	- pitcher pod
+	- torchflower
+	- torchflower seeds
+	- turtle egg turtle 
 - Crops and Flowers
 	- Chorus Flower
 	- chorus fruit
@@ -609,13 +613,14 @@
 	- raw salmon
 	- cooked salmon
 	- pufferfish
-	- clownfish
+	- tropical fish
 	- bread
 	- cookie
 	- pumpkin pie
 	- cocoa beans
 	- hay bale
 	- wheat
+	- wheat seeds
 - Mob Drops/Ingredients/Utility Items
 	- armadillo scute
 	- arrow
@@ -659,6 +664,7 @@
 	- rabbit hide
 	- rabbit's foot
 	- rotten flesh
+	- scute
 	- shulker shell
 	- slimeball
 	- spectral arrow
@@ -666,7 +672,6 @@
 	- stick
 	- string
 	- sugar
-	- 
 - Decorations
 	- Campfire
 		- soul
@@ -746,5 +751,4 @@
 	- light weighted pressure plate
 	- heavy weighted pressure plate
 	- lightning rod
-	- 
 - Misc.
