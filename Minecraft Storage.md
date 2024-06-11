@@ -15,6 +15,13 @@
 			- Dead Brain Coral
 			- Brain Coral Fan
 			- Dead Brain Coral Fan
+		- Bubble Coral
+			- Bubble Coral Block
+			- Dead Bubble Coral Block
+			- Bubble Coral
+			- Dead Bubble Coral
+			- Bubble Coral Fan
+			- Dead Bubble Coral Fan
 		- Tube Coral
 			- Tube Coral Block
 			- Dead Tube Coral Block
@@ -114,6 +121,7 @@
 	- brick
 	- brown mushroom
 	- brown mushroom block
+	- bucket
 	- red mushroom
 	- red mushroom block
 	- Flint
@@ -127,16 +135,19 @@
 	- Beetroot Seeds
 	- Beetroot Soup
 	- Bread
+	- Carrot
 	- Poisonous Potato
 - Stone
 	- Andesite
 		- Andesite Stairs
 		- Andesite Slab
 		- Andesite Wall
+	- Calcite
 	- Deepslate
-	- Cracked Deepslate Tiles
-	- Red Sandstone
-	- Red Sandstone Stairs
+		- Cracked Deepslate Tiles
+	- Red Sand
+		- Red Sandstone
+		- Red Sandstone Stairs
 	- Smooth Stone
 - Building Blocks
 	- Anvil
@@ -153,6 +164,9 @@
 		- brick stairs
 		- brick slab
 		- brick wall
+	- Campfire
+	- Candle
+	- Cartography Table
 	- Quartz
 		- Block of Quartz
 		- Quartz Bricks
