@@ -426,6 +426,7 @@
 			- large
 			- medium
 			- small
+		- shard
 	- lapis
 		- block
 		- lapis
@@ -442,7 +443,6 @@
 		- deepslate ore
 		- raw
 		- raw block
-
 - Colored Blocks
 	- concrete
 	- dyes
@@ -549,7 +549,6 @@
 		- large fern
 		- lily pad
 		- vines
-		- 
 - Crops and Flowers
 	- Chorus Plant
 	- Chorus Flower
@@ -559,8 +558,16 @@
 	- jack o lantern
 	- hay bale
 	- melon
+	- melon slice
 	- sugar cane
+	- apple
+	- golden apple
+	- potato
+	- baked potato
+	- sweet bet
 - Mob Drops
+	- armadillo scute
+	- arrow
 - Decorations
 	- Campfire
 		- soul
@@ -575,5 +582,59 @@
 		- soul
 	- iron bars
 	- chain
+	- utility
+		- chest
+		- ender chest
+		- anvil
+		- crafting table
+		- enchanting table
+		- furnace
+		- blast furnace
+		- smoker
+		- barrel
+		- bell
+		- brewing stand
+		- cartography table
+		- cauldron
+		- composter
+		- fletching table
+		- grindstone
+		- lectern
+		- loom
+		- smithing table
+		- stonecutter
+		- scaffolding
+	- flower pot
+	- lodestone
+	- armor stand
 - Redstone
+	- Block
+	- redstone
+	- deepslate ore
+	- ore
+	- comparator
+	- repeater
+	- daylight detector
+	- lever
+	- observer
+	- torch
+	- target
+	- tripwire hook
+	- dispenser
+	- dropper
+	- hopper
+	- trapped chest
+	- piston
+	- sticky piston
+	- slime block
+	- rails
+		- activator rail
+		- detector rail
+		- powered rail
+		- rail
+	- iron trapdoor
+	- iron door
+	- jukebox
+	- note block
+	- tnt
 - Misc.
