@@ -18,7 +18,10 @@
 		- Leaves
 		- Sapling
 	- Azalea
-		- 
+		- Azalea
+		- Flowering Azalea
+		- Azalea Leaves
+		- Flowering Azalea Leaves
 	- Bamboo
 		- Bamboo
 		- Block
@@ -71,8 +74,8 @@
 		- Button 
 		- Sign
 		- Hanging Sign
-		- Leaves
-		- Sapling
+		- Wart Block
+		- Fungus
 	- Dark Oak
 		- Log
 		- Wood
@@ -179,8 +182,8 @@
 		- Button 
 		- Sign
 		- Hanging Sign
-		- Leaves
-		- Sapling
+		- Wart Block
+		- Fungus
 - Stone
 - Mud and Clay
 - Sand
