@@ -217,8 +217,90 @@
 		- Slab
 		- Wall
 	- Andesite
+		- Polished
+		- Stairs
+		- Polished Stairs
+		- Slab
+		- Polished Slab
+		- Wall
+	- Diorite
+		- Polished
+		- Stairs
+		- Polished Stairs
+		- Slab
+		- Polished Slab
+		- Wall
+	- Granite
+		- Polished
+		- Stairs
+		- Polished Stairs
+		- Slab
+		- Polished Slab
+		- Wall
+	- Sandstone
+		- Stair
+		- Slab
+		- Wall
+		- Chiseled
+		- Cut
+		- Cut Slab
+		- Smooth
+		- Smooth Stairs
+		- Smooth Slab
+	- Red Sandstone
+		- Stairs
+		- Slab
+		- Wall
+		- Chiseled
+		- Cut
+		- Cut Slab
+		- Smooth
+		- Smooth Stairs
+		- Smooth Slab
+	- Deepslate
+		- Tiles
+			- Stairs
+			- Slab
+			- Wall
+			- Cracked
+		- bricks
+			- stairs
+			- slab
+			- wall
+			- cracked
+		- chiseled
+		- Cobbled
+			- Stairs
+			- slab
+			- wall
+		- Polished
+			- stairs
+			- slab
+			- wall
+	- Stone Brick
+		- Stairs
+		- Slab
+		- Wall
+		- Cracked
+		- Chiseled
+	- Mossy Stone Bricks
+		- Stairs
+		- Slab
+		- Wall
+	- dripstone
+		- pointed
 - Mud and Clay
-- Sand
+	- Bricks
+		- stairs
+		- slab
+		- wall
+	- mud bricks
+		- stairs
+		- slab
+		- wall
+		- packed
+- Nether
+	- 
 - Special Building Blocks
 - Ores and Ore Blocks
 - Colored Blocks
