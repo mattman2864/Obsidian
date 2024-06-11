@@ -58,6 +58,24 @@
 		- Hanging Sign
 		- Leaves
 		- Sapling
+	- Cherry
+		- Log
+		- Wood
+		- S Log
+		- S Wood
+		- Planks
+		- Stairs
+		- Slabs
+		- Fence
+		- Fence Gate
+		- Door
+		- Trapdoor
+		- Pressure Plate
+		- Button 
+		- Sign
+		- Hanging Sign
+		- Leaves
+		- Sapling
 	- Crimson
 		- Log
 		- Wood
@@ -185,6 +203,20 @@
 		- Wart Block
 		- Fungus
 - Stone
+	- Stone
+		- Stairs
+		- Slab
+		- Pressure Plate
+		- Button
+	- Cobblestone
+		- Stairs
+		- Slab
+		- Wall
+	- Mossy Cobblestone
+		- Stairs
+		- Slab
+		- Wall
+	- Andesite
 - Mud and Clay
 - Sand
 - Special Building Blocks
