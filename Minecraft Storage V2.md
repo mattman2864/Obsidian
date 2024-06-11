@@ -76,6 +76,7 @@
 		- Hanging Sign
 		- Leaves
 		- Sapling
+		- pink petals
 	- Crimson
 		- Log
 		- Wood
@@ -351,7 +352,7 @@
 			- stairs
 			- slab
 		- chiseled
-		- ore
+		- bricks
 	- Netherrack
 	- Nether Bricks
 		- Stairs
@@ -451,6 +452,9 @@
 		- deepslate ore
 		- raw
 		- raw block
+	- Quartz
+		- nether quartz
+		- ore
 - Colored Blocks
 	- concrete
 	- concrete powder
@@ -563,9 +567,12 @@
 		- lily pad
 		- vines
 	- cobweb
+	- pitcher plant
+	- pitcher pod
 - Crops and Flowers
 	- Chorus Flower
 	- chorus fruit
+	- popped chorus fruit
 	- cactus
 	- pumpkin
 	- carved pumpkin
@@ -647,9 +654,19 @@
 	- magma cream
 	- name tag
 	- nautilus shell
-	- 
+	- paper
+	- phantom membrane
+	- rabbit hide
+	- rabbit's foot
 	- rotten flesh
+	- shulker shell
+	- slimeball
+	- spectral arrow
 	- spider eye
+	- stick
+	- string
+	- sugar
+	- 
 - Decorations
 	- Campfire
 		- soul
@@ -695,6 +712,7 @@
 	- item frame
 	- glow item frame
 	- ladder
+	- painting
 - Redstone
 	- Block
 	- redstone
