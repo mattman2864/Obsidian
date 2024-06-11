@@ -319,6 +319,8 @@
 	- red sand
 	- rooted dirt
 	- sand
+	- terracotta
+	- glazed terracotta
 - Nether
 	- Basalt
 		- Polished
@@ -374,9 +376,7 @@
 			- nylium
 - Special Building Blocks\
 	- Glass
-		- Colors Stained
-		- Panes Colors Stained
-		- Tinted
+	- Tinted
 	- Sponge
 	- wet sponge
 	- Prismarine
@@ -445,9 +445,13 @@
 		- raw block
 - Colored Blocks
 	- concrete
+	- concrete powder
 	- dyes
-	- 
+	- glass
+		- Colors Stained
+		- Panes Colors Stained
 	- wool
+	- carpet
 - Greenery/Nature
 	- Coral
 		- brain
@@ -491,8 +495,9 @@
 		- blue ice
 		- snow
 		- snow block
-	- dried kelp block
 	- kelp
+	- dried kelp block
+	- dried kelp
 	- seagrass
 	- sea pickle
 	- skulk
@@ -556,18 +561,57 @@
 	- pumpkin
 	- carved pumpkin
 	- jack o lantern
+	- pumpkin seeds
 	- hay bale
 	- melon
 	- melon slice
+	- melon seeds
 	- sugar cane
 	- apple
 	- golden apple
 	- potato
 	- baked potato
-	- sweet bet
-- Mob Drops
+	- poisonous potato
+	- sweet berry
+	- glow berry
+	- chorus fruit
+	- carrot
+	- golden carrot
+	- beetroot
+	- beetroot seeds
+	- raw beef
+	- steak
+	- raw porkshop
+	- cooked porkchop
+	- raw mutton
+	- cooked mutton
+	- raw chicken
+	- cooked chicken
+	- raw rabbit
+	- cooked rabbit
+	- raw cod
+	- cooked cod
+	- raw salmon
+	- cooked salmon
+	- pufferfish
+	- clownfish
+	- bread
+	- cookie
+	- pumpkin pie
+	- 
+- Mob Drops/Ingredients
 	- armadillo scute
 	- arrow
+	- rotten flesh
+	- spider eye
+	- bone block
+	- bone
+	- bone meal
+	- string
+	- blaze rod
+	- blaze powder
+	- book
+	- bowl
 - Decorations
 	- Campfire
 		- soul
@@ -607,6 +651,8 @@
 	- flower pot
 	- lodestone
 	- armor stand
+	- bookshelf
+	- chiseled bookshelf
 - Redstone
 	- Block
 	- redstone
