@@ -302,6 +302,18 @@
 	- calcite
 	- gravel
 	- tuff
+		- stair
+		- slab
+		- chiseled
+		- bricks
+			- stair
+			- slab
+			- wall
+			- chiseled
+		- polished
+			- stair
+			- slab
+			- wall
 - Mud, Clay, Dirt and Sand
 	- Bricks
 		- stairs
@@ -654,6 +666,7 @@
 	- glowstone dust
 	- glass bottle
 	- gunpowder
+	- heavy core
 	- lead
 	- leather
 	- magma cream
