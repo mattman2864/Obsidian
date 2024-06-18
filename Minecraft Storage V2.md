@@ -624,14 +624,14 @@
 - Mob Drops/Ingredients/Utility Items
 	- armadillo scute
 	- arrow
+	- blaze rod
+	- blaze powder
 	- bone block
 	- bone
 	- bone meal
-	- string
-	- blaze rod
-	- blaze powder
 	- book
 	- bowl
+	- breeze rod
 	- bucket
 	- charcoal
 	- clock
@@ -659,6 +659,7 @@
 	- magma cream
 	- name tag
 	- nautilus shell
+	- ominous trial key
 	- paper
 	- phantom membrane
 	- rabbit hide
@@ -673,6 +674,8 @@
 	- stick
 	- string
 	- sugar
+	- trial key
+	- wind charge
 - Decorations
 	- Campfire
 		- soul
@@ -730,6 +733,7 @@
 	- observer
 	- torch
 	- redstone lamp
+	- copper bulb
 	- target
 	- tripwire hook
 	- dispenser
@@ -752,4 +756,5 @@
 	- light weighted pressure plate
 	- heavy weighted pressure plate
 	- lightning rod
+	- crafter
 - Misc.
