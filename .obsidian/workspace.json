@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06b395b676346329",
+        "id": "8ee87b5f0a9295e1",
         "type": "tabs",
         "children": [
           {
-            "id": "43340071290493ae",
+            "id": "72ff878dabe374ea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.51103591918945,
-    "collapsed": true
+    "width": 298.51103591918945
   },
   "right": {
     "id": "410f3284be50c4f3",
@@ -240,7 +237,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "43340071290493ae",
+  "active": "72ff878dabe374ea",
   "lastOpenFiles": [
     "Untitled.md",
     "Minecraft Storage V2.md",
