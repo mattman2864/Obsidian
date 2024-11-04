@@ -16,21 +16,8 @@
                 "currentVersion": "1.6.7"
               }
             }
-          },
-          {
-            "id": "b6868a1e0866826d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +84,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -132,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,7 +191,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +240,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3acace2d89f5639a",
+  "active": "43340071290493ae",
   "lastOpenFiles": [
     "Untitled.md",
     "Minecraft Storage V2.md",
