@@ -1,7 +1,7 @@
 # Terraspark Boots
 - [x] Spectre Boots
-- [ ] Anklet of the Wind
-- [ ] Aglet
+- [x] Anklet of the Wind
+- [x] Aglet
 - [ ] Lava Charm
 - [x] Obsidian Skull
 - [ ] Obsidian Rose
