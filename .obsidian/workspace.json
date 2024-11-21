@@ -11,14 +11,12 @@
             "id": "2b66f317fdc91366",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Game Drafting Ideas.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Game Drafting Ideas"
+              "title": "Release Notes 1.7.7"
             }
           }
         ]
@@ -93,7 +91,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Game Drafting Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -121,7 +118,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Game Drafting Ideas"
+              "title": "Graph view"
             }
           },
           {
@@ -130,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game Drafting Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +136,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Game Drafting Ideas"
+              "title": "Backlinks"
             }
           },
           {
@@ -149,12 +145,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Game Drafting Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Game Drafting Ideas"
+              "title": "Outgoing links"
             }
           },
           {
@@ -189,11 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Game Drafting Ideas.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Game Drafting Ideas"
+              "title": "Outline"
             }
           },
           {
@@ -219,7 +212,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Game Drafting Ideas.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Game Drafting Ideas"
+              "title": "Graph view"
             }
           }
         ]
