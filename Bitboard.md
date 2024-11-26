@@ -39,7 +39,7 @@ The function FirstBit gives the index of the first bit that is turned on from th
 FirstBit(Number) is equal to 4 which is the number of the index from zero) of the digit in the Number from the LSB side.
 The function LastBit gives the index of the first bit that is turned on from the MSB side. So, continuing the above example:
 LastBit(Number) is equal to 45 which is the number of the index (from zero) of the digit in the Number from the LSB side.
-# [[C]] code representation
+# [[C]] Code Representation
 Simple C89-ish code to define a bitboard can look like this if your compiler and architecture supports the unsigned long long extension at 8 bytes width:
 ```c
 typedef unsigned long long Bitboard;
