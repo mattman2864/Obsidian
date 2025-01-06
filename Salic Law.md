@@ -1,2 +1,0 @@
-#APEuro #WorldHistory 
-The Salic Law was the ancient [[Franks|Frankish]] civil law code compiled around 500 AD by the first Frankish King, [[Clovis]]. The most famous tenant of the law is the exclusion of inheritance of thrones, fiefs, and other property.

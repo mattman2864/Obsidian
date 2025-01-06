@@ -1,2 +1,0 @@
-#APUSH 
-Loyalists were the group of colonists in the [[Thirteen Colonies]] who remained loyal to the [[Britain|British]]. They were usually very wealthy and were primarily located in the South. When the [[American Revolution]] broke out, many fled the country to places like [[Canada]] and [[Britain]].

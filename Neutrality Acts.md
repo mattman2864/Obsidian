@@ -1,2 +1,0 @@
-#APUSH 
-The Neutrality Acts were passed by [[Congress]] to try to keep the [[United States]] out of war by making it illegal for Americans to sell or transport arms or other war materials to belligerent nations.

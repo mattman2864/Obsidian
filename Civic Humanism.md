@@ -1,2 +1,0 @@
-#APEuro 
-Civic Humanism, also called **Classical Republicanism**, is a form of [[Republicanism]] developed in the [[Renaissance]] by [[Niccolò Machiavelli]]. It looked to classical models of government and society, emphasized citizenship, and was [[Secularism|secular]].

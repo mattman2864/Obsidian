@@ -1,2 +1,0 @@
-#APUSH 
-Fallout shelters were one-room affairs accessible at the basement level within the house, while others were stand-alone cellar-type structures near the house. They typically had basic survival necessities but no bathrooms.

@@ -1,2 +1,0 @@
-#APUSH
-The Battles of Saratoga are a series of military conflict between the [[Continental Army]] and [[Britain]] along the strategically important Hudson River. They are often considered the turning point in the [[American Revolution]].

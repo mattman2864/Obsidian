@@ -1,2 +1,0 @@
-#APUSH
-Sharecropping was a system in the southern [[United States]] which white landowners would give their workers (usually former slaves) small plots of land and basic equipment to farm, and then would receive a majority of the profits. This is a continuation of the exploitative system of slavery known as **neoslavery**, as laws existed which prevented the workers from quitting or else they would be sent to prison.

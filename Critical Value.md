@@ -1,2 +1,0 @@
-#Statistics #Math 
-The critical value is the confidence level of a [[Point Estimate]]. The process for finding the critical value depends on the statistical process taking place, and can be represented by $t$, $z$, $f$, or $\chi^2$.

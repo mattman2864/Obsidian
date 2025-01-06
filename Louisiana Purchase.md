@@ -1,4 +1,0 @@
-#APUSH 
-In may 1801, [[Spain]] secretly ceded the [[Louisiana]] territory to [[France]]. [[Thomas Jefferson]] sent two ambassadors to France to offer to buy [[New Orleans]] for $10 million, but [[Napoleon]], in need of money from the [[Napoleonic Wars]], offered the entire Louisiana territory for $15 million dollars. The ambassadors were surprised at such an offer, and immediately accepted. The purchase was very popular in the United States amongst all people.
-## Consequences
-The Louisiana Purchase more than doubled the size of the U.S. and removed a European presence from the nation's borders. Jefferson emphasized eliminating all European control over [[North America]]. The mass amounts of new land also made Jefferson hopeful that the United States would become an agrarian society run by independent farmers rather than the urban industrialized society that [[Alexander Hamilton]] envisioned.

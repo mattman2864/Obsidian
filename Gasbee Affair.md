@@ -1,2 +1,0 @@
-#APUSH 
-The *Gasbee* was a [[Britain|British]] warship commissioned to capture vessels carrying smuggled goods before they reached the colonies. The *Gasbee* ran aground on the shores of [[Rhode Island]]. The [[Sons and Daughters of Liberty|Sons of Liberty]] set fire to the boat, and event celebrated throughout costal colonial towns as a victory for the tax-burdened consumer.

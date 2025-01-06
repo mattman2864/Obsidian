@@ -1,2 +1,0 @@
-#APUSH 
-The conservation movement aims to protect natural resources such as animals and landscapes from development and exploitation. This was prominent during the [[Gilded Age]] in the [[Great Plains]] region of the [[United States]].

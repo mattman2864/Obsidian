@@ -1,2 +1,0 @@
-#APUSH 
-The Quebec Act was a 1774 act of [[British Parliament]] which allowed the former [[France|French]] region to expand its borders, taking away potential lands from colonists in the [[Ohio Valley]]. Even more offensive to the largely [[Protestantism|Protestant]] colonists, it also allowed [[Quebec]] citizens to practice [[Catholic Church|Catholicism]] freely.

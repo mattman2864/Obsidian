@@ -1,2 +1,0 @@
-#APEuro #WorldHistory 
-The Kingdom of Aragon was a [[Medieval Europe|Medieval]] and early modern kingdom on the [[Iberian Peninsula]], corresponding to the modern-day autonomous community of [[Aragon]], in [[Spain]]. It should not be confused with the larger [[Crown of Aragon]], which also included other territories.

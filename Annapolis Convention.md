@@ -1,2 +1,0 @@
-#APUSH
-The Annapolis Convention was a meeting held in [[Annapolis]], [[Maryland]] with the goal of discussing amending or changing the [[Articles of Confederation]]. It was largely a failure, as most states did not attend or showed up too late. It was decided by the delegates to meet later in [[Philadelphia]].

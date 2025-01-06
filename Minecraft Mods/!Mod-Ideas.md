@@ -1,0 +1,4 @@
+- [[Tweaks Mod]] (Name WIP)
+	- Adds small tweaks to the game based on community suggestions.
+- [[Enderite]]
+	- Adds a new ore to the end. The armor  and tools are the same as diamond except for a few differences, similar to netherite.

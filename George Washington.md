@@ -1,3 +1,0 @@
-#APUSH 
-A land surveyor from Virginia, he led colonial militia as an officer in the [[French and Indian War]]. he was chosen to lead the [[Continental Army]] during the [[American Revolution]], as he was one of very few colonists with military experience. He was a key figures in battles such as [[Valley Forge]] and [[Yorktown]]. Later presided over the [[Continental Congress]]. Among many other acts, he established the informal two-term limit for presidents by declining to run for [[1796 Election|reelection in 1796]]. See: [[Washington's Farewell Address]].
-![George Washington|300](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/220px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg)

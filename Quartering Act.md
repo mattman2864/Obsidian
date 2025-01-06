@@ -1,2 +1,0 @@
-#APUSH 
-The Quartering Act was a 1765 act of [[British Parliament]] that required colonial citizens to provide room and board for [[Britain|British]] soldiers stationed in the [[Thirteen Colonies]]. Wildly unpopular, this practice was later banned by the [[3rd Amendment]] to the [[Constitution]].

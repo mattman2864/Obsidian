@@ -1,2 +1,0 @@
-#APEuro 
-*The Prince* is a political treatise written by diplomat and political theorist [[Niccolò Machiavelli]] which, in summary, claims that the aims of princes - glory and survival - can justify the use of immoral means to achieve those ends.

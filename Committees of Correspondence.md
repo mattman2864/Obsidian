@@ -1,2 +1,0 @@
-#APUSH
-The Committees of Correspondence were a group of committees stationed throughout the [[Thirteen Colonies]] who served as a kind of shadow government in the runup to the [[American Revolution]]. It was a means by which Patriots could circulate letters of protest against [[Britain|British]] policies and was vital in organizing the [[Continental Congress]].

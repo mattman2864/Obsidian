@@ -1,2 +1,0 @@
-#APUSH 
-Popular Sovereignty was the idea that new states and territories would get the opportunity to vote on whether slavery would be allowed in the state. This resulted in an influx in population to new states in order to vote on the issue.

@@ -1,6 +1,0 @@
-#WorldHistory 
-An astrolabe is an astronomical instrument dating back to ancient times. It serves as a star chart and physical model of visible heavenly bodies. Its various functions also make it an elaborate [[Inclinometer]] and an analog calculation device capable of working out several kinds of problems in astronomy. In its simplest form it is a metal disc with a pattern of wires, cutouts, and perforations that allows a user to calculate astronomical positions precisely. Historically used by astronomers, it is able to measure the altitude above the horizon of a celestial body, day or night; it can be used to identify stars or planets, to determine local latitude given local time (and vice versa), to survey, or to triangulate. It was used in the [[Classical Age]], the [[Islamic Golden Age]], the [[Medieval Europe|European Middle Ages]] and the [[Age of Exploration]] for all these purposes.
-
-The astrolabe is effective for determining latitude on land or calm seas. Although it is less reliable on the heaving deck of a ship in rough seas, the mariner's astrolabe was developed to solve that problem.
-
-![[Iranian_Astrolabe_14.jpg]]

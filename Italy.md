@@ -1,2 +1,0 @@
-#APEuro 
-Italy is a country in Southern [[Europe]]. It is a peninsula surrounded by the [[Mediterranean Sea]], and borders [[France]], [[Switzerland]], [[Austria]], and [[Slovenia]] to the north. Historically, it was at the center of the [[Roman Empire]] and was then split up into many different [[City-State]]s, until being unified in 1681 by the *Risorgimento* which was led by [[Giuseppe Garibaldi]].

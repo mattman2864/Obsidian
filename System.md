@@ -1,2 +1,0 @@
-#Physics 
-A system is a collection of [[Physics|physical]] objects, often abstracted as necessary to solve the problem. The internal structure of an object may or may not be necessary depending on the nature of the problem.

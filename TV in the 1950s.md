@@ -1,2 +1,0 @@
-#APUSH 
-Movie attendance and book sales dropped off dramatically. Radio, which had been [[United States|America]]'s favorite form of at-home entertainment, declined in importance in the 1950s. Variety, comedy, and dramatic shows left the airwaves for TV.

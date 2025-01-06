@@ -1,2 +1,0 @@
-#APUSH
-Plessy v Ferguson was a [[United States]] [[Supreme Court]] case in which it was decided that separate-but-"equal" facilities for [[African American]]s was constitutional, and resulted in upholding racial segregation for 100 years until the [[Civil Rights Movement]].

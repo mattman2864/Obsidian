@@ -1,8 +1,0 @@
-#APEuro #WorldHistory 
-Monarchy is a form of government in which a person, the monarch, is head of state until death or abdication. The political legitimacy and authority of a monarch can range from restricted and largely symbolic to fully autocratic.
-
-The succession of monarchs in many cases has been hereditary, often building [[Dynastic Cycle|dynastic periods]]. [[Aristocrats]], though not inherent to monarchies, often serve as the pool of persons to draw the monarch from and fill the constituting institutions (e.g. [[Diet]] and [[Parliament]]), giving many monarchies [[Oligarchy|oligarchic]] elements.
-
-Monarchs can carry various titles such as emperor, empress, king and queen. Monarchies can form federations, personal unions, and realms with vassals through personal association with the monarch, which is a common reason for monarchs carrying several titles.
-
-Monarchies were the most common form of government until the 20th century, by which time [[Republic]]s had replaced many monarchies. Today forty-three sovereign nations in the world have a monarch, including fifteen [[Commonwealth]] realms that share [[King Charles III]] as their head of state. Other than that, there is a range of sub-national monarchical entities. Most of the modern monarchies tend to be [[Constitutional Monarchy]], retaining under a constitution unique legal and ceremonial roles for the monarch, exercising limited or no political power, similar to heads of state in a parliamentary republic.

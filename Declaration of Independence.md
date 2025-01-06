@@ -1,2 +1,0 @@
-#APUSH 
-The Declaration of Independence is the founding document of the [[United States]]. It was ratified on July 4, 1776. The declaration announced to the world why the [[Thirteen Colonies]] regarded themselves as independent sovereign states no longer subject to [[Britain|British]] colonial rule.

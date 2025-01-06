@@ -1,2 +1,0 @@
-#APUSH 
-The National Road was the first major improved highway in the [[United States]] built by the federal government. It connected the [[Potomac River]] and the [[Ohio River]] and was a major transport for settlers moving out west.

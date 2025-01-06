@@ -1,2 +1,0 @@
-#APUSH
-The Homestead offered non-[[Confederacy|confederate]] Americans 160 acres of land out west, as a way to motivate development in the western states. This worked well, and promoted a significant amount of growth on the frontier.

@@ -1,2 +1,0 @@
-#APUSH 
-Due to home loans, the [[Baby Boom]], and low housing prices, [[United States|American]] families started to move into suburbs in the 1950. The first modern American suburb was Levittown in [[Long Island]], [[New York]]. It featured swimming pools, shopping centers, and backyards.

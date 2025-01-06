@@ -1,2 +1,0 @@
-#APUSH
-The Irish immigrants into the [[United States]] in the mid 19th century were primarily due to the [[Potato Famine]] that was occurring in [[Ireland]] at the time. Unskilled workers were used in factories and in building the [[American railroads]].

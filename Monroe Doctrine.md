@@ -1,2 +1,0 @@
-#APUSH 
-The Monroe Doctrine was a message to [[Congress]] by [[James Monroe]] that asserted that the [[United States]] would not interfere with [[Europe|European]] affairs, and that the Western hemisphere was closed off to further colonization by Europeans. It also stated that the United States would not interfere with other colonial powers in the Americas. It is referred to as America's self-defense doctrine. 

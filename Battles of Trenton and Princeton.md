@@ -1,2 +1,0 @@
-#APUSH
-The battles of Trenton and Princeton (1776-77) were a series of conflict won by the [[Continental Army]] against [[Hessian]] and [[Britain|British]] forces in [[New Jersey]]. They were the first conflicts won by [[George Washington]] against British forces in the [[American Revolution]].

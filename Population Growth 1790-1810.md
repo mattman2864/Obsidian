@@ -1,2 +1,0 @@
-#APUSH 
-The population during the turn of the 19th century and [[Jeffersonian Republic|Jefferson's Presidency]] grew substantially due to natural reproduction due to a better food supply. The population would double every 25 years. Most of the population was 16 years or younger. Optimism was high. Regional identification was formed.

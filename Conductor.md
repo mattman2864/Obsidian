@@ -1,4 +1,0 @@
-#Physics
-Conductors are made of [[Atoms]] whose outer, or valence, [[Electrons]] have relatively weak bonds to their [[Nuclei|Nucleus]], as shows in this fanciful image of a copper atom are together, they gladly share their outer electrons with each other, creating a "swarm" of electrons not associated with a particular nucleus. A very small electric [[Force]] can make the electron swarm move. Copper, gold, silver, and aluminum are good conductors. So is saltwater.
-
-There are also poor conductors, Tungsten-a metal used for light bulb filaments-and carbon-in diamond form-are relatively poor conductors because their electrons are less prone to move.

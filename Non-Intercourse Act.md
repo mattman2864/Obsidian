@@ -1,2 +1,0 @@
-#APUSH 
-The Non-Intercourse Act replaced the [[Embargo Act]] in the last sixteen days of [[Thomas Jefferson]]'s presidency. It lifted all embargoes on american shipping except for those on [[Britain]] and [[France]]. It remained U.S. policy until 1812.

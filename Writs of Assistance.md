@@ -1,2 +1,0 @@
-#APUSH 
-The writs of assistance, authorized under then [[Townshend Act]], allowed customs officials to serch colonial homes, businesses, and warehouses for smuggled goods without warrant from a judge. It led to the [[Massachusetts Circular Letter]].

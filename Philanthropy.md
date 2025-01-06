@@ -1,1 +1,0 @@
-Philanthropy is when a wealthy or powerful party gives to a the less wealthy in some way as a form of charity.

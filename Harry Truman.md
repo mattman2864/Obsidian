@@ -1,2 +1,0 @@
-#APUSH 
-Harry Truman was the 33rd president of the [[United States]]. He rose to power after [[Franklin Roosevelt]] died on April 12, 1945. He was selected as FDR's VP for his 4th term, and he served only a few months before FDR's death.

@@ -1,2 +1,0 @@
-#APUSH 
-The Treaty of Paris was the treaty which ended the [[French and Indian War]]. [[Britain]] took control of [[France|French]] [[Canada]] and [[Spain|Spanish]] [[Florida]], effectively removing France's presence from North America.

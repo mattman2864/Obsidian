@@ -1,3 +1,0 @@
-#APUSH 
-John Dickinson was one of the [[Founding Fathers]] from [[Pennsylvania]]. He wrote a series of essays called "Letters from a Farmer in Pennsylvania," which rekindled interest in the issue of taxation without representation during the [[Townshend Act]]. He oversaw the drafting of the [[Articles of Confederation]].
-![John Dickinson|300](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/John_Dickinson_portrait.jpg/220px-John_Dickinson_portrait.jpg)

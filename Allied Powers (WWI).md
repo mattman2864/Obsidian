@@ -1,2 +1,0 @@
-#APUSH #APEuro 
-The Allied Powers in [[World War I]] consisted of the [[United States]], [[France]], [[Britain|UK]], [[Belgium]], [[Serbia]], [[Italy]], and more. The Allied powers ended up winning the war. The alliance was formed based on many complex treaties between different countries, mostly formed before the war began.

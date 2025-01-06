@@ -1,2 +1,0 @@
-#APUSH 
-The Gilded Age is a period in [[United States|American]] History which is characterized by rapid economic expansion and industrialization, largely fronted by monopolies and unregulated markets.

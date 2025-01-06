@@ -1,2 +1,0 @@
-#Physics 
-The normal force is the [[Force]] of a surface pushing back on an object. For example, an object with a weight of $F_g$ at rest on a horizontal surface would have a normal force of $F_N=F_g$.

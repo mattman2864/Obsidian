@@ -1,2 +1,0 @@
-#APEuro #APUSH 
-The Treaty of Versailles was the treaty that ended [[World War I]] and created the League of Nations. It also severely harmed [[Germany]], contributing eventually to the rise of the [[Nazi Party]] and [[World War II]].

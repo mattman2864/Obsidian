@@ -1,2 +1,0 @@
-#APUSH 
-The Wilmot Provisio was a suggested solution to the slavery issue, but was rejected multiple times. It proposed to ban slavery in the newly acquired territory from the [[Mexican-American War]].

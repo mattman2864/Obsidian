@@ -1,2 +1,0 @@
-#APUSH 
-The Treaty of Tordesillas divided the newly discovered lands outside [[Europe]] between the [[Portugal|Portuguese]] and the [[Spain|Spanish]], along a meridian 370 leagues west of the [[Cape Verde]] islands, off the west coast of [[Africa]]. That line of demarcation was about halfway between the Cape Verde islands and the islands visited by [[Christopher Columbus]] on his first voyage (claimed for [[Castile]] and [[León]]), named in the treaty as Cipangu and Antillia ([[Cuba]] and [[Hispaniola]]).

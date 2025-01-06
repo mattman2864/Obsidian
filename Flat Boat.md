@@ -1,2 +1,0 @@
-#APUSH 
-Flat Boats were a early type of shipping boat that consisted of a large flat surface that was powered by paddles. It could only go downstream, however, and was much slower and more expensive, making it generally inferior to [[Steamboat]]s.
