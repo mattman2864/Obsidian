@@ -9,3 +9,4 @@ Can be implemented through vanilla shaders as seen in [this video](https://www.y
 ## No Hitting Your Pets
 Credit: [u/Ididnoteatanyfrogs](https://www.reddit.com/u/Ididnoteatanyfrogs)
 Can't hit your own pets, but can hit others pets.
+## 
